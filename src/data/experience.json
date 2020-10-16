@@ -1,0 +1,57 @@
+
+   {
+    "experience" : [
+        {
+            
+            "year": "February 2019 - present (Front End)",
+            "companyName" : "TigerIT Bangladesh Ltd.",
+            "role1": "Produced stunning visual elements of web applications by translating into code",
+            "role2": "building, testing, maintaining and supporting large applications",
+            "role3": "Documented work and communicate issues when they arise"
+               
+
+        },
+        {
+            
+            "year": "April 2018 - December 2018 (Front End)",
+            "companyName" : "Antooba Corp.",
+            "role1": "HTML, CSS coding of front-end interfaces - including cross-browser support and unit testing to ensure quality work.",
+            "role2": "Develops and maintains custom CSS frameworks.",
+            "role3": " Front end development and testing"
+               
+
+        },
+        {
+            
+            "year": "May 2018 - December 2018 (Front End)",
+            "companyName" : "Fiverr",
+            "role1": "Hand coding HTML5 and CSS3 also Test code across platforms and browsers",
+            "role2": "Responsive Design on to develop user interface on web and mobile",
+            "role3": "Slicing and enhancing of PSD files, creating pixel -perfect renderings."
+               
+
+        },
+        
+        {
+            
+            "year": "January 2017 - March 2017 (Front End)",
+            "companyName" : "Netizen(Project Based)",
+            "role1": "Developed an HTML5 cross-browser compatible  framework for courses to run on mobile and modern browsers",
+            "role2": "Design School Managment System from PSDs to code.",
+            "role3": "Main point of contact for all front-end design related issues.."
+               
+
+        },
+        {
+            
+            "year": "May 2017 - December 2017 (Front End)",
+            "companyName" : "Slasstec It",
+            "role1": "Write front end code in HTML/CSS and JavaScript for company webpage and cobrand sites",
+            "role2": "Test code across platforms and browsers",
+            "role3": "Documented work and communicate issues when they arise"
+               
+
+        }
+    ]
+}
+

@@ -1,0 +1,40 @@
+
+   {
+    "profile" : [
+        {
+            
+            "name": "Radwan Ahmed",
+            "aboutTitle" : "ABOUT ME",
+            "aboutSubTitle" : "A Front-End Developer & Designer Based in Bangladesh",
+            "aboutDescription": "services for customers of all sizes, specializing in creating stylish, modern websites, web services and online stores. My passion is to design digital user experiences through the bold interface and meaningful interactions.",
+            "birthDay":"12th December 1996",
+            "age":"24 Yr",
+            "Residence":"Bangldesh",
+            "Address":"Nikunjo,Dhaka",
+            "Email":"ahmedradwan052@gmail.com",
+            "Phone":"+880 18738-43384",
+            "Skype":"Radwan Anik",
+            "Freelance":"Available"
+
+        }
+    ],
+    "count" : [
+        {
+            "Title": "Happy Clients",
+            "count": "20"
+        },
+        {
+            "Title": "Project Completed",
+            "count": "30"
+        },
+        {
+            "Title": "Tea/Coffee Cup",
+            "count": "1020"
+        },
+        {
+            "Title": "Line of Code",
+            "count": "10000"
+        }
+    ]
+}
+
