@@ -1,0 +1,165 @@
+{
+    "Web": [
+      {
+        "type": "featured",
+        "name": "Foodly",
+        "image": "../image/client1.png",
+        "description":
+          "Foodly– is a modern, unique as well as a responsive template.This template is absolute for farms, farmers, food retail, food company, organic food, seed healthy juice, fruits, etc.",
+        "demo": "https://radwan503.github.io/Foodly-One-Stop-Food/",
+        "source": "https://github.com/radwan503/Foodly-One-Stop-Food",
+        "tools1": "HTML",
+        "tools2": "CSS",
+        "tools3": "Bootstrap"
+      },
+      {
+        "type": "featured",
+        "name": "Quizfy",
+        "image": "",
+        "description":
+          "Quizfy is an Education & Quiz Template designed specifically for Online courses, University, College, School, Training Center  or any kind of educational institution.",
+        "demo": "https://radwan503.github.io/Quizfy-Education-HTML-Template/",
+        "source": "https://github.com/radwan503/Quizfy-Education-HTML-Template",
+        "tools1": "HTML",
+        "tools2": "CSS",
+        "tools3": "JavaScript"
+      },
+      {
+        "type": "featured",
+        "name": "Tecno",
+        "image": "",
+        "description":
+          "Tecno is a trendy, minimalistic and creative for digital agency, creative agency, showcases, resumes, etc. Ultra Modern & Minimalistic Design, Modern technologies.",
+        "demo": "https://radwan503.github.io/Tecno---Creative-Digital-Agency/",
+        "source": "https://github.com/radwan503/Tecno---Creative-Digital-Agency",
+        "tools1": "HTML",
+        "tools2": "CSS",
+        "tools3": "JavaScript"
+      },
+      {
+        "type": "featured",
+        "name": "Jobsfinder",
+        "image": "",
+        "description":
+          "Jobfinder has a bunch of fantastic features and traits that will benefit you greatly. From a full-screen parallax banner with the search option, sticky navigation and multi-level drop-down menu.",
+        "demo": "https://radwan503.github.io/Free-Job-Site-Career-Advice-Hiring-Resources/",
+        "source": "https://github.com/radwan503/Free-Job-Site-Career-Advice-Hiring-Resources",
+        "tools1": "HTML",
+        "tools2": "CSS",
+        "tools3": "JavaScript"
+      },
+      {
+        "type": "featured",
+        "name": "Fouesquare",
+        "image": "",
+        "description":
+          "Fouesquare is a Digital Agency template that has been specifically designed for making modern websites. You can use it for building any kind of agency, digital agency, startup agency.",
+        "demo": "https://radwan503.github.io/Fouesquare-HTML-Agency-Landing-Page-Template/",
+        "source": "https://github.com/radwan503/Fouesquare-HTML-Agency-Landing-Page-Template",
+        "tools1": "HTML",
+        "tools2": "CSS",
+        "tools3": "JavaScript"
+      },
+      {
+        "type": "featured",
+        "name": "Forum",
+        "image": "",
+        "description":
+          "Welcome to the Ask forum – Design Help Desk, Support, Forum, Knowledge-Base Responsive Site Template.Excellent colors selection, consistency, clear typography and usability.",
+        "demo": "https://radwan503.github.io/Ask-Online-HTML-Forum-Template/",
+        "source": "https://github.com/radwan503/Ask-Online-HTML-Forum-Template",
+        "tools1": "HTML",
+        "tools2": "CSS",
+        "tools3": "JavaScript"
+      },
+      {
+        "type": "featured",
+        "name": "HomeRetail",
+        "image": "",
+        "description":
+          "HomeRetail is a stylish, modern & fresh Carpet Cleaning Company HTML Template. It is designed for carpet cleaning, home cleaning services, maid service agency, other cleaning, repairing and maintenance service companies.",
+        "demo": "https://radwan503.github.io/HomeRetail-Cleaning-Company-HTML-Template/index.html",
+        "source": "https://github.com/radwan503/HomeRetail-Cleaning-Company-HTML-Template",
+        "tools1": "HTML",
+        "tools2": "CSS",
+        "tools3": "JavaScript"
+      },
+      {
+        "type": "featured",
+        "name": "Coaching",
+        "image": "",
+        "description":
+          "Coaching-Learning-Managment-Template is a multi-purpose, high quality eLearning template LMS (Learning management system) for teachers, instructors, education center, schools, universities to create and manage your own online course website.",
+        "demo": "https://radwan503.github.io/Coaching-Learning-Managment-Template/",
+        "source": "https://github.com/radwan503/Coaching-Learning-Managment-Template",
+        "tools1": "HTML",
+        "tools2": "CSS",
+        "tools3": "JavaScript"
+      },
+      {
+        "type": "featured",
+        "name": "Brixton",
+        "image": "",
+        "description":
+          "Template for perfect for writers who need to create personal blog site with simple creative features and effects to make readers feel the pleasure of reading blog posts and articles, Writing personal blog template",
+        "demo": "https://radwan503.github.io/Brixton---Blog-Template/",
+        "source": "https://github.com/radwan503/Brixton---Blog-Template",
+        "tools1": "HTML",
+        "tools2": "SASS",
+        "tools3": "JavaScript"
+      },
+      {
+        "type": "featured",
+        "name": "Fitness",
+        "image": "",
+        "description":
+          "Materialize-Fitness-Template is our new, modern HTML template, designed specifically for sport websites, gyms, yoga studios, fitness and crossfit clubs.It has the purpose oriented design",
+        "demo": "https://radwan503.github.io/Materialize-Fitness-Template/",
+        "source": "https://github.com/radwan503/Materialize-Fitness-Template",
+        "tools1": "HTML",
+        "tools2": "Materialize",
+        "tools3": "JavaScript"
+        
+      },
+      {
+        "type": "featured",
+        "name": "Factorian",
+        "image": "",
+        "description":
+          "You can use the Template to build powerful websites for Factory,industrial, manufacturing, construction, Auto Repair, Agency & Transport company. It has clean and fully responsive design.",
+        "demo": "https://radwan503.github.io/factorian/",
+        "source": "https://github.com/radwan503/factorian",
+        "tools1": "HTML",
+        "tools2": "CSS",
+        "tools3": "JavaScript"
+        
+      }
+    ],
+    "Others": [
+      {
+        "type": "featured",
+        "name": "JsClock",
+        "image": "",
+        "description":
+          "Create Simple Background Change Clock.That Means Every second background change when clock time change.",
+        "demo": "https://radwan503.github.io/jsclock/",
+        "source": "https://github.com/radwan503/jsclock",
+        "tools1": "HTML",
+        "tools2": "CSS",
+        "tools3": "JavaScript"
+      },
+      {
+        "type": "featured",
+        "name": "Password Generator",
+        "image": "",
+        "description":
+          "Here user create their password easily. I create this website see the tutorial.",
+        "demo": "https://radwan503.github.io/password_generator/",
+        "source": "https://github.com/radwan503/password_generator",
+        "tools1": "HTML",
+        "tools2": "CSS",
+        "tools3": "JavaScript"
+      }
+      
+    ]
+  }

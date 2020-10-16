@@ -3,7 +3,7 @@ import Social from './element/Social';
 
 export default function Hero() {
     return (
-        <section className="hero-banner">
+        <section className="hero-banner" id="hero">
             <div className="container">
                 <div className="hero-body">
                     <div className="social title float-left">
@@ -23,7 +23,7 @@ export default function Hero() {
                             </ul>
                         </div>
                         <div className="resume">
-                            <a type="button" className="btn btn-lg btn-green text-white">Get Resume</a>
+                            <a href="https://radwan503.github.io/RadwanAhmed.me/image/cv/Radwan%20Ahmed_CV%20.pdf" target="_blank" type="file" className="btn btn-lg btn-green text-white">Get Resume</a>
                         </div>
 
                     </div>

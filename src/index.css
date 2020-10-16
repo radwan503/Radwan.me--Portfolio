@@ -8,7 +8,25 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+/* width */
+::-webkit-scrollbar {
+  width: 0px;
+}
 
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
 a,
 .button {
   -webkit-transition: all 0.3s ease-out 0s;
@@ -75,7 +93,9 @@ hr {
   margin: 30px 0;
   padding: 0;
 }
-
+.bg-blue{
+  background-color: #1d293a;
+}
 *::-moz-selection {
   background: #d6b161;
   color: #fff;
@@ -395,8 +415,6 @@ hr {
 
 .blockquote p {
   font-size: 1.1rem;
-
-
 }
 
 .experince-card ul li {
@@ -416,4 +434,64 @@ hr {
 }
 .progress-header .card-title{
   color: #00cf5d;
+}
+
+.skill .nav-pills .nav-link.active, .nav-pills .show>.nav-link, 
+.portfolio .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+  color: #ffffff;
+  background-color: #00cf5d;
+}
+.skill .nav-pills .nav-link,
+.portfolio .nav-pills .nav-link{
+  border-radius: .25rem;
+  border: 1px solid #00cf5d;
+  color: #ffffff;
+  margin-right: 15px;
+}
+.skill .nav-link,
+.portfolio .nav-link{
+  display: block;
+  padding: 0.6rem 1rem;
+}
+.portfolio-details .links {
+  margin: 3px -36px;
+}
+.portfolio-details .links ul li {
+  display: inline;
+  margin-right: 15px;
+}
+.tool-list {
+  margin: 3px -36px;
+}
+.tool-list ul li {
+  display: inline;
+  list-style: circle;
+  margin-right: 15px;
+}
+.portfolio-details .card-title{
+    color:#00cf5d ;
+}
+.contact-status {
+  margin: 0px -38px;
+}
+.contact-status h5{
+  font-size: 25px;
+  color: #fff;
+  font-weight: 600;
+}
+.contact-status ul li{
+  list-style: none;
+  display: block;
+}
+.footer {
+  padding: 30px 0;
+  background-color: #212F3D;
+}
+.footer-text {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-text ul li{
+  list-style: none;
+  display: block;
 }
