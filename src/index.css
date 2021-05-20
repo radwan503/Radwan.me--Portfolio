@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Pirata+One|Rubik:900');
+
 body {
   color: #fff;
   background-color: #111a28;
@@ -8,6 +9,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 /* width */
 ::-webkit-scrollbar {
   width: 0px;
@@ -27,6 +29,11 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
 }
+
+.navbar-toggler {
+  background-color: #00cf5d !important;
+}
+
 a,
 .button {
   -webkit-transition: all 0.3s ease-out 0s;
@@ -93,9 +100,11 @@ hr {
   margin: 30px 0;
   padding: 0;
 }
-.bg-blue{
+
+.bg-blue {
   background-color: #1d293a;
 }
+
 *::-moz-selection {
   background: #d6b161;
   color: #fff;
@@ -399,10 +408,12 @@ hr {
   padding: 0;
   color: currentColor;
 }
-.experince-card{
+
+.experince-card {
   margin-top: 50px;
 }
-.bg-darkblue{
+
+.bg-darkblue {
   padding: 25px 10px;
   flex-grow: 1;
   flex-shrink: 1;
@@ -419,79 +430,119 @@ hr {
 
 .experince-card ul li {
   list-style: square;
- 
+
   margin-left: -23px;
 }
-.experince-card p{
+
+.experince-card p {
   color: #00cf5d;
   font-size: 15px;
   margin-bottom: 8px;
 }
-.experince-card h5{
+
+.experince-card h5 {
   font-size: 26px;
   font-family: "Oswald", sans-serif;
 
 }
-.progress-header .card-title{
+
+.progress-header .card-title {
   color: #00cf5d;
 }
 
-.skill .nav-pills .nav-link.active, .nav-pills .show>.nav-link, 
-.portfolio .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+.skill .nav-pills .nav-link.active,
+.nav-pills .show>.nav-link,
+.portfolio .nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
   color: #ffffff;
   background-color: #00cf5d;
 }
+
 .skill .nav-pills .nav-link,
-.portfolio .nav-pills .nav-link{
+.portfolio .nav-pills .nav-link {
   border-radius: .25rem;
   border: 1px solid #00cf5d;
   color: #ffffff;
   margin-right: 15px;
 }
+
 .skill .nav-link,
-.portfolio .nav-link{
+.portfolio .nav-link {
   display: block;
   padding: 0.6rem 1rem;
 }
+
 .portfolio-details .links {
   margin: 3px -36px;
 }
+
 .portfolio-details .links ul li {
   display: inline;
   margin-right: 15px;
 }
+
 .tool-list {
   margin: 3px -36px;
 }
+
 .tool-list ul li {
   display: inline;
   list-style: circle;
   margin-right: 15px;
 }
-.portfolio-details .card-title{
-    color:#00cf5d ;
+
+.portfolio-details .card-title {
+  color: #00cf5d;
 }
+
 .contact-status {
   margin: 0px -38px;
 }
-.contact-status h5{
+
+.contact-status h5 {
   font-size: 25px;
   color: #fff;
   font-weight: 600;
 }
-.contact-status ul li{
+
+.contact-status ul li {
   list-style: none;
   display: block;
 }
+
 .footer {
   padding: 30px 0;
   background-color: #212F3D;
 }
+
 .footer-text {
   display: flex;
   justify-content: space-between;
 }
-.footer-text ul li{
+
+.footer-text ul li {
   list-style: none;
   display: block;
 }
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .intro-content h1 {
+    font-size: 15px;
+    line-height: 5px;
+  }
+
+  .section-title-text h1 {
+    font-size: 2rem;
+  }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {}
