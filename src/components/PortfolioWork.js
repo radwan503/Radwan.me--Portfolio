@@ -19,7 +19,7 @@ export default function PortfolioWork() {
 
         <section className="portfolio section" id="portfolio">
             <div className="container">
-                <div className="section-title-text mb-5">
+                <div className="section-title-text mb-2">
                     <h1 className="dark-color">Portfolio</h1>
                 </div>
                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">

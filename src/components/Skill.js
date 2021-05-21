@@ -23,7 +23,7 @@ export default function Skill() {
     return (
         <section className="skill section" id="skill">
             <div className="container">
-                <div className="section-title-text mb-5">
+                <div className="section-title-text mb-2">
                     <h1 className="dark-color">MY Skill</h1>
                 </div>
                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -48,7 +48,7 @@ export default function Skill() {
                                 skill.map(skillInfo => {
                                     return (
                                         <div className="col-md-4">
-                                            <div class="card bg-darkblue mb-5">
+                                            <div class="card bg-darkblue mb-4">
                                                 <div class="card-body">
                                                     <div className="progress-header clearfix">
                                                         <h5 class="card-title float-left">{skillInfo.name}</h5>

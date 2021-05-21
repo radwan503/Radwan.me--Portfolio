@@ -14,7 +14,7 @@ export default function Experienced() {
                 <div className="section-title-text">
                     <h1 className="dark-color">EXPERIENCE</h1>
                 </div>
-                <div className="row mb-5">
+                <div className="row ">
                     {
                         experienceData.map(infoData => {
                             return (

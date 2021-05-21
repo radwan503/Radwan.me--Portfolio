@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Pirata+One|Rubik:900');
 
+html{
+  scroll-behavior: smooth;
+}
+
 body {
   color: #fff;
   background-color: #111a28;
@@ -430,7 +434,7 @@ hr {
 }
 
 .experince-card {
-  margin-top: 50px;
+  margin-bottom: 30px;
 }
 
 .bg-darkblue {
@@ -484,6 +488,7 @@ hr {
   border: 1px solid #00cf5d;
   color: #ffffff;
   margin-right: 15px;
+  margin-bottom: 15px;
 }
 
 .skill .nav-link,
@@ -536,6 +541,7 @@ hr {
 
 .footer-text {
   display: flex;
+  align-items: baseline;
   justify-content: space-between;
 }
 
@@ -543,7 +549,13 @@ hr {
   list-style: none;
   display: block;
 }
-
+.back-to-top{
+  background-color: #00cf5d;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    padding: 12px 16px;
+}
 
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
