@@ -19,7 +19,7 @@ export default function Hero() {
                         <div className="designation-list">
                             <ul>
                                 <li>Front End Engineer</li>
-                                <li>Software Quality Assurance Engineer</li>
+                                
                             </ul>
                         </div>
                         <div className="resume">

@@ -6,14 +6,17 @@ export default function Skill() {
 
     const [skill, setSkill] = useState([])
     const [programming, setProgramming] = useState([])
+    const [libraryOrFramework, setLibraryOrFramework] = useState([])
     const [tool, setTool] = useState([])
 
     useEffect(() => {
         const skill = SkillData.Web;
         const programming = SkillData.Programming;
+        const libraryorFramework = SkillData.LibraryOrFramework;
         const tool = SkillData.Tools;
         setSkill(skill);
         setProgramming(programming);
+        setLibraryOrFramework(libraryorFramework);
         setTool(tool);
 
     }, [skill, programming,tool])
@@ -26,6 +29,9 @@ export default function Skill() {
                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                     <li class="nav-item" role="presentation">
                         <a class="nav-link active" id="pills-web-tab" data-toggle="pill" href="#pills-web" role="tab" aria-controls="pills-web" aria-selected="true">Web</a>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link" id="pills-libraryandframework-tab" data-toggle="pill" href="#pills-libraryandframework" role="tab" aria-controls="pills-libraryandframework" aria-selected="true">Framework/Library</a>
                     </li>
                     <li class="nav-item" role="presentation">
                         <a class="nav-link" id="pills-programming-tab" data-toggle="pill" href="#pills-programming" role="tab" aria-controls="pills-programming" aria-selected="false">Programming</a>
@@ -61,9 +67,34 @@ export default function Skill() {
                         </div>
 
                     </div>
-                    <div class="tab-pane fade" id="pills-programming" role="tabpanel" aria-labelledby="pills-programming-tab">
+                    <div class="tab-pane fade" id="pills-libraryandframework" role="tabpanel" aria-labelledby="pills-libraryandframework-tab">
                         <div className="row">
 
+                            {
+                                libraryOrFramework.map(libraryorFrameworkInfo => {
+                                    return (
+                                        <div className="col-md-4">
+                                            <div class="card bg-darkblue mb-5">
+                                                <div class="card-body">
+                                                    <div className="progress-header clearfix">
+                                                        <h5 class="card-title float-left">{libraryorFrameworkInfo.name}</h5>
+                                                        <h6 class="card-title float-right">{libraryorFrameworkInfo.percent}%</h6>
+                                                    </div>
+
+                                                    <ProgressBar className="bg-dark" animated  variant="success" style={{ height: "1px" }} now={libraryorFrameworkInfo.percent} />
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    )
+                                })
+                            }
+
+                        </div>
+
+                    </div>
+                    <div class="tab-pane fade" id="pills-programming" role="tabpanel" aria-labelledby="pills-programming-tab">
+                        <div className="row">
                             {
                                 programming.map(programmingInfo => {
                                     return (

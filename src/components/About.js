@@ -21,8 +21,8 @@ export default function About() {
                 {
                     info.map(infoData => {
                         return (
-                            <div className="row align-items-center flex-row-reverse">
-                                <div className="col-lg-8">
+                            <div className="row align-items-center ">
+                                <div className="col-lg-8 col-md-8 col-sm-12">
                                     <div className="about-text section-title-text go-to">
                                         <h1 className="dark-color">{infoData.aboutTitle}</h1>
                                         <h6 className="lead text-white">{infoData.aboutSubTitle}</h6>
@@ -67,9 +67,11 @@ export default function About() {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-lg-4">
+                                <div className="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                                     <div className="about-avatar">
-                                        <img src={profile} title="" alt="" />
+                                        
+                                            <img src={profile} title="" alt="" />
+                                            <div className="img-overlay"></div>
                                     </div>
                                 </div>
                             </div>

@@ -5,7 +5,7 @@ import { Navbar, Nav } from "react-bootstrap";
 export default function Header() {
    
     return (
-        <Navbar bg="transparent" expand="lg" className="shadow py-3">
+        <Navbar expand="lg" className="shadow bg-dark-blue py-3" sticky="top" >
             <div className="container">
                 <Navbar.Brand href="#home" className="logo"><span className="logo-icon">R</span></Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
