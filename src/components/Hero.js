@@ -23,7 +23,7 @@ export default function Hero() {
                             </ul>
                         </div>
                         <div className="resume">
-                            <a href="https://radwan503.github.io/RadwanAhmed.me/image/cv/Radwan%20Ahmed_CV%20.pdf" target="_blank" type="file" className="btn btn-lg btn-green text-white">Get Resume</a>
+                            <a href="https://github.com/radwan503/radwan.me/blob/master/src/assets/image/cv.docx" target="_blank" type="file" className="btn btn-lg btn-green text-white">Get Resume</a>
                         </div>
 
                     </div>

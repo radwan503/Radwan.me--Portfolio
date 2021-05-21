@@ -24,7 +24,7 @@ export default function Header() {
                             <a className="nav-link" href="#contact">CONTACT</a>
                         </li>
                         <li className="nav-item">
-                            <a href="https://radwan503.github.io/RadwanAhmed.me/image/cv/Radwan%20Ahmed_CV%20.pdf" target="_blank" className="btn btn-outline-success btn-download text-white my-3 my-sm-0" type="button">Resume</a>
+                            <a href="https://github.com/radwan503/radwan.me/blob/master/src/assets/image/cv.docx" target="_blank" className="btn btn-outline-success btn-download text-white my-3 my-sm-0" type="button">Resume</a>
                         </li>
 
                     </Nav>
