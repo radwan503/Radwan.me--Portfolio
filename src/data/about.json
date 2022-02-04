@@ -1,25 +1,22 @@
-
-   {
-    "profile" : [
+{
+    "profile": [
         {
-            
             "name": "Radwan Ahmed",
-            "aboutTitle" : "ABOUT ME",
-            "aboutSubTitle" : "A Front-End Developer & Designer Based in Bangladesh",
-            "aboutDescription": "services for customers of all sizes, specializing in creating stylish, modern websites, web services and online stores. My passion is to design digital user experiences through the bold interface and meaningful interactions.",
-            "birthDay":"24th December 1996",
-            "age":"24 Yr",
-            "Residence":"Bangldesh",
-            "Address":"Nikunjo,Dhaka",
-            "Email":"ahmedradwan052@gmail.com",
-            "Phone":"+880 18738-43384",
-            "Skype":"Radwan Anik",
-            "Freelance":"Available",
-            "social":"Facebook/Twitter - @radwananik"
-
+            "aboutTitle": "ABOUT ME",
+            "aboutSubTitle": "A Front-End & UI Developer",
+            "aboutDescription": "the thing's, companies I have worked for.",
+            "birthDay": "Semantic HTML",
+            "age": "Responsive CSS",
+            "Residence": "JavaScript (Jquery, React, etc)",
+            "Address": "Dhaka,Bangladesh",
+            "Email": "ahmedradwan052@gmail.com",
+            "Phone": "+880 18738-43384",
+            "Skype": "Radwan Anik",
+            "Freelance": "Available",
+            "social": "Facebook/Twitter - @radwananik"
         }
     ],
-    "count" : [
+    "count": [
         {
             "Title": "Happy Clients",
             "count": "20"
@@ -38,4 +35,3 @@
         }
     ]
 }
-

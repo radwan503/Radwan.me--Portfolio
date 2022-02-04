@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import profile from '../assets/image/personal.png';
+import { Badge } from 'react-bootstrap';
+import profile from '../assets/image/personal.jpeg';
 import about from '../data/about.json';
 
 export default function About() {
@@ -24,29 +25,33 @@ export default function About() {
                             <div className="row align-items-center ">
                                 <div className="col-lg-8 col-md-8 col-sm-12">
                                     <div className="about-text section-title-text go-to">
-                                        <h1 className="dark-color">{infoData.aboutTitle}</h1>
+                                        <div className='header-about'>
+                                            <div className="about-avatar">
+                                                <img src={profile} title="" alt="" />
+                                            </div>
+                                            <h1 className="dark-color">{infoData.aboutTitle}</h1>
+                                        </div>
+
                                         <h6 className="lead text-white">{infoData.aboutSubTitle}</h6>
                                         <p>I <mark>design and develop</mark> {infoData.aboutDescription}</p>
+                                        <p>Nothing special complete graduation then join a software company. Develop some cool product.Love to code and design otherwise sleeping.</p>
+                                        <p><Badge bg="secondary">Learn</Badge>,<Badge bg="secondary">Apply</Badge>,<Badge bg="secondary">Ctrl+c, Ctrl+v</Badge></p>
                                         <div className="row about-list">
-                                            <div className="col-md-6">
+                                            {/* <div className="col-md-6">
                                                 <div className="media">
-                                                    <label>Birthday</label>
-                                                    <p>{infoData.birthDay}</p>
+                                                    <p>{infoData.point1}</p>
                                                 </div>
                                                 <div className="media">
-                                                    <label>Age</label>
-                                                    <p>{infoData.age}</p>
+                                                    <p>{infoData.point2}</p>
                                                 </div>
                                                 <div className="media">
-                                                    <label>Residence</label>
-                                                    <p>{infoData.Residence}</p>
+                                                    <p>{infoData.point3}</p>
                                                 </div>
                                                 <div className="media">
-                                                    <label>Address</label>
-                                                    <p>{infoData.Address}</p>
+                                                    <p>{infoData.point4}</p>
                                                 </div>
-                                            </div>
-                                            <div className="col-md-6">
+                                            </div> */}
+                                            {/* <div className="col-md-6">
                                                 <div className="media">
                                                     <label>E-mail</label>
                                                     <p>{infoData.Email}</p>
@@ -63,15 +68,8 @@ export default function About() {
                                                     <label>Freelance</label>
                                                     <p>{infoData.Freelance}</p>
                                                 </div>
-                                            </div>
+                                            </div> */}
                                         </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                                    <div className="about-avatar">
-                                        
-                                            <img src={profile} title="" alt="" />
-                                            <div className="img-overlay"></div>
                                     </div>
                                 </div>
                             </div>
@@ -79,7 +77,7 @@ export default function About() {
                     })
                 }
 
-
+                {/* 
                 <div className="counter">
                     <div className="row">
                         {
@@ -96,7 +94,7 @@ export default function About() {
                         }
 
                     </div>
-                </div>
+                </div> */}
             </div>
         </section>
     )
