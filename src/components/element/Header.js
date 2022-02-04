@@ -3,7 +3,7 @@ import { Navbar, Nav } from "react-bootstrap";
 
 
 export default function Header() {
-   
+
     return (
         <Navbar expand="lg" className="shadow bg-dark-blue py-3" sticky="top" >
             <div className="container">
@@ -24,7 +24,7 @@ export default function Header() {
                             <a className="nav-link" href="#contact">CONTACT</a>
                         </li>
                         <li className="nav-item">
-                            <a href="https://github.com/radwan503/Radwan.me--Portfolio/blob/master/src/assets/image/RadwanAnik.pdf" target="_blank" className="btn btn-outline-success btn-download text-white my-3 my-sm-0" type="button">Resume</a>
+                            <a href="https://github.com/radwan503/Radwan.me--Portfolio/blob/master/src/assets/RadwanAnik-Resume.pdf" target="_blank" className="btn btn-outline-success btn-download text-white my-3 my-sm-0" type="button" download>Resume</a>
                         </li>
 
                     </Nav>
