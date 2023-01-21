@@ -322,7 +322,6 @@ hr {
 
 .about-text p {
   font-size: 18px;
-  max-width: 450px;
 }
 
 .about-text p mark {
@@ -498,6 +497,53 @@ hr {
   font-size: 26px;
   font-family: "Oswald", sans-serif;
 }
+.technology-stack{
+  display: none;
+  transition: .5s;
+}
+.experince-card:hover .technology-stack{
+  display: block;
+  transition: display 5s ease-in;
+  
+}
+.technology-stack p{
+  font-size: 20px;
+  color: #fff;
+  background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+p.stack1 {
+  position: absolute;
+  top: 3%;
+  left: 30%;
+  transform: rotate(17deg);
+}
+p.stack2 {
+  position: absolute;
+  bottom: 10%;
+  left: 10%;
+  transform: rotate(-24deg);
+}
+p.stack3 {
+  position: absolute;
+  top: 20%;
+  right: 10%;
+}
+p.stack4 {
+  position: absolute;
+  bottom: 12%;
+  right: 15%;
+  transform: rotate(145deg);
+}
+
+p.stack5 {
+  position: absolute;
+  bottom: 20%;
+  right: 50%;
+  transform: rotate(60deg);
+}
+
 
 .progress-header .card-title {
   color: #00cf5d;

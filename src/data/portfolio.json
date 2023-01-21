@@ -144,6 +144,17 @@
       "tools1": "Ionic",
       "tools2": "Scss",
       "tools3": "React"
+    },
+    {
+      "type": "featured",
+      "name": "Business Landing",
+      "image": "",
+      "description": "Learning React to create landing page website",
+      "demo": "https://business-landing-react.netlify.app/",
+      "source": "https://github.com/radwan503/business-landing--React",
+      "tools1": "Ionic",
+      "tools2": "Scss",
+      "tools3": "React"
     }
   ],
   "Wordpress": [

@@ -47,15 +47,15 @@ export default function Skill() {
                             {
                                 skill.map(skillInfo => {
                                     return (
-                                        <div className="col-md-4">
+                                        <div className="col-md-2">
                                             <div class="card bg-darkblue mb-4">
-                                                <div class="card-body">
-                                                    <div className="progress-header clearfix">
-                                                        <h5 class="card-title float-left">{skillInfo.name}</h5>
-                                                        <h6 class="card-title float-right">{skillInfo.percent}%</h6>
+                                                <div class="card-body" style={{padding: "1.25rem .5rem"}}>
+                                                    <div className="progress-header text-center clearfix">
+                                                        <h5 class="card-title">{skillInfo.name}</h5>
+                                                        {/* <h6 class="card-title float-right">{skillInfo.percent}%</h6> */}
                                                     </div>
 
-                                                    <ProgressBar className="bg-dark" animated  variant="success" style={{ height: "1px" }} now={skillInfo.percent} />
+                                                    {/* <ProgressBar className="bg-dark" animated  variant="success" style={{ height: "1px" }} now={skillInfo.percent} /> */}
 
                                                 </div>
                                             </div>
@@ -73,15 +73,15 @@ export default function Skill() {
                             {
                                 libraryOrFramework.map(libraryorFrameworkInfo => {
                                     return (
-                                        <div className="col-md-4">
+                                        <div className="col-md-2">
                                             <div class="card bg-darkblue mb-5">
                                                 <div class="card-body">
                                                     <div className="progress-header clearfix">
                                                         <h5 class="card-title float-left">{libraryorFrameworkInfo.name}</h5>
-                                                        <h6 class="card-title float-right">{libraryorFrameworkInfo.percent}%</h6>
+                                                        {/* <h6 class="card-title float-right">{libraryorFrameworkInfo.percent}%</h6> */}
                                                     </div>
 
-                                                    <ProgressBar className="bg-dark" animated  variant="success" style={{ height: "1px" }} now={libraryorFrameworkInfo.percent} />
+                                                    {/* <ProgressBar className="bg-dark" animated  variant="success" style={{ height: "1px" }} now={libraryorFrameworkInfo.percent} /> */}
 
                                                 </div>
                                             </div>
@@ -98,15 +98,15 @@ export default function Skill() {
                             {
                                 programming.map(programmingInfo => {
                                     return (
-                                        <div className="col-md-4">
+                                        <div className="col-md-2">
                                             <div class="card bg-darkblue mb-5">
                                                 <div class="card-body">
                                                     <div className="progress-header clearfix">
                                                         <h5 class="card-title float-left">{programmingInfo.name}</h5>
-                                                        <h6 class="card-title float-right">{programmingInfo.percent}%</h6>
+                                                        {/* <h6 class="card-title float-right">{programmingInfo.percent}%</h6> */}
                                                     </div>
 
-                                                    <ProgressBar className="bg-dark" animated  variant="success" style={{ height: "1px" }} now={programmingInfo.percent} />
+                                                    {/* <ProgressBar className="bg-dark" animated  variant="success" style={{ height: "1px" }} now={programmingInfo.percent} /> */}
 
                                                 </div>
                                             </div>
@@ -125,15 +125,15 @@ export default function Skill() {
                             {
                                 tool.map(toolInfo => {
                                     return (
-                                        <div className="col-md-4">
+                                        <div className="col-md-2">
                                             <div class="card bg-darkblue mb-5">
                                                 <div class="card-body">
                                                     <div className="progress-header clearfix">
                                                         <h5 class="card-title float-left">{toolInfo.name}</h5>
-                                                        <h6 class="card-title float-right">{toolInfo.percent}%</h6>
+                                                        {/* <h6 class="card-title float-right">{toolInfo.percent}%</h6> */}
                                                     </div>
 
-                                                    <ProgressBar className="bg-dark" animated  variant="success" style={{ height: "1px" }} now={toolInfo.percent} />
+                                                    {/* <ProgressBar className="bg-dark" animated  variant="success" style={{ height: "1px" }} now={toolInfo.percent} /> */}
 
                                                 </div>
                                             </div>

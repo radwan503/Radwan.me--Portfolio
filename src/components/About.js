@@ -34,8 +34,26 @@ export default function About() {
 
                                         <h6 className="lead text-white">{infoData.aboutSubTitle}</h6>
                                         <p>I <mark>design and develop</mark> {infoData.aboutDescription}</p>
-                                        <p>Nothing special complete graduation then join a software company. Develop some cool product.Love to code and design otherwise sleeping.</p>
-                                        <p><Badge bg="secondary">Learn</Badge>,<Badge bg="secondary">Apply</Badge>,<Badge bg="secondary">Ctrl+c, Ctrl+v</Badge></p>
+                                        <p>Front-End Engineer with 3+ years of experience. I enjoy working with HTML, CSS, and JavaScript to create new things and UI problems.</p>
+                                        <details>
+                                            <summary>As a Front End Engineer to create user-driven web applications for company. I will be responsible for the design and development of front-end applications that meet the needs of the user. In this role, I will meet with the design team to discuss application features, create application mockups, and write the code for the final website design.</summary>
+                                            <p className='mt-3'>Over the following years I've spent a large amount of time and effort growing my UI development skill, to the point where I'm now very comfortable with:</p>
+                                                <li>Proficient with Front-End Technology including HTML, JavaScript (<span className='text-success'>React, Next JS, jQuery</span>) and CSS 
+                                                (<span className='text-success'>SCSS, Bootstrap, Tailwind, Flexbox and Grid</span>).</li>
+                                                <li>Creating semantic and accessible websites with HTML, CSS, transitions, and animations. Ensure 
+                                                designs are in compliance with specifications.</li>
+                                                <li>Design/Develop mobile-based components with <span className='text-success'>React, IONIC</span>.</li>
+                                                <li>Consuming and integrating <span className='text-success'>restful APIs</span> in a Single Page JS application.</li>
+                                                <li>Collaborate with back-end developers and web designers to improve usability.</li>
+                                                <li>Review, test and debug team member’s code also maintain standard documents at every phase of 
+                                                the development life cycle.</li>
+                                                <li>Optimize applications for maximum speed.</li>
+                                                <li>Familiarity with prototyping tools including <span className='text-success'>Adobe XD, Figma.</span></li>
+                                                <li>Good knowledge about version control like <span className='text-success'>GIT</span>.</li>
+                                                <li>Stay up-to-date on emerging technologies.</li>
+                                            
+                                        </details>
+                                      
                                         <div className="row about-list">
                                             {/* <div className="col-md-6">
                                                 <div className="media">

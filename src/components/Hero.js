@@ -18,11 +18,11 @@ export default function Hero() {
                         </div>
                         <div className="designation-list">
                             <ul>
-                                <li>Front End Developer || UI/UX Novice</li>
+                                <li>Front-End Engineer || UI Developer</li>
                             </ul>
                         </div>
                         <div className="resume">
-                            <a href="https://github.com/radwan503/Radwan.me--Portfolio/blob/master/src/assets/RadwanAnik-Resume.pdf" target="_blank" type="file" className="btn btn-lg btn-green text-white" download>Get Resume</a>
+                            <a href="https://github.com/radwan503/Radwan.me--Portfolio/blob/master/src/assets/RadwanAnik-Resume.pdf" rel="noopener noreferrer" target="_blank" type="file" className="btn btn-lg btn-green text-white" download>Get Resume</a>
                         </div>
 
                     </div>

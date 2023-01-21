@@ -4,13 +4,13 @@
      
       { "name": "HTML", "percent": 90 },
       { "name": "CSS", "percent": 85 },
-      { "name": "JavaScript", "percent": 70 },
-      { "name": "React", "percent": 50 },
-      { "name": "Ionic", "percent": 70 },
+      { "name": "JAVASCRIPT", "percent": 70 },
+      { "name": "REACT", "percent": 50 },
+      { "name": "NEXT JS", "percent": 50 },
+      { "name": "IONIC", "percent": 70 },
       { "name": "JAVA", "percent": 50 },
-      { "name": "Sass", "percent": 90 },
-      { "name": "Jsp", "percent": 70 },
-      { "name": "MySQL", "percent": 25 }
+      { "name": "SCSS", "percent": 90 },
+      { "name": "JSP", "percent": 70 }
     ],
     "Programming": [
       { "name": "JavaScript", "percent": 70 },
@@ -21,19 +21,20 @@
     "LibraryOrFramework": [
       { "name": "JQuery", "percent": 70 },
       { "name": "Bootstrap", "percent": 70 },
+      { "name": "TailwindCss", "percent": 0 },
+      { "name": "Antd", "percent": 0 },
       { "name": "Materialize", "percent": 50 },
       { "name": "Bulma", "percent": 40 },
-      { "name": "Semantic UI", "percent": 0 },
-      { "name": "Foundation", "percent": 0 },
-      { "name": "MAterial UI", "percent": 0 },
-      { "name": "Tailwind CSS", "percent": 0 },
+      { "name": "Semantic", "percent": 0 },
+      { "name": "MU UI", "percent": 0 },
       { "name": "UIkit", "percent": 0 }
-     
-      
     ],
     "Tools": [
       { "name": "Git", "percent": 90 },
-      { "name": "Photoshop", "percent": 35 },
+      { "name": "Github", "percent": 90 },
+      { "name": "Gitlab", "percent": 90 },
+      { "name": "Redmine", "percent": 90 },
+      { "name": "Figma", "percent": 35 },
       { "name": "Adobe Xd", "percent": 50 }
     
     ]
