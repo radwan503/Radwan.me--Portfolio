@@ -24,6 +24,17 @@
     },
     {
       "type": "featured",
+      "name": "HRMS",
+      "image": "../image/client1.png",
+      "description": "HRMS is Admin Site Which Handle Employee day to day, monthly and yearly attendance, leave, working hour information etc",
+      "demo": "https://hrms.tigeritbd.com/tigerhrm-client/authentication?back_url=/tigerhrm-client/",
+      "source": "https://hrms.tigeritbd.com/tigerhrm-client/authentication?back_url=/tigerhrm-client/",
+      "tools1": "HTML/CSS",
+      "tools2": "JavaScript",
+      "tools3": "Bootstrap"
+    },
+    {
+      "type": "featured",
       "name": "Course",
       "image": "",
       "description": "ForEducation – is the Bulma Template for Course Sales, School, University, College or even your business, it will give you the best experience,with a lot of simple effects..",
@@ -114,6 +125,17 @@
   "Others": [
     {
       "type": "featured",
+      "name": "QCOOM",
+      "image": "",
+      "description": "Development project from initial design through completion, optimizing cross browser for thousands of user. ",
+      "demo": "https://qcoom.com/",
+      "source": "https://qcoom.com/",
+      "tools1": "Next JS",
+      "tools2": "Antd/SCSS",
+      "tools3": "React JS"
+    },
+    {
+      "type": "featured",
       "name": "Vaccine",
       "image": "",
       "description": "This high-quality and Responsive React Template is developed using React and Bootstrap. Works pretty fast and it is fully responsive, on Desktop, Laptop, iPad, iPhone, Android Mobile or tablets.",
@@ -127,7 +149,7 @@
       "type": "featured",
       "name": "Transformerai",
       "image": "",
-      "description": "Transformer is a New Modern Responsive React template. This is built with ReactJS. It is offering demos for Creative Agency, IT Agency, SEO Marketing Agency, Videography Agency, Business Agency, IT Startups, IT Agency, and IT Solutions Company, etc. It looks engaging and attractive on all types of screens and devices including Windows,",
+      "description": "Learning React by doing project.Creative Agency, IT Agency, SEO Marketing Agency, Videography Agency, Business Agency, IT Startups, IT Agency, and IT Solutions Company, etc.",
       "demo": "https://transformerai.netlify.app/",
       "source": "https://github.com/radwan503/Transformer--ReactLandingPage",
       "tools1": "HTML",

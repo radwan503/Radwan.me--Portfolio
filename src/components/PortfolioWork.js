@@ -27,7 +27,7 @@ export default function PortfolioWork() {
                 </div>
                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                     <li class="nav-item">
-                        <a class="nav-link active" id="pills-portfoliowork-tab" data-toggle="pill" href="#pills-portfoliowork" role="tab" aria-controls="pills-portfoliowork" aria-selected="true">Template</a>
+                        <a class="nav-link active" id="pills-portfoliowork-tab" data-toggle="pill" href="#pills-portfoliowork" role="tab" aria-controls="pills-portfoliowork" aria-selected="true">Template/Project</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" id="pills-otherportfolio-tab" data-toggle="pill" href="#pills-otherportfolio" role="tab" aria-controls="pills-otherportfolio" aria-selected="false">React/Next JS</a>
