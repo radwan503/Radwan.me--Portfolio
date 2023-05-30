@@ -1,16 +1,23 @@
 
 {
     "Web": [
-     
       { "name": "HTML", "percent": 90 },
       { "name": "CSS", "percent": 85 },
       { "name": "JAVASCRIPT", "percent": 70 },
       { "name": "REACT", "percent": 50 },
       { "name": "NEXT JS", "percent": 50 },
-      { "name": "IONIC", "percent": 70 },
-      { "name": "JAVA", "percent": 50 },
       { "name": "SCSS", "percent": 90 },
-      { "name": "JSP", "percent": 70 }
+      { "name": "JQuery", "percent": 70 },
+      { "name": "Bootstrap", "percent": 70 },
+      { "name": "TailwindCss", "percent": 0 },
+      { "name": "Cypress", "percent": 0 },
+      { "name": "Antd", "percent": 0 },
+      { "name": "Materialize", "percent": 50 },
+      { "name": "Bulma", "percent": 40 },
+      { "name": "Semantic", "percent": 0 },
+      { "name": "MU UI", "percent": 0 },
+      { "name": "UIkit", "percent": 0 },
+      { "name": "IONIC", "percent": 70 }
     ],
     "Programming": [
       { "name": "JavaScript", "percent": 70 },
@@ -36,6 +43,7 @@
       { "name": "Redmine", "percent": 90 },
       { "name": "Figma", "percent": 35 },
       { "name": "Adobe Xd", "percent": 50 }
+
     
     ]
   }

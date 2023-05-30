@@ -1,11 +1,27 @@
 {
     "experience": [
         {
-            "year": "May 2019 - present (Front-End Engineer)",
+            "year": "January 2023 - Present (Front-End Engineer)",
+            "companyName": "JMR(E-commerce)",
+            "role1": "Work collaboratively with designers, back-end developers, and stakeholders to develop and maintain responsive web applications for the company's e-commerce platform",
+            "role2": "Utilize React, Next, Tailwind and other framework to implement new features and improve the performance of existing code",
+            "role3": "Ensured cross-browser compatibility and responsive design of websites",
+            "techStack":[
+                {
+                    "stack1":"HTML",
+                    "stack2":"TAILWIND CSS",
+                    "stack3":"NEXT JS",
+                    "stack4":"SCSS",
+                    "stack5":"REACT"
+                }
+            ]
+        },
+        {
+            "year": "May 2019 - Dec 2022 (Front-End Engineer)",
             "companyName": "TigerIT Bangladesh Ltd.",
-            "role1": "Creating semantic and accessible websites with HTML, CSS, transitions, and animations.",
-            "role2": "building, testing, maintaining and supporting large applications",
-            "role3": "Documented work and communicate issues when they arise",
+            "role1": "Worked with design, product, and back-end teams to create 5+ web & crossplatformproducts.Creating semantic and accessible websites with HTML, CSS, transitions, and animations.",
+            "role2": "Consuming and integrating restful API in a JS application and optimized application for maximum speed",
+            "role3": "Increase Performance, Accessibility, and SEO from 70% to 95% as per lighthouse.Design a cross-platform app using Ionic, React, and SCSS for daily task assign",
             "techStack":[
                 {
                     "stack1":"HTML",
@@ -15,22 +31,7 @@
                     "stack5":"IONIC"
                 }
             ]
-        },
-        {
-            "year": "January 2019 - 2019 (UI Developer)",
-            "companyName": "Freelancer",
-            "role1": "Hand coding HTML5 and CSS3 also Test code across platforms and browsers",
-            "role2": "Responsive Design on to develop user interface on web and mobile",
-            "role3": "Slicing and enhancing of PSD files, creating pixel -perfect renderings.",
-            "techStack":[
-                {
-                    "stack1":"HTML",
-                    "stack2":"CSS",
-                    "stack3":"JAVASCRIPT",
-                    "stack4":"JQUERY"
-                    
-                }
-            ]
         }
+        
     ]
 }

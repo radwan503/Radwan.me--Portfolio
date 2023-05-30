@@ -2,6 +2,39 @@
   "Web": [
     {
       "type": "featured",
+      "name": "QCOOM-Ecommerce",
+      "image": "",
+      "description": "Development project from initial design through completion, optimizing cross browser for thousands of user. ",
+      "demo": "https://qcoom.com.bd/",
+      "source": "https://qcoom.com.bd/",
+      "tools1": "Next JS",
+      "tools2": "Antd/SCSS",
+      "tools3": "Third Party Pac.."
+    },
+    {
+      "type": "featured",
+      "name": "PIICKME",
+      "image": "",
+      "description": "Development project from initial design through completion, optimizing cross browser for thousands of user. ",
+      "demo": "https://piickmeexpress.com/",
+      "source": "https://piickmeexpress.com/",
+      "tools1": "React JS",
+      "tools2": "Antd/SCSS",
+      "tools3": "Third Party Pac.."
+    },
+    {
+      "type": "featured",
+      "name": "QFOOD",
+      "image": "",
+      "description": "Development project from initial design through completion, optimizing cross browser for thousands of user. ",
+      "demo": "https://dev.qfood.com.bd/",
+      "source": "https://dev.qfood.com.bd/",
+      "tools1": "Next JS",
+      "tools2": "Tailwind Css",
+      "tools3": "Third Party Pac.."
+    },
+    {
+      "type": "featured",
       "name": "Forum",
       "image": "",
       "description": "Welcome to the Ask forum – Design Help Desk, Support, Forum, Knowledge-Base Responsive Site Template.Excellent colors selection, consistency, clear typography and usability.",
@@ -13,6 +46,32 @@
     },
     {
       "type": "featured",
+      "name": "Landing Food",
+      "image": "",
+      "description": "Development project from initial design through completion, optimizing cross browser for thousands of user. ",
+      "demo": "https://qfood.com.bd/",
+      "source": "https://qfood.com.bd/",
+      "tools1": "React JS",
+      "tools2": "Tailwind Css",
+      "tools3": "Third Party Pac.."
+    },
+    {
+      "type": "featured",
+      "name": "Admin Panel",
+      "image": "",
+      "description": "Development project from initial design through completion, optimizing cross browser for thousands of user. ",
+      "demo": "https://staging-admin.qfood.com.bd/login",
+      "source": "https://staging-admin.qfood.com.bd/login",
+      "tools1": "Next JS",
+      "tools2": "Antd/SCSS",
+      "tools3": "Third Party Pac.."
+    }
+    
+  ],
+  "Others": [
+    
+    {
+      "type": "featured",
       "name": "Education",
       "image": "../image/client1.png",
       "description": "Learning LMS - HTML template. Best for e-Learning, online courses, training centers, Online academy, Online Institute, Online School, College, University, and Online Instructor Websites.",
@@ -20,17 +79,6 @@
       "source": "https://github.com/radwan503/Learninglms--Education",
       "tools1": "HTML",
       "tools2": "CSS",
-      "tools3": "Bootstrap"
-    },
-    {
-      "type": "featured",
-      "name": "HRMS",
-      "image": "../image/client1.png",
-      "description": "HRMS is Admin Site Which Handle Employee day to day, monthly and yearly attendance, leave, working hour information etc",
-      "demo": "https://hrms.tigeritbd.com/tigerhrm-client/authentication?back_url=/tigerhrm-client/",
-      "source": "https://hrms.tigeritbd.com/tigerhrm-client/authentication?back_url=/tigerhrm-client/",
-      "tools1": "HTML/CSS",
-      "tools2": "JavaScript",
       "tools3": "Bootstrap"
     },
     {
@@ -68,6 +116,17 @@
     },
     {
       "type": "featured",
+      "name": "Task Tracking",
+      "image": "",
+      "description": "a next-generation modern and clean Bootstrap 5x dashboard app using flat, modern and minimal design. It is fully responsive built using SASS preprocessor, HTML5, CSS3, and jQuery plugins.",
+      "demo": "https://radwan503.github.io/Task-Tracking--Javascript/",
+      "source": "https://github.com/radwan503/Task-Tracking--Javascript",
+      "tools1": "HTML",
+      "tools2": "Bootstrap/Scss",
+      "tools3": "JavaScript"
+    },
+    {
+      "type": "featured",
       "name": "Fouesquare",
       "image": "",
       "description": "Fouesquare is a Digital Agency template that has been specifically designed for making modern websites. You can use it for building any kind of agency, digital agency, startup agency.",
@@ -87,6 +146,17 @@
       "tools1": "HTML",
       "tools2": "CSS",
       "tools3": "JavaScript"
+    },
+    {
+      "type": "featured",
+      "name": "Business",
+      "image": "",
+      "description": "Clean, unique, and modern Consulting Business React Next Js Template. It was created for Consulting Business or any kind of Consulting related business or company. ",
+      "demo": "https://bombardierjets.netlify.app/",
+      "source": "https://github.com/radwan503/Bombardier-Business--NextJs",
+      "tools1": "Next Js",
+      "tools2": "Bootstrap",
+      "tools3": "slick Slider"
     },
     {
       "type": "featured",
@@ -120,23 +190,10 @@
       "tools1": "HTML",
       "tools2": "Materialize",
       "tools3": "JavaScript"
-    }
-  ],
-  "Others": [
-    {
-      "type": "featured",
-      "name": "QCOOM",
-      "image": "",
-      "description": "Development project from initial design through completion, optimizing cross browser for thousands of user. ",
-      "demo": "https://qcoom.com/",
-      "source": "https://qcoom.com/",
-      "tools1": "Next JS",
-      "tools2": "Antd/SCSS",
-      "tools3": "React JS"
     },
     {
       "type": "featured",
-      "name": "Vaccine",
+      "name": "Admin-React",
       "image": "",
       "description": "This high-quality and Responsive React Template is developed using React and Bootstrap. Works pretty fast and it is fully responsive, on Desktop, Laptop, iPad, iPhone, Android Mobile or tablets.",
       "demo": "https://react-medical-dashboard.netlify.app/",
