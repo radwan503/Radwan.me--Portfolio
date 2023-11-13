@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Badge } from "react-bootstrap";
-import profile from "../assets/image/personal.jpeg";
+import profile from "../assets/image/what.jpeg";
 import about from "../data/about.json";
 
 export default function About() {
@@ -23,23 +23,22 @@ export default function About() {
               <div className="col-lg-8 col-md-8 col-sm-12">
                 <div className="about-text section-title-text go-to">
                   <div className="header-about">
-                    <div className="about-avatar">
+                    {/* <div className="about-avatar">
                       <img src={profile} title="" alt="" />
-                    </div>
+                    </div> */}
                     <h1 className="dark-color">{infoData.aboutTitle}</h1>
                   </div>
 
                   <h6 className="lead text-white">{infoData.aboutSubTitle}</h6>
                   <p>
-                    I <mark>design and develop</mark>{" "}
+                    I <mark>develop and design</mark>{" "}
                     {infoData.aboutDescription}
                   </p>
                   <p>
                     Front-End Engineer with 4+ years of experience. I enjoy
-                    working with HTML, CSS, and React to create new things and
-                    UI problems.
+                    working with React, Next JS,HTML, CSS and  JavaScript to create new things.
                   </p>
-                  <details>
+                  {/* <details open>
                     <summary>
                       As a Front End Engineer to create user-driven web
                       applications for company. I will be responsible for the
@@ -99,7 +98,7 @@ export default function About() {
                       <span className="text-success">GIT</span>.
                     </li>
                     <li>Stay up-to-date on emerging technologies.</li>
-                  </details>
+                  </details> */}
 
                   <div className="row about-list">
                     {/* <div className="col-md-6">

@@ -11,14 +11,13 @@ import Footer from "../components/element/Footer.js";
 export default function Home() {
   return (
     <div className="content">
-      <Header></Header>
+      {/* <Header></Header> */}
       <Hero></Hero>
       <About></About>
       <Experienced></Experienced>
       <PortfolioWork></PortfolioWork>
       <Skill></Skill>
-      <Contact></Contact>
-      <Footer></Footer>
+    
     </div>
   );
 }

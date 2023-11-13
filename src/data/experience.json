@@ -2,17 +2,35 @@
     "experience": [
         {
             "year": "January 2023 - Present (Front-End Engineer)",
-            "companyName": "JMR(E-commerce)",
-            "role1": "Work collaboratively with designers, back-end developers, and stakeholders to develop and maintain responsive web applications for the company's e-commerce platform",
-            "role2": "Utilize React, Next, Tailwind and other framework to implement new features and improve the performance of existing code",
-            "role3": "Ensured cross-browser compatibility and responsive design of websites",
-            "techStack":[
+            "companyName": "JMR",
+            "role1": "Implemented data fetching using React Hooks and Axios to efficiently retrieve and display dynamic content, enhancing the responsiveness of the e-commerce website.",
+            "role2": "Collaborated with the back-end team to design and integrate RESTful APIs, ensuring seamless communication between front-end and back-end systems.",
+            "role3": "Designed and implemented reusable React components, promoting code modularity and facilitating faster development cycles.",
+            "role4": "Integrated user authentication and authorization features, ensuring secure access to personalized content and account information",
+            "techStack": [
                 {
-                    "stack1":"HTML",
-                    "stack2":"TAILWIND CSS",
-                    "stack3":"NEXT JS",
-                    "stack4":"SCSS",
-                    "stack5":"REACT"
+                    "stack1": "REACT JS",
+                    "stack2": "NEXT JS",
+                    "stack3": "SCSS",
+                    "stack4": "ANT DESIGN",
+                    "stack5": "CSS3"
+                }
+            ]
+        },
+        {
+            "year": "June 2023 - Nov 2023 (Front-End Engineer)",
+            "companyName": "Remote(Ukraine)",
+            "role1": "Played a key role in the UI development of a template utilizing HTML5, CSS3, SCSS,JS and Bootstrap.",
+            "role2": "Collaborated closely with design teams to translate mockups into responsive and user-friendly templates",
+            "role3": "Implemented modular and reusable code structures to streamline the development process and improve maintainability.",
+            "role4": "Conducted performance optimization to ensure fast-loading templates and an optimal user experience.",
+            "techStack": [
+                {
+                    "stack1": "HTML5",
+                    "stack2": "CSS3",
+                    "stack3": "JAVASCRIPT",
+                    "stack4": "BOOTSTRAP",
+                    "stack5": "SCSS"
                 }
             ]
         },
@@ -22,16 +40,16 @@
             "role1": "Worked with design, product, and back-end teams to create 5+ web & crossplatformproducts.Creating semantic and accessible websites with HTML, CSS, transitions, and animations.",
             "role2": "Consuming and integrating restful API in a JS application and optimized application for maximum speed",
             "role3": "Increase Performance, Accessibility, and SEO from 70% to 95% as per lighthouse.Design a cross-platform app using Ionic, React, and SCSS for daily task assign",
-            "techStack":[
+            "role4": "Implemented modular and reusable code structures to streamline the development process and improve maintainability.",
+            "techStack": [
                 {
-                    "stack1":"HTML",
-                    "stack2":"CSS",
-                    "stack3":"JAVASCRIPT",
-                    "stack4":"REACT JS",
-                    "stack5":"IONIC"
+                    "stack1": "REACT JS",
+                    "stack2": "JAVASCRIPT",
+                    "stack3": "REACT BOOTSTRAP",
+                    "stack4": "HTML5",
+                    "stack5": "CSS3"
                 }
             ]
         }
-        
     ]
 }
