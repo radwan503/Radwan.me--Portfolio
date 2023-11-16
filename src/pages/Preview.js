@@ -40,21 +40,20 @@ const Preview = () => {
               <div className="designation-list">
                 <ul>
                   {detailsData?.subtitle?.map((val) => (
-                    <li className=" text-capitalize">{val}</li>
+                    <li className="text-capitalize">{val}</li>
                   ))}
                 </ul>
               </div>
               <div className="resume">
                 <a
-                  href={detailsData?.demo}
-                  rel="noopener noreferrer"
-                  target="_blank"
-                  type="file"
-                  className="btn btn-lg btn-green text-white"
-                  download
+                  href={detailsData?.demo ? detailsData?.demo :"/"}
+                  className={detailsData?.demo==''?"btn btn-lg btn-green text-white disabled":"btn btn-lg btn-green text-white"}
+                  title={detailsData?.demo==''?"NO DEMO LINK":"DEMO"}
                 >
                   Live Preview
                 </a>
+                <p className="mt-2 text-light disabled">{detailsData?.demo=='' ? 'Explore the visual representation through the screenshots provided, as a demo link is not available':''}</p>
+                
               </div>
             </div>
           </div>

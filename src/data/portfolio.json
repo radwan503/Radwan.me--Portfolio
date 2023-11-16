@@ -9,35 +9,34 @@
       "demo": "https://qcoom.com.bd/",
       "source": "",
       "previewImge": "/jmr/qcoom.png",
-      "title":[
+      "title": [
         "Redesign of ",
         "Qcoom website"
       ],
-      "subtitle":[
+      "subtitle": [
         "E-commerce",
         "Online marketplace"
       ],
-      "topBanner":"/jmr/qcoom/banner.png",
+      "topBanner": "/jmr/qcoom/banner.png",
       "images": [
         {
-          "imgUrl":"/jmr/qcoom/emi.png",
-          "title":"emi"
-
+          "imgUrl": "/jmr/qcoom/emi.png",
+          "title": "emi"
         },
         {
-          "imgUrl":"/jmr/qcoom/campign.png",
-          "title":"Request product"
+          "imgUrl": "/jmr/qcoom/campign.png",
+          "title": "Request product"
         }
       ],
-      "comparesion":{
-        "imgUrl":"/public/jmr/qcoom/change.png"
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
       },
-      "client":"JMR",
-      "techStack":[
+      "client": "JMR",
+      "techStack": [
         "Next Js",
         "antd",
         "scss",
-         "third party package"
+        "third party package"
       ],
       "workido": [
         {
@@ -51,18 +50,18 @@
           ]
         },
         {
-          "title": "Campaign Product",
+          "title": "Campaign Product API Integration",
           "subtitle": [
             "Countdown Timers",
+            "Campaign Popup",
             "Show Campaign products in campaign section dynamically",
             "Indicate that products are part of a limited-time or limited-quantity campaign.",
             "Responsive Design",
             "User-Friendly Navigation"
-      
           ]
         },
         {
-          "title": "EMI",
+          "title": "EMI API Integration",
           "subtitle": [
             "Flexible Payment Plans",
             "Display applicable interest rates for different EMI plans",
@@ -70,7 +69,7 @@
           ]
         },
         {
-          "title": "Requested Product",
+          "title": "Requested Product UI & API Integration",
           "subtitle": [
             "A specific page or section where users can initiate product requests",
             "Users specify details about the desired product, such as name, description, brand, or any specific features.",
@@ -86,32 +85,23 @@
         {
           "title": "Next.js Development",
           "subtitle": "Utilize Next.js for server-side rendering (SSR) and building scalable applications.Optimize applications for performance, SEO, and user experience using Next.js features."
-          
         },
         {
           "title": "State Management",
           "subtitle": "Manage state using tools like Redux for complex applications.Implement stateful components and ensure efficient data flow."
-            
-          
         },
         {
           "title": "Component-Based Architecture",
           "subtitle": "Create reusable components for scalable and maintainable code."
-            
-          
         },
         {
           "title": "API Integration",
           "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
-            
-          
         },
         {
           "title": "Responsive Design",
           "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
-          
         },
-        
         {
           "title": "Collaboration with Backend Developers",
           "subtitle": "Collaborate with backend developers to integrate frontend and backend logic.Understand and work with RESTful APIs"
@@ -122,7 +112,7 @@
         },
         {
           "title": "Version Control",
-          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."  
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
         },
         {
           "title": "CI/CD Implementation",
@@ -140,7 +130,6 @@
           "title": "Agile Development",
           "subtitle": "Work within an Agile development environment, participating in sprint planning and daily stand-ups.Collaborate with cross-functional teams to deliver features on time."
         }
-
       ]
     },
     {
@@ -152,34 +141,31 @@
       "demo": "https://piickmeexpress.com/",
       "source": "",
       "previewImge": "/jmr/piickme.png",
-      "title":[
+      "title": [
         "Develop landing ",
         "piickeme express website"
       ],
-      "subtitle":[
+      "subtitle": [
         "Courier Service",
         "Logistics provided"
       ],
-      "topBanner":"/jmr/piickeme/topbanner.png",
+      "topBanner": "/jmr/piickeme/topbanner.png",
       "images": [
         {
-          "imgUrl":"/jmr/piickeme/landing.png",
-          "title":"piickme landing website"
-
+          "imgUrl": "/jmr/piickeme/landing.png",
+          "title": "piickme landing website"
         }
-        
       ],
-      "comparesion":{
-        "imgUrl":"/public/jmr/qcoom/change.png"
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
       },
-      "client":"JMR",
-      "techStack":[
+      "client": "JMR",
+      "techStack": [
         "react js",
         "antd",
         "scss",
-         "third party package"
+        "third party package"
       ],
-    
       "workido": [
         {
           "title": "Landing Page",
@@ -188,17 +174,15 @@
             "Responsive Design",
             "Show Service https://piickmeexpress.com/",
             "Breakdown price plan based on location"
-            
           ]
         },
         {
-          "title": "Login & Registration",
+          "title": "Login & Registration API Integration",
           "subtitle": [
             "Create a merchant new account with company details.",
             "Validate and verify user information",
             "Secure login functionality",
             "Password recovery/reset options."
-           
           ]
         }
       ],
@@ -210,32 +194,23 @@
         {
           "title": "Next.js Development",
           "subtitle": "Utilize Next.js for server-side rendering (SSR) and building scalable applications.Optimize applications for performance, SEO, and user experience using Next.js features."
-          
         },
         {
           "title": "State Management",
           "subtitle": "Manage state using tools like Redux for complex applications.Implement stateful components and ensure efficient data flow."
-            
-          
         },
         {
           "title": "Component-Based Architecture",
           "subtitle": "Create reusable components for scalable and maintainable code."
-            
-          
         },
         {
           "title": "API Integration",
           "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
-            
-          
         },
         {
           "title": "Responsive Design",
           "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
-          
         },
-        
         {
           "title": "Collaboration with Backend Developers",
           "subtitle": "Collaborate with backend developers to integrate frontend and backend logic.Understand and work with RESTful APIs"
@@ -246,7 +221,7 @@
         },
         {
           "title": "Version Control",
-          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."  
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
         },
         {
           "title": "CI/CD Implementation",
@@ -264,11 +239,10 @@
           "title": "Agile Development",
           "subtitle": "Work within an Agile development environment, participating in sprint planning and daily stand-ups.Collaborate with cross-functional teams to deliver features on time."
         }
-
       ]
     },
     {
-      "id":3,
+      "id": 3,
       "type": "featured",
       "name": "QFOOD : Food & Groceries",
       "image": "",
@@ -276,35 +250,37 @@
       "demo": "https://qfood.com.bd/",
       "source": "",
       "previewImge": "/jmr/qfood.png",
-      "title":[
+      "title": [
         "Develop & Design ",
         "Online Food Delivery website"
       ],
-      "subtitle":[
+      "subtitle": [
         "Courier Service",
         "Logistics provided"
       ],
-      "topBanner":"/jmr/piickeme/topbanner.png",
+      "topBanner": "/jmr/qfood/topbanner.jpg",
       "images": [
         {
-          "imgUrl":"/jmr/piickeme/landing.png",
-          "title":"piickme landing website"
+          "imgUrl": "/jmr/qfood/product1.png",
+          "title": "Home,Cart,login,Restaurent page"
+        },
+        {
+          "imgUrl": "/jmr/qfood/product2.png",
+          "title": "Food List,Location,Wishlist,delivery details page"
         }
-        
       ],
-      "comparesion":{
-        "imgUrl":"/public/jmr/qcoom/change.png"
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
       },
-      "client":"JMR",
-      "techStack":[
+      "client": "JMR",
+      "techStack": [
         "next js",
         "tailwind css",
         "context api",
         "React Query",
         "Hooks",
-         "third party package"
+        "third party package"
       ],
-    
       "workido": [
         {
           "title": "UI Develop",
@@ -314,7 +290,7 @@
             "Performance Optimization",
             "Responsive Design",
             "Component-Based Architectur",
-            "Cross Browser Compatibility" 
+            "Cross Browser Compatibility"
           ]
         },
         {
@@ -336,32 +312,23 @@
         {
           "title": "Next.js Development",
           "subtitle": "Utilize Next.js for server-side rendering (SSR) and building scalable applications.Optimize applications for performance, SEO, and user experience using Next.js features."
-          
         },
         {
           "title": "State Management",
           "subtitle": "Manage state using tools like Redux for complex applications.Implement stateful components and ensure efficient data flow."
-            
-          
         },
         {
           "title": "Component-Based Architecture",
           "subtitle": "Create reusable components for scalable and maintainable code."
-            
-          
         },
         {
           "title": "API Integration",
           "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
-            
-          
         },
         {
           "title": "Responsive Design",
           "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
-          
         },
-        
         {
           "title": "Collaboration with Backend Developers",
           "subtitle": "Collaborate with backend developers to integrate frontend and backend logic.Understand and work with RESTful APIs"
@@ -372,7 +339,7 @@
         },
         {
           "title": "Version Control",
-          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."  
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
         },
         {
           "title": "CI/CD Implementation",
@@ -390,103 +357,781 @@
           "title": "Agile Development",
           "subtitle": "Work within an Agile development environment, participating in sprint planning and daily stand-ups.Collaborate with cross-functional teams to deliver features on time."
         }
-
       ]
     },
     {
+      "id": 4,
       "type": "featured",
       "name": "QCOOM : ADMIN",
       "image": "",
       "description": " Admin panel for e-commerce, often referred to as an admin dashboard, is a crucial component of an e-commerce platform. ",
-      "demo": "https://qfood.com.bd/",
+      "demo": "https://admin.qfood.com.bd/",
       "source": "",
-      "tools1": "React JS",
-      "tools2": "Tailwind Css",
-      "tools3": "Third Party Pac..",
       "previewImge": "/jmr/qdmin-qcoom.png",
-      "productDetails": {
-        "images": [
-          "../assets/image/personal.jpeg",
-          "../assets/image/client1.png"
-        ],
-        "desc": "Hello"
-      }
+      "title": [
+        "Develop & Design ",
+        "E-commerce Admin Panel"
+      ],
+      "subtitle": [
+        "Admin Panel",
+        "QCOMMERCE"
+      ],
+      "topBanner": "/jmr/commerce-admin/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/jmr/commerce-admin/f1.png",
+          "title": "Order list admin panel page"
+        },
+        {
+          "imgUrl": "/jmr/commerce-admin/f2.png",
+          "title": "Shop list admin panel page"
+        },
+        {
+          "imgUrl": "/jmr/commerce-admin/f3.png",
+          "title": "Popup list admin panel page"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "JMR",
+      "techStack": [
+        "React js",
+        "Ant Design",
+        "Context api",
+        "Hooks",
+        "Chart JS",
+        "third party package"
+      ],
+      "workido": [
+        {
+          "title": "UI Develop",
+          "subtitle": [
+            "DashBoard Reporting,Analytics,Data Visualization",
+            "Order Management",
+            "Shop Management",
+            "Promo Code Generate",
+            "Campaign Popup",
+            "Shop Brand",
+            "EMI Management",
+            "E-commerce Banner Management",
+            "Responsive Design,Bug Fixes and Maintenance"
+          ]
+        },
+        {
+          "title": "API Integration DashBoard",
+          "subtitle": [
+            "Data Visualization Daily, monthly,yearly Order Status.",
+            "Data Visualization Daily, monthly,yearly Amount Status.",
+            "Orders Visualization Isnside and Outside Dhaka.",
+            "Payment Analytics To show which payment menthod are mostly used by user.",
+            "Top Selling Shops and Products Data",
+            "Purchase Order and Credit Order Request List and Change status"
+          ]
+        },
+        {
+          "title": "API Integration Order Management",
+          "subtitle": [
+            "View and manage customer orders",
+            "Advanced Search and Filters option",
+            "Order Details where show order info,customer info,shop info,orders item",
+            "Order processing and status tracking",
+            "Show Purchase order List with multiple filter",
+            "Create Purchase order Request and change order status settle or unsettele by admin,pdf view",
+            "Manual Order Create,Upload Using CSV",
+            "Download order in CSV and pdf format",
+            "Form Validation and Error Handling"
+          ]
+        },
+        {
+          "title": "API Integration Shop Management",
+          "subtitle": [
+            "Create,Update,Delete Shop",
+            "Form Validation and Error Handling",
+            "Advanced Search and Filters option",
+            "Shop Close and open status",
+            "Shop Details where show order list under shops,produts list,transaction history,supplier info",
+            "Download Shops List in CSV format"
+          ]
+        },
+        {
+          "title": "API Integration Promo & Campaign",
+          "subtitle": [
+            "Create,Update,Delete Promo and Campaign",
+            "Form Validation and Error Handling",
+            "Show List promo and campaign",
+            "Change status promo active and inactive",
+            "campaign Published or not status",
+            "Details show promo and campaign"
+          ]
+        },
+        {
+          "title": "API Integration Shop brand & Banner",
+          "subtitle": [
+            "Create,Update,Upload Image,Delete brand and banner",
+            "Form Validation and Error Handling",
+            "Show List brand and banner",
+            "Change banner status  active/inactive in e-commerce",
+            "Filter and Search options",
+            "Details show brand and banner"
+          ]
+        },
+        {
+          "title": "API Integration EMI Management",
+          "subtitle": [
+            "Create,Update,Delete EMI",
+            "Add Bank Info For EMI",
+            "Show List EMI",
+            "Change EMI status which bank active/inactive in e-commerce",
+            "Filter and Search options",
+            "Views Details EMI info"
+          ]
+        },
+        {
+          "title": "API Integration POPUP E-commerce",
+          "subtitle": [
+            "Create,Update,Delete Popup",
+            "Make Different Format Popup for different Web,Android,IOS",
+            "Show List popup",
+            "Change POP status when active/inactive in e-commerce",
+            "Filter and Search options",
+            "Views Details popup info"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Next.js Development",
+          "subtitle": "Utilize Next.js for server-side rendering (SSR) and building scalable applications.Optimize applications for performance, SEO, and user experience using Next.js features."
+        },
+        {
+          "title": "State Management",
+          "subtitle": "Manage state using tools like Redux for complex applications.Implement stateful components and ensure efficient data flow."
+        },
+        {
+          "title": "Component-Based Architecture",
+          "subtitle": "Create reusable components for scalable and maintainable code."
+        },
+        {
+          "title": "API Integration",
+          "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Collaboration with Backend Developers",
+          "subtitle": "Collaborate with backend developers to integrate frontend and backend logic.Understand and work with RESTful APIs"
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "CI/CD Implementation",
+          "subtitle": "Learning CI/CD pipelines for automated testing and deployment.work with deployment tools to ensure smooth releases."
+        },
+        {
+          "title": "Monitoring and Debugging",
+          "subtitle": "Monitor application performance and address issues.Debug and troubleshoot issues reported during testing or production."
+        },
+        {
+          "title": "Code Quality and Testing",
+          "subtitle": "Conduct unit testing and integration testing to ensure code reliability."
+        },
+        {
+          "title": "Agile Development",
+          "subtitle": "Work within an Agile development environment, participating in sprint planning and daily stand-ups.Collaborate with cross-functional teams to deliver features on time."
+        }
+      ]
     },
     {
+      "id": 5,
       "type": "featured",
       "name": "QFOOD : ADMIN",
       "image": "",
-      "description": "Food delivery platform, commonly referred to as an admin dashboard, serves as the control center for managing various aspects of the online food delivery business. I",
-      "demo": "https://staging-admin.qfood.com.bd/login",
+      "description": "Food delivery platform, commonly referred to as an admin dashboard, serves as the control center for managing various aspects of the online food delivery business.",
+      "demo": "https://admin.qfood.com.bd/",
       "source": "",
-      "tools1": "Next JS",
-      "tools2": "Antd/SCSS",
-      "tools3": "Third Party Pac..",
       "previewImge": "/jmr/qfood-admin.png",
-      "productDetails": {
-        "images": [
-          "../assets/image/personal.jpeg",
-          "../assets/image/client1.png"
-        ],
-        "desc": "Hello"
-      }
+      "title": [
+        "Develop & Design ",
+        "Q-Food Delivery Admin Panel"
+      ],
+      "subtitle": [
+        "Admin Panel",
+        "QCOMMERCE"
+      ],
+      "topBanner": "/jmr/qfood-admin/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/jmr/qfood-admin/f1.png",
+          "title": "Settlement Credit admin panel page"
+        },
+        {
+          "imgUrl": "/jmr/qfood-admin/f2.png",
+          "title": "brand admin panel page"
+        },
+        {
+          "imgUrl": "/jmr/qfood-admin/f3.png",
+          "title": "Campaign list admin panel page"
+        },
+        {
+          "imgUrl": "/jmr/qfood-admin/f4.png",
+          "title": "Shop list admin panel page"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "JMR",
+      "techStack": [
+        "React js",
+        "Ant Design",
+        "Context api",
+        "Hooks",
+        "Chart JS",
+        "third party package"
+      ],
+      "workido": [
+        {
+          "title": "UI Develop",
+          "subtitle": [
+            "DashBoard Reporting,Analytics,Data Visualization",
+            "Order Management",
+            "Shop Management",
+            "Promo Code Generate",
+            "Campaign Popup",
+            "Shop Brand",
+            "Credit Settlement",
+            "E-commerce Banner Management",
+            "Responsive Design,Bug Fixes and Maintenance"
+          ]
+        },
+        {
+          "title": "API Integration DashBoard",
+          "subtitle": [
+            "Data Visualization Daily, monthly,yearly Order Status.",
+            "Data Visualization Daily, monthly,yearly Amount Status.",
+            "Orders Visualization Isnside and Outside Dhaka.",
+            "Payment Analytics To show which payment menthod are mostly used by user.",
+            "Top Selling Shops and Products Data",
+            "Purchase Order and Credit Order Request List and Change status"
+          ]
+        },
+        {
+          "title": "API Integration Order Management",
+          "subtitle": [
+            "View and manage customer orders",
+            "Advanced Search and Filters option",
+            "Order Details where show order info,customer info,shop info,orders item",
+            "Order processing and status tracking",
+            "Show Purchase order List with multiple filter",
+            "Create Purchase order Request and change order status settle or unsettele by admin,pdf view",
+            "Manual Order Create,Upload Using CSV",
+            "Download order in CSV and pdf format",
+            "Form Validation and Error Handling"
+          ]
+        },
+        {
+          "title": "API Integration Shop Management",
+          "subtitle": [
+            "Create,Update,Delete Shop",
+            "Form Validation and Error Handling",
+            "Advanced Search and Filters option",
+            "Shop Close and open status",
+            "Shop Details where show order list under shops,produts list,transaction history,supplier info",
+            "Download Shops List in CSV format"
+          ]
+        },
+        {
+          "title": "API Integration Promo & Campaign",
+          "subtitle": [
+            "Create,Update,Delete Promo and Campaign",
+            "Form Validation and Error Handling",
+            "Show List promo and campaign",
+            "Change status promo active and inactive",
+            "campaign Published or not status",
+            "Details show promo and campaign"
+          ]
+        },
+        {
+          "title": "API Integration Shop brand & Banner",
+          "subtitle": [
+            "Create,Update,Upload Image,Delete brand and banner",
+            "Form Validation and Error Handling",
+            "Show List brand and banner",
+            "Change banner status  active/inactive in e-commerce",
+            "Filter and Search options",
+            "Details show brand and banner"
+          ]
+        },
+        {
+          "title": "API Integration Credit Settlement",
+          "subtitle": [
+            "Create,Update,Delete Credit",
+            "Show List of settlement",
+            "Download Credit Settlement in CSV",
+            "after Credit Settlemt Show list CEO Order Request",
+            "Filter and Search options",
+            "Views Details info"
+          ]
+        },
+        {
+          "title": "API Integration POPUP E-commerce",
+          "subtitle": [
+            "Create,Update,Delete Popup",
+            "Make Different Format Popup for different Web,Android,IOS",
+            "Show List popup",
+            "Change POP status when active/inactive in e-commerce",
+            "Filter and Search options",
+            "Views Details popup info"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Next.js Development",
+          "subtitle": "Utilize Next.js for server-side rendering (SSR) and building scalable applications.Optimize applications for performance, SEO, and user experience using Next.js features."
+        },
+        {
+          "title": "State Management",
+          "subtitle": "Manage state using tools like Redux for complex applications.Implement stateful components and ensure efficient data flow."
+        },
+        {
+          "title": "Component-Based Architecture",
+          "subtitle": "Create reusable components for scalable and maintainable code."
+        },
+        {
+          "title": "API Integration",
+          "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Collaboration with Backend Developers",
+          "subtitle": "Collaborate with backend developers to integrate frontend and backend logic.Understand and work with RESTful APIs"
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "CI/CD Implementation",
+          "subtitle": "Learning CI/CD pipelines for automated testing and deployment.work with deployment tools to ensure smooth releases."
+        },
+        {
+          "title": "Monitoring and Debugging",
+          "subtitle": "Monitor application performance and address issues.Debug and troubleshoot issues reported during testing or production."
+        },
+        {
+          "title": "Code Quality and Testing",
+          "subtitle": "Conduct unit testing and integration testing to ensure code reliability."
+        },
+        {
+          "title": "Agile Development",
+          "subtitle": "Work within an Agile development environment, participating in sprint planning and daily stand-ups.Collaborate with cross-functional teams to deliver features on time."
+        }
+      ]
     },
     {
+      "id": 6,
       "type": "featured",
       "name": "QFOOD : MERCHANT",
       "image": "",
       "description": " QFood merchant, referring to the administrative dashboard for a food delivery service specifically tailored for merchants or restaurant owners partnering with QFood, plays a vital role in managing various aspects of their participation in the platform.",
-      "demo": "https://staging-admin.qfood.com.bd/login",
+      "demo": "https://merchant.qfood.com.bd/",
       "source": "",
-      "tools1": "Next JS",
-      "tools2": "Antd/SCSS",
-      "tools3": "Third Party Pac..",
       "previewImge": "/jmr/qfood-merchant.png",
-      "productDetails": {
-        "images": [
-          "../assets/image/personal.jpeg",
-          "../assets/image/client1.png"
-        ],
-        "desc": "Hello"
-      }
+      "title": [
+        "Develop & Design ",
+        "Merchant Admin Panel"
+      ],
+      "subtitle": [
+        "Admin Panel",
+        "QCOOM MERCHANT",
+        "QFOOD MERCHANT"
+      ],
+      "topBanner": "/jmr/merchant/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/jmr/merchant/f1.png",
+          "title": "Order list merchant panel page"
+        },
+        {
+          "imgUrl": "/jmr/merchant/f2.png",
+          "title": "Invoice merchant panel page"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "JMR",
+      "techStack": [
+        "React js",
+        "Ant Design",
+        "Context api",
+        "Hooks",
+        "third party package"
+      ],
+      "workido": [
+        {
+          "title": "Merchant(Shop)",
+          "subtitle": [
+            "User Authentication and Authorization",
+            "Role-based access control",
+            "View and manage incoming orders",
+            "Accept, reject, or assign orders to delivery personnel.",
+            "Monitor the status of each order",
+            "Invoice For each order",
+            "Search and Filter functionality"
+          ]
+        },
+        {
+          "title": "Merchant(Brand)",
+          "subtitle": [
+            "User Authentication and Authorization",
+            "Role-based access control",
+            "View and manage incoming orders",
+            "Accept, reject, or assign orders to delivery personnel.",
+            "Monitor the status of each order",
+            "Search and Filter functionality"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Next.js Development",
+          "subtitle": "Utilize Next.js for server-side rendering (SSR) and building scalable applications.Optimize applications for performance, SEO, and user experience using Next.js features."
+        },
+        {
+          "title": "State Management",
+          "subtitle": "Manage state using tools like Redux for complex applications.Implement stateful components and ensure efficient data flow."
+        },
+        {
+          "title": "Component-Based Architecture",
+          "subtitle": "Create reusable components for scalable and maintainable code."
+        },
+        {
+          "title": "API Integration",
+          "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Collaboration with Backend Developers",
+          "subtitle": "Collaborate with backend developers to integrate frontend and backend logic.Understand and work with RESTful APIs"
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "CI/CD Implementation",
+          "subtitle": "Learning CI/CD pipelines for automated testing and deployment.work with deployment tools to ensure smooth releases."
+        },
+        {
+          "title": "Monitoring and Debugging",
+          "subtitle": "Monitor application performance and address issues.Debug and troubleshoot issues reported during testing or production."
+        },
+        {
+          "title": "Code Quality and Testing",
+          "subtitle": "Conduct unit testing and integration testing to ensure code reliability."
+        },
+        {
+          "title": "Agile Development",
+          "subtitle": "Work within an Agile development environment, participating in sprint planning and daily stand-ups.Collaborate with cross-functional teams to deliver features on time."
+        }
+      ]
     },
     {
+      "id": 7,
       "type": "featured",
       "name": "PIICKME : ADMIN",
       "image": "",
-      "description": "Delivery service is a critical component that empowers administrators and managers to oversee, manage, and optimize various aspects of the delivery operations. It serves as a centralized hub for monitoring deliveries, managing drivers, handling customer support, and making informed decisions. Here are key features and aspects of an admin panel for a delivery service:",
-      "demo": "https://staging-admin.qfood.com.bd/login",
+      "description": "A centralized dashboard for an overview of system activities, analytics, and key performance indicators",
+      "demo": "https://admin.piickmeexpress.com/login",
       "source": "",
-      "tools1": "Next JS",
-      "tools2": "Antd/SCSS",
-      "tools3": "Third Party Pac..",
       "previewImge": "/jmr/piickme-admin.png",
-      "productDetails": {
-        "images": [
-          "../assets/image/personal.jpeg",
-          "../assets/image/client1.png"
-        ],
-        "desc": "Hello"
-      }
+      "title": [
+        "Develop & Re-Design ",
+        "PIICKME EXPRESS Admin Panel"
+      ],
+      "subtitle": [
+        "Admin Panel",
+        "Piickme Express",
+        "Courier Service"
+      ],
+      "topBanner": "/jmr/piicke-admin/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/jmr/piicke-admin/f1.png",
+          "title": "Settlement History admin panel page"
+        },
+        {
+          "imgUrl": "/jmr/piicke-admin/f2.png",
+          "title": "Settlement admin panel page"
+        },
+        {
+          "imgUrl": "/jmr/piicke-admin/f3.png",
+          "title": "Merchant list admin panel page"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "JMR",
+      "techStack": [
+        "React js",
+        "Ant Design",
+        "Context api",
+        "Hooks",
+        "React Bootstrap",
+        "third party package"
+      ],
+      "workido": [
+        {
+          "title": "UI Develop",
+          "subtitle": [
+            "DashBoard",
+            "Settlement",
+            "Settlement History",
+            "Merchant",
+            "Responsive Design,Bug Fixes and Maintenance"
+          ]
+        },
+        {
+          "title": "API Integration Settlement",
+          "subtitle": [
+            "Display key metrics such as total settlements, pending amounts, and successful transactions",
+            "Advanced filter and search feature",
+            "Show Different types like return,deliveried,damaged of status based of courier order",
+            "Provide courier partners with a detailed breakdown of their earnings.",
+            "Display total earnings, successful deliveries, and pending settlements",
+            "Generate invoices for completed deliveries and settlements"
+          ]
+        },
+        {
+          "title": "API Integration Settlement History",
+          "subtitle": [
+            "Include details such as transaction date, amount, order details, and courier information",
+            "Advanced Search and Filters option",
+            "Show settlement hsitory amount collected and payout",
+            "Generate invoices for completed deliveries and settlements"
+          ]
+        },
+        {
+          "title": "API Integration Merchant",
+          "subtitle": [
+            "Create,Update,Delete Merchant",
+            "Form Validation and Error Handling",
+            "Search and Filters option",
+            "status chaged based on merchant",
+            "Merchant Details where show order bank,payment,order charge info"
+          ]
+        },
+        {
+          "title": "API Integration Dashboard",
+          "subtitle": [
+            "A centralized dashboard for an overview of system activities, analytics, and key performance indicators",
+            "Manage user accounts, roles, and permissions",
+            "Merchanr Details Info"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Next.js Development",
+          "subtitle": "Utilize Next.js for server-side rendering (SSR) and building scalable applications.Optimize applications for performance, SEO, and user experience using Next.js features."
+        },
+        {
+          "title": "State Management",
+          "subtitle": "Manage state using tools like Redux for complex applications.Implement stateful components and ensure efficient data flow."
+        },
+        {
+          "title": "Component-Based Architecture",
+          "subtitle": "Create reusable components for scalable and maintainable code."
+        },
+        {
+          "title": "API Integration",
+          "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Collaboration with Backend Developers",
+          "subtitle": "Collaborate with backend developers to integrate frontend and backend logic.Understand and work with RESTful APIs"
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "CI/CD Implementation",
+          "subtitle": "Learning CI/CD pipelines for automated testing and deployment.work with deployment tools to ensure smooth releases."
+        },
+        {
+          "title": "Monitoring and Debugging",
+          "subtitle": "Monitor application performance and address issues.Debug and troubleshoot issues reported during testing or production."
+        },
+        {
+          "title": "Code Quality and Testing",
+          "subtitle": "Conduct unit testing and integration testing to ensure code reliability."
+        },
+        {
+          "title": "Agile Development",
+          "subtitle": "Work within an Agile development environment, participating in sprint planning and daily stand-ups.Collaborate with cross-functional teams to deliver features on time."
+        }
+      ]
     },
     {
+      "id": 8,
       "type": "featured",
       "name": "PIICKME : MERCHANT",
       "image": "",
       "description": "merchant panel for a delivery service is a dedicated interface designed for businesses and vendors participating in the delivery service. This panel allows merchants to manage various aspects of their offerings, streamline order processing, and optimize their presence on the platform. Here are key features and aspects of a merchant panel for a delivery servic",
-      "demo": "https://staging-admin.qfood.com.bd/login",
+      "demo": "https://piickmeexpress.com/login",
       "source": "",
-      "tools1": "Next JS",
-      "tools2": "Antd/SCSS",
-      "tools3": "Third Party Pac..",
       "previewImge": "/jmr/piickme-merchant.png",
-      "productDetails": {
-        "images": [
-          "../assets/image/personal.jpeg",
-          "../assets/image/client1.png"
-        ],
-        "desc": "Hello"
-      }
+      "title": [
+        "Develop & Re-Design ",
+        "PIICKME EXPRESS Merchant Panel"
+      ],
+      "subtitle": [
+        "Merchant Panel",
+        "Piickme Express",
+        "Courier Service"
+      ],
+      "topBanner": "/jmr/piickeme-merchant/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/jmr/piickeme-merchant/f1.png",
+          "title": "Dashboard page"
+        },
+        {
+          "imgUrl": "/jmr/piickeme-merchant/f2.png",
+          "title": "Login panel page"
+        },
+        {
+          "imgUrl": "/jmr/piickeme-merchant/f3.png",
+          "title": "Forget password page"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "JMR",
+      "techStack": [
+        "React js",
+        "Elastic UI",
+        "Context api",
+        "Hooks",
+        "third party package"
+      ],
+      "workido": [
+        {
+          "title": "UI Develop",
+          "subtitle": [
+            "DashBoard",
+            "Advanced Search and filter",
+            "User Authentication and Authorization",
+            "Bug Fixes and Maintenance"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Next.js Development",
+          "subtitle": "Utilize Next.js for server-side rendering (SSR) and building scalable applications.Optimize applications for performance, SEO, and user experience using Next.js features."
+        },
+        {
+          "title": "State Management",
+          "subtitle": "Manage state using tools like Redux for complex applications.Implement stateful components and ensure efficient data flow."
+        },
+        {
+          "title": "Component-Based Architecture",
+          "subtitle": "Create reusable components for scalable and maintainable code."
+        },
+        {
+          "title": "API Integration",
+          "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Collaboration with Backend Developers",
+          "subtitle": "Collaborate with backend developers to integrate frontend and backend logic.Understand and work with RESTful APIs"
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "CI/CD Implementation",
+          "subtitle": "Learning CI/CD pipelines for automated testing and deployment.work with deployment tools to ensure smooth releases."
+        },
+        {
+          "title": "Monitoring and Debugging",
+          "subtitle": "Monitor application performance and address issues.Debug and troubleshoot issues reported during testing or production."
+        },
+        {
+          "title": "Code Quality and Testing",
+          "subtitle": "Conduct unit testing and integration testing to ensure code reliability."
+        },
+        {
+          "title": "Agile Development",
+          "subtitle": "Work within an Agile development environment, participating in sprint planning and daily stand-ups.Collaborate with cross-functional teams to deliver features on time."
+        }
+      ]
     }
   ],
   "RemoteUkraine": [
@@ -496,81 +1141,261 @@
       "name": "BEAT.COM",
       "image": "",
       "description": "A Place To Buy Beats From the World's Best Producers",
-      "demo": "https://staging-admin.qfood.com.bd/login",
+      "demo": "",
       "source": "",
-      "tools1": "Next JS",
-      "tools2": "Antd/SCSS",
-      "tools3": "Third Party Pac..",
       "previewImge": "/ukraine/beatdotcom.png",
-      "productDetails": {
-        "images": [
-          "../assets/image/personal.jpeg",
-          "../assets/image/client1.png"
-        ],
-        "roles": [
-          {
-            "title": "Responsive Design Implementation",
-            "subtitle": "Crafting HTML templates for seamless viewing on various devices."
-          },
-          {
-            "title": "Cross-Browser Compatibility",
-            "subtitle": "Ensuring consistent functionality and appearance across different browsers."
-          },
-          {
-            "title": "Wireframe Translation",
-            "subtitle": "Translating design wireframes into functional and structured HTML templates."
-          },
-          {
-            "title": "Collaborative Design Integration",
-            "subtitle": "Working closely with design teams to integrate visuals into HTML templates."
-          },
-          {
-            "title": "Code Optimization",
-            "subtitle": "Implementing best practices to optimize HTML code for performance and efficiency."
-          },
-          {
-            "title": "Component Modularity",
-            "subtitle": "Creating modular HTML components for easy reuse and maintenance."
-          },
-          {
-            "title": "Template Documentation",
-            "subtitle": "Providing comprehensive documentation for HTML templates and code structure."
-          },
-          {
-            "title": "Semantic HTML Markup",
-            "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
-          },
-          {
-            "title": "Form Integration",
-            "subtitle": "Implementing and styling HTML forms for user interaction and data submission."
-          },
-          {
-            "title": "CSS Framework Integration",
-            "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
-          },
-          {
-            "title": "Dynamic Content Integration",
-            "subtitle": "Incorporating dynamic content into HTML templates for a personalized user experience."
-          },
-          {
-            "title": "Collaboration with Backend Developers",
-            "subtitle": "Coordinating with backend developers to ensure seamless integration of HTML templates with server-side logic."
-          },
-          {
-            "title": "Version Control",
-            "subtitle": "Utilizing version control systems for effective collaboration and code management."
-          },
-          {
-            "title": "Performance Monitoring",
-            "subtitle": "Monitoring and optimizing HTML templates for optimal page loading speed."
-          },
-          {
-            "title": "User Interface Testing",
-            "subtitle": "Conducting thorough testing of HTML templates to ensure a flawless user interface."
-          }
-        ],
-        "desc": "Hello"
-      }
+      "title": [
+        "Develop Music,",
+        "Audio Selling HTML TEMPLATE"
+      ],
+      "subtitle": [
+        "MUSIC",
+        "AUDIO",
+        "BEATS",
+        "DASHBOARD"
+      ],
+      "topBanner": "/ukraine/beat/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/ukraine/beat/f1.png",
+          "title": "Details"
+        },
+        {
+          "imgUrl": "/ukraine/beat/f2.png",
+          "title": "Audio list"
+        },
+        {
+          "imgUrl": "/ukraine/beat/f3.png",
+          "title": "Search sound"
+        },
+        {
+          "imgUrl": "/ukraine/beat/f4.png",
+          "title": "dashboard sales insight"
+        },
+        {
+          "imgUrl": "/ukraine/beat/f5.png",
+          "title": "Dashboard home page"
+        },
+        {
+          "imgUrl": "/ukraine/beat/full-frame.jpg",
+          "title": "Full Figma wireframe"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "REMOTE",
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "JAVASCRIPT",
+        "JQUERY",
+        "BOOTSTRAP"
+      ],
+      "workido": [
+        {
+          "title": "UI Develop",
+          "subtitle": [
+            "Transform figma design files into HTML/CSS templates. Ensure accurate and pixel-perfect implementation of the visual design.",
+            "Buying and selling audio beats using this platform.",
+            "Implement animations and transitions.",
+            "Implement responsive design principles to ensure the website is accessible and functions well across various devices and screen sizes"
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            "Landing business/Home",
+            "Beats Buy",
+            "Sell Beats",
+            "Creator Hub",
+            "Search By Sound",
+            "Package Page",
+            "Popular musician songs",
+            "Dashboard",
+            "Analytics Sales Insight Dashboard",
+            "Login",
+            "Signup"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Semantic HTML Markup",
+          "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+        },
+        {
+          "title": "CSS Framework Integration",
+          "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "Cross-Browser Compatibility",
+          "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+        },
+        {
+          "title": "Wireframe Translation",
+          "subtitle": "Translating design wireframes into functional and structured HTML templates."
+        },
+        {
+          "title": "Collaborative Design Integration",
+          "subtitle": "Working closely with design teams to integrate visuals into HTML templates."
+        },
+        {
+          "title": "Code Optimization",
+          "subtitle": "Implementing best practices to optimize HTML code for performance and efficiency."
+        },
+        {
+          "title": "SEO Focus",
+          "subtitle": "Implement and maintain SEO best practices."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "featured",
+      "name": "AHOKCOH.COM",
+      "image": "",
+      "description": "E-commerec platform for selling home decoration products.",
+      "demo": "",
+      "source": "",
+      "previewImge": "/ukraine/ahock/ahock.png",
+      "title": [
+        "Develop",
+        "E-commerce HTML Template"
+      ],
+      "subtitle": [
+        "E-commerce",
+        "Home Decoration",
+        "Landing"
+      ],
+      "topBanner": "/ukraine/ahock/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/ukraine/ahock/f1.png",
+          "title": "Products List Page"
+        },
+        {
+          "imgUrl": "/ukraine/ahock/f2.png",
+          "title": "Home Page with Products"
+        },
+        {
+          "imgUrl": "/ukraine/ahock/f3.png",
+          "title": "complete ui frame"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "REMOTE",
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "JAVASCRIPT",
+        "JQUERY",
+        "BOOTSTRAP"
+      ],
+      "workido": [
+        {
+          "title": "UI Develop",
+          "subtitle": [
+            "Product Showcase-Display a visually appealing catalog of home decor products",
+            "Filters-Provide filtering options based on price, style, color, etc",
+            "Categories-Organize products into categories (e.g., beds sets,pillocase) for easy navigation",
+            "Product Details-Include comprehensive product details, including dimensions, materials, and care instructions",
+            "Shopping Cart- Users to add products to a shopping cart and view a summary before checkout",
+            "Checkout-Support various payment options, including credit cards, digital wallets, and other online payment methods",
+            "Search Functionality",
+            "Active order List",
+            "History order List",
+            "My Reviews Products"
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            "Home",
+            "Products List with Category",
+            "Products Details",
+            "Add to cart details",
+            "Checkout",
+            "Active order",
+            "History order",
+            "My Reviews",
+            "Buyers office",
+            "Exchage & return",
+            "Terms of payment",
+            "News Blog",
+            "Contact",
+            "Analytics Sales Insight Dashboard",
+            "Login",
+            "Signup"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Semantic HTML Markup",
+          "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+        },
+        {
+          "title": "CSS Framework Integration",
+          "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "Cross-Browser Compatibility",
+          "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+        },
+        {
+          "title": "Wireframe Translation",
+          "subtitle": "Translating design wireframes into functional and structured HTML templates."
+        },
+        {
+          "title": "Collaborative Design Integration",
+          "subtitle": "Working closely with design teams to integrate visuals into HTML templates."
+        },
+        {
+          "title": "Code Optimization",
+          "subtitle": "Implementing best practices to optimize HTML code for performance and efficiency."
+        },
+        {
+          "title": "SEO Focus",
+          "subtitle": "Implement and maintain SEO best practices."
+        }
+      ]
     }
   ],
   "Tigerit": [
