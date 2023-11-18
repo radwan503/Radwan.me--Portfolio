@@ -24,16 +24,25 @@ export default function Hero() {
               </ul>
             </div>
             <div className="resume">
-              <a
-                href="https://github.com/radwan503/Radwan.me--Portfolio/blob/master/src/assets/RadwanAhmedCV_FE.pdf"
-                rel="noopener noreferrer"
-                target="_blank"
-                type="file"
+              <button
+                data-toggle="modal" data-target="#pdfModal"
                 className="btn btn-lg btn-green text-white"
-                download
               >
                 Get Resume
-              </a>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal fade resume-modal" id="pdfModal" tabindex="-1" role="dialog" aria-labelledby="pdfModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl" role="document">
+          <div class="modal-content">
+            <button type="button" class="close border-0" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+            <div class="modal-body">
+              <embed src="/radwanahmed-resume.pdf" type="application/pdf" width="100%" height="600px" />
             </div>
           </div>
         </div>

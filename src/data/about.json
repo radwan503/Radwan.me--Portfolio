@@ -4,7 +4,7 @@
             "name": "Radwan Ahmed",
             "aboutTitle": "ABOUT ME",
             "aboutSubTitle": "Front-End Engineer || UI Developer",
-            "aboutDescription": "the thing's, companies I have worked for.",
+            "aboutDescription": "the thing's, companies or individuals I have worked for.",
             "birthDay": "Semantic HTML",
             "age": "Responsive CSS",
             "Residence": "JavaScript (Jquery, React, etc)",
@@ -18,20 +18,20 @@
     ],
     "count": [
         {
-            "Title": "Happy Clients",
-            "count": "20"
+            "Title": "Years of Experience",
+            "count": "5"
         },
         {
-            "Title": "Project Completed",
-            "count": "30"
+            "Title": "Total Project",
+            "count": "35+"
         },
         {
-            "Title": "Tea/Coffee Cup",
-            "count": "1020"
+            "Title": "working company",
+            "count": "3"
         },
         {
-            "Title": "Line of Code",
-            "count": "10000"
+            "Title": "Country",
+            "count": "6"
         }
     ]
 }

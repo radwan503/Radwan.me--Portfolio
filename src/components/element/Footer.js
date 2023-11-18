@@ -21,7 +21,8 @@ export default function Footer() {
               <a
                 href="https://github.com/radwan503"
                 target="_blank"
-                rel="github"
+                rel="noopener noreferrer"
+                title="Github"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"

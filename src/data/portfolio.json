@@ -80,7 +80,7 @@
       "roles": [
         {
           "title": "Frontend Development",
-          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
         },
         {
           "title": "Next.js Development",
@@ -189,7 +189,7 @@
       "roles": [
         {
           "title": "Frontend Development",
-          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
         },
         {
           "title": "Next.js Development",
@@ -307,7 +307,7 @@
       "roles": [
         {
           "title": "Frontend Development",
-          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
         },
         {
           "title": "Next.js Development",
@@ -502,7 +502,7 @@
       "roles": [
         {
           "title": "Frontend Development",
-          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
         },
         {
           "title": "Next.js Development",
@@ -701,7 +701,7 @@
       "roles": [
         {
           "title": "Frontend Development",
-          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
         },
         {
           "title": "Next.js Development",
@@ -821,7 +821,7 @@
       "roles": [
         {
           "title": "Frontend Development",
-          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
         },
         {
           "title": "Next.js Development",
@@ -971,7 +971,7 @@
       "roles": [
         {
           "title": "Frontend Development",
-          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
         },
         {
           "title": "Next.js Development",
@@ -1081,7 +1081,7 @@
       "roles": [
         {
           "title": "Frontend Development",
-          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
         },
         {
           "title": "Next.js Development",
@@ -1175,10 +1175,6 @@
         {
           "imgUrl": "/ukraine/beat/f5.png",
           "title": "Dashboard home page"
-        },
-        {
-          "imgUrl": "/ukraine/beat/full-frame.jpg",
-          "title": "Full Figma wireframe"
         }
       ],
       "comparesion": {
@@ -1223,7 +1219,7 @@
       "roles": [
         {
           "title": "Frontend Development",
-          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
         },
         {
           "title": "Semantic HTML Markup",
@@ -1294,10 +1290,6 @@
         {
           "imgUrl": "/ukraine/ahock/f2.png",
           "title": "Home Page with Products"
-        },
-        {
-          "imgUrl": "/ukraine/ahock/f3.png",
-          "title": "complete ui frame"
         }
       ],
       "comparesion": {
@@ -1314,7 +1306,7 @@
       ],
       "workido": [
         {
-          "title": "UI Develop",
+          "title": "Features",
           "subtitle": [
             "Product Showcase-Display a visually appealing catalog of home decor products",
             "Filters-Provide filtering options based on price, style, color, etc",
@@ -1323,9 +1315,9 @@
             "Shopping Cart- Users to add products to a shopping cart and view a summary before checkout",
             "Checkout-Support various payment options, including credit cards, digital wallets, and other online payment methods",
             "Search Functionality",
-            "Active order List",
-            "History order List",
-            "My Reviews Products"
+            "Active order",
+            "History order",
+            "Reviews Products"
           ]
         },
         {
@@ -1353,7 +1345,745 @@
       "roles": [
         {
           "title": "Frontend Development",
-          "subtitle": "Develop modern, responsive, and dynamic user interfaces using React.js.Implement user interface components and features based on design specifications."
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Semantic HTML Markup",
+          "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+        },
+        {
+          "title": "CSS Framework Integration",
+          "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "Cross-Browser Compatibility",
+          "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+        },
+        {
+          "title": "Wireframe Translation",
+          "subtitle": "Translating design wireframes into functional and structured HTML templates."
+        },
+        {
+          "title": "Collaborative Design Integration",
+          "subtitle": "Working closely with design teams to integrate visuals into HTML templates."
+        },
+        {
+          "title": "Code Optimization",
+          "subtitle": "Implementing best practices to optimize HTML code for performance and efficiency."
+        },
+        {
+          "title": "SEO Focus",
+          "subtitle": "Implement and maintain SEO best practices."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "featured",
+      "name": "KIDS CINEMA",
+      "image": "",
+      "description": "Platform for kids, where online cinema,animation,cartoon, film review, online tv, tv shows & tv series build for kids.",
+      "demo": "",
+      "source": "",
+      "previewImge": "/ukraine/kidscinema/banner.png",
+      "title": [
+        "Develop Animation",
+        "Cartoon HTML Template"
+      ],
+      "subtitle": [
+        "Kids Movie",
+        "Animation",
+        "Education",
+        "Cartoon"
+      ],
+      "topBanner": "/ukraine/kidscinema/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/ukraine/kidscinema/f1.png",
+          "title": "Products List Page"
+        },
+        {
+          "imgUrl": "/ukraine/kidscinema/f2.png",
+          "title": "Home Page with Products"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "REMOTE",
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "JAVASCRIPT",
+        "JQUERY",
+        "BOOTSTRAP"
+      ],
+      "workido": [
+        {
+          "title": "Features",
+          "subtitle": [
+            "Cartoon,animation,Educational",
+            "Filters-Provide filtering options based on Category, age,year,country",
+            "Cinema Details-Include comprehensive details, including rating, quality, and Translation",
+            "Best Cartoopn,animation etc category",
+            "Top 100 Cartoon,animation feature to which is render all the best animation",
+            "Search Functionality",
+            "Mark Your favourite movie",
+            "Browsing History",
+            "Reviews",
+            "Movie player-play your movie,animation"
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            "Home",
+            "Details",
+            "Movie Player",
+            "Add to cart details",
+            "Best of all time",
+            "Comming soon cinema",
+            "Top 100",
+            "Reviews",
+            "Favourite cinema page",
+            "Browsing history"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Semantic HTML Markup",
+          "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+        },
+        {
+          "title": "CSS Framework Integration",
+          "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "Cross-Browser Compatibility",
+          "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+        },
+        {
+          "title": "Wireframe Translation",
+          "subtitle": "Translating design wireframes into functional and structured HTML templates."
+        },
+        {
+          "title": "Collaborative Design Integration",
+          "subtitle": "Working closely with design teams to integrate visuals into HTML templates."
+        },
+        {
+          "title": "Code Optimization",
+          "subtitle": "Implementing best practices to optimize HTML code for performance and efficiency."
+        },
+        {
+          "title": "SEO Focus",
+          "subtitle": "Implement and maintain SEO best practices."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "featured",
+      "name": "Dishop",
+      "image": "",
+      "description": "Home decor ceramics e-commerce website specializes in selling a diverse range of ceramics,kitchen products.",
+      "demo": "",
+      "source": "",
+      "previewImge": "/ukraine/dishop/banner.png",
+      "title": [
+        "Develop Kitchen ",
+        "E-commerce website"
+      ],
+      "subtitle": [
+        "Kids Movie",
+        "Animation",
+        "Education",
+        "Cartoon"
+      ],
+      "topBanner": "/ukraine/dishop/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/ukraine/dishop/f1.png",
+          "title": "products with filter"
+        },
+        {
+          "imgUrl": "/ukraine/dishop/f2.png",
+          "title": "Blog"
+        },
+        {
+          "imgUrl": "/ukraine/dishop/f3.png",
+          "title": "Products card"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "REMOTE",
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "JAVASCRIPT",
+        "JQUERY",
+        "BOOTSTRAP"
+      ],
+      "workido": [
+        {
+          "title": "Features",
+          "subtitle": [
+            "Display a comprehensive catalog of ceramics,kitchen products ",
+            "User Registration and Authentication",
+            "Search and Filters",
+            "Product Details",
+            "Shopping Cart",
+            "Checkout Process",
+            "Wishlist",
+            "Blog News-write article for home decoration",
+            "Product Reviews and Ratings",
+            "Shipping Options",
+            "Returns and Refunds",
+            "Recommended Products",
+            "Warranty and service policy",
+            "Contact"
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            "Home",
+            "Products Details",
+            "Category filter with products",
+            "Add to cart",
+            "Checkout",
+            "Products Catalog",
+            "Blog",
+            "Reviews",
+            "payment and delivery policy",
+            "warranty and service policy",
+            "contact",
+            "login",
+            "signin"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Semantic HTML Markup",
+          "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+        },
+        {
+          "title": "CSS Framework Integration",
+          "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "Cross-Browser Compatibility",
+          "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+        },
+        {
+          "title": "Wireframe Translation",
+          "subtitle": "Translating design wireframes into functional and structured HTML templates."
+        },
+        {
+          "title": "Collaborative Design Integration",
+          "subtitle": "Working closely with design teams to integrate visuals into HTML templates."
+        },
+        {
+          "title": "Code Optimization",
+          "subtitle": "Implementing best practices to optimize HTML code for performance and efficiency."
+        },
+        {
+          "title": "SEO Focus",
+          "subtitle": "Implement and maintain SEO best practices."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "featured",
+      "name": "Ogro-grocery platform",
+      "image": "",
+      "description": "Online grocery shopping platform features a user-friendly interface, allowing customers to easily browse, select, and purchase a wide variety of groceries from the comfort of their homes",
+      "demo": "",
+      "source": "",
+      "previewImge": "/ukraine/ogro/banner.png",
+      "title": [
+        "Develop ",
+        "Grocery buy platform"
+      ],
+      "subtitle": [
+        "grocery",
+        "e-commerce",
+        "food",
+        "beverage"
+      ],
+      "topBanner": "/ukraine/ogro/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/ukraine/ogro/f1.png",
+          "title": "Home Page"
+        },
+        {
+          "imgUrl": "/ukraine/ogro/f2.png",
+          "title": "Category"
+        },
+        {
+          "imgUrl": "/ukraine/ogro/f3.png",
+          "title": "category with Product"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "REMOTE",
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "JAVASCRIPT",
+        "JQUERY",
+        "BOOTSTRAP"
+      ],
+      "workido": [
+        {
+          "title": "Features",
+          "subtitle": [
+            "Grocery Products",
+            "User Registration and Authentication",
+            "Search and Filters",
+            "Product Details",
+            "Shopping Cart",
+            "Checkout Process",
+            "Wishlist",
+            "Catagory",
+            "Compare table",
+            "Contact"
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            "Home",
+            "Grocery Details",
+            "Multiple UI Category products",
+            "Add to cart",
+            "Compare",
+            "Checkout",
+            "Blog",
+            "contact",
+            "login",
+            "signin"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Semantic HTML Markup",
+          "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+        },
+        {
+          "title": "CSS Framework Integration",
+          "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "Cross-Browser Compatibility",
+          "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+        },
+        {
+          "title": "Wireframe Translation",
+          "subtitle": "Translating design wireframes into functional and structured HTML templates."
+        },
+        {
+          "title": "Collaborative Design Integration",
+          "subtitle": "Working closely with design teams to integrate visuals into HTML templates."
+        },
+        {
+          "title": "Code Optimization",
+          "subtitle": "Implementing best practices to optimize HTML code for performance and efficiency."
+        },
+        {
+          "title": "SEO Focus",
+          "subtitle": "Implement and maintain SEO best practices."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "featured",
+      "name": "NoteMake.io",
+      "image": "",
+      "description": "NoteMake empowers users to seamlessly share, review, and engage in collaborative learning through its intuitive and feature-rich platform",
+      "demo": "",
+      "source": "",
+      "previewImge": "/ukraine/notemake/banner.png",
+      "title": [
+        "Develop ",
+        "review, business website"
+      ],
+      "subtitle": [
+        "NoteMake",
+        "Business",
+        "Landing"
+      ],
+      "topBanner": "/ukraine/notemake/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/ukraine/notemake/f1.png",
+          "title": "Home Page"
+        },
+        {
+          "imgUrl": "/ukraine/notemake/f2.png",
+          "title": "Blog page"
+        },
+        {
+          "imgUrl": "/ukraine/notemake/f3.png",
+          "title": "dashboard"
+        },
+        {
+          "imgUrl": "/ukraine/notemake/f4.png",
+          "title": "review page"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "REMOTE",
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "JAVASCRIPT",
+        "JQUERY",
+        "BOOTSTRAP"
+      ],
+      "workido": [
+        {
+          "title": "Features",
+          "subtitle": [
+            "User Registration",
+            "Content Upload",
+            "Interactive Comments",
+            "pricing table compare",
+            "blog- content about notemake",
+            "support- question and answer ",
+            "Share uploaded content for collaborative reviews and constructive feedback",
+            "search capabilities to easily find specific notes",
+            "Dashboard-Insights into user activity, engagement, and popular shared content"
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            "Home",
+            "Dashboard",
+            "upload and review",
+            "customer and testmonial",
+            "pricing page",
+            "blog",
+            "support",
+            "login",
+            "singin"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Semantic HTML Markup",
+          "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+        },
+        {
+          "title": "CSS Framework Integration",
+          "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "Cross-Browser Compatibility",
+          "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+        },
+        {
+          "title": "Wireframe Translation",
+          "subtitle": "Translating design wireframes into functional and structured HTML templates."
+        },
+        {
+          "title": "Collaborative Design Integration",
+          "subtitle": "Working closely with design teams to integrate visuals into HTML templates."
+        },
+        {
+          "title": "Code Optimization",
+          "subtitle": "Implementing best practices to optimize HTML code for performance and efficiency."
+        },
+        {
+          "title": "SEO Focus",
+          "subtitle": "Implement and maintain SEO best practices."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "featured",
+      "name": "Vuetrick-Blog",
+      "image": "",
+      "description": "Blog or newsletter platform, where information meets engagement! Explore a diverse range of topics curated for your interests. Whether you're seeking expert insights, the latest trends, or simply a good read, our platform offers a seamless and enjoyable browsing experience",
+      "demo": "",
+      "source": "",
+      "previewImge": "/ukraine/vuetricks/banner.png",
+      "title": [
+        "Develop ",
+        "newsletter, Blog website"
+      ],
+      "subtitle": [
+        "Blog",
+        "Articles",
+        "Newsletter"
+      ],
+      "topBanner": "/ukraine/vuetricks/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/ukraine/vuetricks/f1.png",
+          "title": "Home Page"
+        },
+        {
+          "imgUrl": "/ukraine/vuetricks/f2.png",
+          "title": "Blog page"
+        },
+        {
+          "imgUrl": "/ukraine/vuetricks/f3.png",
+          "title": "dashboard"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "REMOTE",
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "JAVASCRIPT",
+        "JQUERY",
+        "BOOTSTRAP"
+      ],
+      "workido": [
+        {
+          "title": "Features",
+          "subtitle": [
+            "Prominent display of breaking or top news stories on the homepage",
+            "Categories and Sections",
+            "Details content",
+            "Robust search feature for users to find specific news articles or topics",
+            "Subscription Options",
+            "Related Articles",
+            "Contact form"
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            "Home",
+            "article Details",
+            "articles by category",
+            "newsletter",
+            "contact"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Semantic HTML Markup",
+          "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+        },
+        {
+          "title": "CSS Framework Integration",
+          "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "Cross-Browser Compatibility",
+          "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+        },
+        {
+          "title": "Wireframe Translation",
+          "subtitle": "Translating design wireframes into functional and structured HTML templates."
+        },
+        {
+          "title": "Collaborative Design Integration",
+          "subtitle": "Working closely with design teams to integrate visuals into HTML templates."
+        },
+        {
+          "title": "Code Optimization",
+          "subtitle": "Implementing best practices to optimize HTML code for performance and efficiency."
+        },
+        {
+          "title": "SEO Focus",
+          "subtitle": "Implement and maintain SEO best practices."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "featured",
+      "name": "s2p-Document Secure",
+      "image": "",
+      "description": "Secure Service For Storage Of Personal Documents And Passwords",
+      "demo": "",
+      "source": "",
+      "previewImge": "/ukraine/s2p/banner.png",
+      "title": [
+        "Develop ",
+        "document secure website"
+      ],
+      "subtitle": [
+        "document",
+        "password",
+        "security"
+      ],
+      "topBanner": "/ukraine/s2p/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/ukraine/s2p/f1.png",
+          "title": "Home Page"
+        },
+        {
+          "imgUrl": "/ukraine/s2p/f2.png",
+          "title": "Blog page"
+        },
+        {
+          "imgUrl": "/ukraine/s2p/f3.png",
+          "title": "dashboard"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "REMOTE",
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "JAVASCRIPT",
+        "JQUERY",
+        "BOOTSTRAP"
+      ],
+      "workido": [
+        {
+          "title": "Features",
+          "subtitle": [
+            "User Registration and Authentication",
+            "Document uploader",
+            "personal data create,update,delete form",
+            "contact info create, update,delete form",
+            "bank account create,update,delete form",
+            "setting permission info"
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            "Home",
+            "personal info",
+            "contact",
+            "documentation",
+            "password",
+            "bank account",
+            "payment card",
+            "setting"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
         },
         {
           "title": "Semantic HTML Markup",
@@ -1400,15 +2130,579 @@
   ],
   "Tigerit": [
     {
+      "id": 1,
       "type": "featured",
-      "name": "JsClock",
+      "name": "Team Task Management",
       "image": "",
-      "description": "Create Simple Background Change Clock.That Means Every second background change when clock time change.",
-      "demo": "https://radwan503.github.io/jsclock/",
-      "source": "https://github.com/radwan503/jsclock",
-      "tools1": "HTML",
-      "tools2": "CSS",
-      "tools3": "JavaScript"
+      "description": "Effortlessly manage team tasks with our intuitive platform, offering real-time collaboration, and deadline tracking. Enhance productivity and keep your team aligned on projects with our feature-rich task management solution.",
+      "demo": "",
+      "source": "",
+      "previewImge": "/tigerit/actiontracker/banner.png",
+      "title": [
+        "Develop team",
+        "task management platform"
+      ],
+      "subtitle": [
+        "task",
+        "management",
+        "collaboration"
+      ],
+      "topBanner": "/tigerit/actiontracker/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/tigerit/actiontracker/f1.png",
+          "title": "Home Page"
+        },
+        {
+          "imgUrl": "/tigerit/actiontracker/f2.png",
+          "title": "Project Details page"
+        },
+        {
+          "imgUrl": "/tigerit/actiontracker/f3.png",
+          "title": "Projects list"
+        },
+        {
+          "imgUrl": "/tigerit/actiontracker/f4.png",
+          "title": "Notes Chat"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "TIGER IT",
+      "techStack": [
+        "React js",
+        "Ionic",
+        "react bootstrap",
+        "scss",
+        "cross-platform"
+      ],
+      "workido": [
+        {
+          "title": "Features",
+          "subtitle": [
+            "Task Creation and Assignment",
+            "Task Comments and Collaboration",
+            "Deadline Reminders",
+            "Search and Filter Options",
+            "User Roles and Permissions",
+            "Task Priority and Labels",
+            "Discussion chat room",
+            "Meeting Schedule",
+            "Track the status of tasks, including to-do, in progress, completed, or delayed",
+            "Integrated calendar displaying all team tasks and deadlines for effective scheduling",
+            "Real-time notifications and updates on task progress, changes, and new assignments",
+            "File Sharing and Integration",
+            "Option to organize tasks into projects or categories for better project management",
+            "User Authentication and Authorization"
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            "Home-show all current team activity",
+            "Project-Which Project Team current work",
+            "Projects details-list of issue,next activity project wise",
+            "Risk list- Define project risk when development",
+            "Notes - Taking notes project wise",
+            "Decession room",
+            "Meeting - Schedule Meeting",
+            "Signup",
+            "Signin"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Component-Based Architecture",
+          "subtitle": "Create reusable components for scalable and maintainable code."
+        },
+        {
+          "title": "API Integration",
+          "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
+        },
+        {
+          "title": "Semantic HTML Markup",
+          "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+        },
+        {
+          "title": "CSS Framework Integration",
+          "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "Cross-Browser Compatibility",
+          "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+        },
+        {
+          "title": "Wireframe Translation",
+          "subtitle": "Translating design wireframes into functional and structured REACT templates."
+        },
+        {
+          "title": "Collaborative Design Integration",
+          "subtitle": "Working closely with design teams to integrate visuals into REACT templates."
+        },
+        {
+          "title": "Code Optimization",
+          "subtitle": "Implementing best practices to optimize REACT code for performance and efficiency."
+        },
+        {
+          "title": "SEO Focus",
+          "subtitle": "Implement and maintain SEO best practices."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "featured",
+      "name": "HRM",
+      "image": "",
+      "description": " optimizing the entire employee lifecycle within an organization. It includes functions such as recruitment, onboarding, training, performance management, and employee relations, aiming to cultivate a positive work environment, maximize employee potential, and align organizational goals with workforce capabilitie",
+      "demo": "https://hrms.tigeritbd.com/tigerhrm-client/authentication",
+      "source": "",
+      "previewImge": "/tigerit/hrm/banner.png",
+      "title": [
+        "UI Develop",
+        "Human Management System"
+      ],
+      "subtitle": [
+        "HRM",
+        "management",
+        "Infomration"
+      ],
+      "topBanner": "/tigerit/hrm/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/tigerit/hrm/f1.png",
+          "title": "Home Page"
+        },
+        {
+          "imgUrl": "/tigerit/hrm/f2.png",
+          "title": "Project Details page"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "TIGER IT",
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "BOOTSTRAP",
+        "JAVASCRIPT",
+        "Chart JS",
+        "JAVA",
+        "third party package"
+      ],
+      "workido": [
+        {
+          "title": "Features",
+          "subtitle": [
+            "Employee Information",
+            "HR Analytics and Reporting",
+            "Advanced Search and filter",
+            "Time and Attendance",
+            "Attendance Tracking",
+            "Leave Management",
+            "Performance Appraisal",
+            "Recruitment and Onboarding",
+            "Payroll Managemen",
+            "Employee Self-Service",
+            "Teams Infomatio",
+            "Reports",
+            "User Authentication and Authorization"
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            "Dashboard",
+            "All Employees Info",
+            "Employee Profile",
+            "Leaves",
+            "Attendence",
+            "Leave Setting",
+            "Departments",
+            "Team Leads",
+            "Payroll",
+            "Attendence Report",
+            "Team report",
+            "Leave Report",
+            "Performance Appraisal"
+          ]
+        },
+        {
+          "title": "UI Develop",
+          "subtitle": [
+            "Employee Information",
+            "HR Analytics and Reporting",
+            "Advanced Search and filter",
+            "Time and Attendance",
+            "Attendance Tracking",
+            "Leave Management",
+            "Performance Appraisal",
+            "Recruitment and Onboarding",
+            "Payroll Managemen",
+            "Employee Self-Service",
+            "Teams Infomatio",
+            "Reports",
+            "User Authentication and Authorization"
+          ]
+        },
+        {
+          "title": "Features Break Down",
+          "subtitle": [
+            "Maintain a centralized database with detailed profiles of each employee, including personal details, contact information, and job history",
+            "Implement a system for tracking employee attendance, including clock-in/out times, leave requests, and absence notifications",
+            "Allow employees to request, manage, and track their leave balances, and enable managers to approve or reject leave requests",
+            "Conduct performance reviews and appraisals, allowing managers to provide feedback, set goals, and document employee achievements",
+            "Manage the entire recruitment process, from posting job vacancies to onboarding new hires, including document verification and orientation",
+            "Implement a system for tracking work hours, breaks, and overtime to ensure accurate and compliant timekeeping",
+            "Automate payroll processes, calculate salaries, manage deductions, and generate pay stubs for accurate and timely payroll processing",
+            "Provide a self-service portal for employees to access personal information, submit requests, and view company policies",
+            "Generate reports and analytics on various HR metrics, such as turnover rates, employee performance, and diversity statistics.",
+            "Training and Development"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Semantic HTML Markup",
+          "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+        },
+        {
+          "title": "CSS Framework Integration",
+          "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "Cross-Browser Compatibility",
+          "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+        },
+        {
+          "title": "Wireframe Translation",
+          "subtitle": "Translating design wireframes into functional and structured REACT templates."
+        },
+        {
+          "title": "Collaborative Design Integration",
+          "subtitle": "Working closely with design teams to integrate visuals into REACT templates."
+        },
+        {
+          "title": "Code Optimization",
+          "subtitle": "Implementing best practices to optimize REACT code for performance and efficiency."
+        },
+        {
+          "title": "SEO Focus",
+          "subtitle": "Implement and maintain SEO best practices."
+        }
+      ]
+    }
+  ],
+  "Freelancer": [
+    {
+      "id": 1,
+      "type": "featured",
+      "name": "Doccare",
+      "image": "",
+      "description": "Doccare-a doctor appointment website can provide a comprehensive and user-friendly platform for patients and healthcare providers",
+      "demo": "",
+      "source": "",
+      "previewImge": "/freelancer/doccare/banner.png",
+      "title": [
+        "Develop Doctor",
+        "Appointment website"
+      ],
+      "subtitle": [
+        "Appointment",
+        "Doctor",
+        "Patient"
+      ],
+      "topBanner": "/freelancer/doccare/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/freelancer/doccare/f1.png",
+          "title": "Doctor profile"
+        },
+        {
+          "imgUrl": "/freelancer/doccare/f2.png",
+          "title": "Patient List"
+        },
+        {
+          "imgUrl": "/freelancer/doccare/f3.png",
+          "title": "Appointment"
+        },
+        {
+          "imgUrl": "/freelancer/doccare/f4.png",
+          "title": "Doctor Dashboard"
+        },
+        {
+          "imgUrl": "/freelancer/doccare/f5.png",
+          "title": "patient dashbaord"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "Freelancer",
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "JAVASCRIPT",
+        "BOOTSTRAP",
+        "third party package"
+      ],
+      "workido": [
+        {
+          "title": "Features & UI Develop",
+          "subtitle": [
+            "Doctor Appointment",
+            "Doctor Information",
+            "Dashboard for Patients",
+            "Dashboard for Doctors",
+            "Prescription Creation",
+            "Feedback and Ratings",
+            "Billing and Payments",
+            "Multi-Platform Accessibility",
+            "Health Records",
+            "Invoice",
+            "Search and Filter Options",
+            "Authentication and Authorization"
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            "Home",
+            "Dashboard Doctor",
+            "Dashboard Patient",
+            "Appointment",
+            "Doctor,patient profile details",
+            "Doctor and patient list",
+            "Search Doctor",
+            "Prescription",
+            "Invoice",
+            "Billing",
+            "login",
+            "signup"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Semantic HTML Markup",
+          "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+        },
+        {
+          "title": "CSS Framework Integration",
+          "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "Cross-Browser Compatibility",
+          "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+        },
+        {
+          "title": "Wireframe Translation",
+          "subtitle": "Translating design wireframes into functional and structured REACT templates."
+        },
+        {
+          "title": "Collaborative Design Integration",
+          "subtitle": "Working closely with design teams to integrate visuals into REACT templates."
+        },
+        {
+          "title": "Code Optimization",
+          "subtitle": "Implementing best practices to optimize REACT code for performance and efficiency."
+        },
+        {
+          "title": "SEO Focus",
+          "subtitle": "Implement and maintain SEO best practices."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "featured",
+      "name": "IPOA",
+      "image": "",
+      "description": "The association was formed by the pioneers of Bangladesh Merchant Navy Officers and Engineers after the Independence of Bangladesh.",
+      "demo": "https://ipoa.vercel.app/",
+      "source": "",
+      "previewImge": "/freelancer/ipoa/banner.png",
+      "title": [
+        "Develop immigration",
+        "passport association website"
+      ],
+      "subtitle": [
+        "IPOA",
+        "business",
+        "association"
+      ],
+      "topBanner": "/freelancer/ipoa/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/freelancer/ipoa/f1.png",
+          "title": "Home Page"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "Freelancer",
+      "techStack": [
+        "Next js",
+        "react bootstrap",
+        "scss"
+      ],
+      "workido": [
+        {
+          "title": "Features",
+          "subtitle": [
+            "Association Info in home page",
+            "Association Program Gallery",
+            "Memebership Prequisite",
+            "Membership form",
+            "notice Board",
+            "Association vote list",
+            "Excutive comitee info",
+            "association election news",
+            "User Authentication and Authorization"
+          ]
+        },
+        {
+          "title": "UI Develop & API Integration",
+          "subtitle": [
+            "UI develop from scratch figma to next js",
+            "Developing Gallery images Upload,Update form validation feature and Images displaying gallery ",
+            "Incorporating lightbox or modal views for enlarged media",
+            "Ipoa news add,delete,update form,show news in home page",
+            "President,Secretary,about,history,vision Information ",
+            "News and Election and Notice Board Info form validation & data show",
+            "Member list show,Create,update,delete",
+            "User Authentication and Authorization",
+            "Role-based access control",
+            "Contact"
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            "Home",
+            "Admin",
+            "About",
+            "President Message",
+            "General Secretary message",
+            "Ipoa History,vision",
+            "Committee",
+            "Membership Form",
+            "Election news,information",
+            "voter list",
+            "notice board",
+            "Galelry",
+            "Contact",
+            "Signup",
+            "Signin"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "API Integration",
+          "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
+        },
+        {
+          "title": "Component-Based Architecture",
+          "subtitle": "Create reusable components for scalable and maintainable code."
+        },
+        {
+          "title": "Semantic HTML Markup",
+          "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+        },
+        {
+          "title": "CSS Framework Integration",
+          "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "Cross-Browser Compatibility",
+          "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+        },
+        {
+          "title": "Wireframe Translation",
+          "subtitle": "Translating design wireframes into functional and structured REACT templates."
+        },
+        {
+          "title": "Collaborative Design Integration",
+          "subtitle": "Working closely with design teams to integrate visuals into REACT templates."
+        },
+        {
+          "title": "Code Optimization",
+          "subtitle": "Implementing best practices to optimize REACT code for performance and efficiency."
+        },
+        {
+          "title": "SEO Focus",
+          "subtitle": "Implement and maintain SEO best practices."
+        }
+      ]
     }
   ],
   "Others": [

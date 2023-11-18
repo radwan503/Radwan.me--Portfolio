@@ -89,16 +89,15 @@ export default function Skill() {
               {skill.map((skillInfo) => {
                 return (
                   <div className="col-md-2">
-                    <div class="card bg-darkblue mb-4">
+                    <div class="card skill-card bg-darkblue mb-4 position-relative">
                       <div
                         class="card-body"
                         style={{ padding: "1.25rem .5rem" }}
                       >
                         <div className="progress-header text-center clearfix">
-                          <h5 class="card-title">{skillInfo.name}</h5>
+                          <h5 class="card-title text-uppercase" style={{ fontSize: "16px" }}>{skillInfo.name}</h5>
                           {/* <h6 class="card-title float-right">{skillInfo.percent}%</h6> */}
                         </div>
-
                         {/* <ProgressBar className="bg-dark" animated  variant="success" style={{ height: "1px" }} now={skillInfo.percent} /> */}
                       </div>
                     </div>
@@ -109,37 +108,37 @@ export default function Skill() {
 
             <div className="row">
               <div className="col-md-4">
-                <div class="card bg-darkblue mb-4">
+                <div class="card skill-card bg-darkblue mb-4">
                   <div class="card-body" style={{ padding: "1.25rem .5rem" }}>
                     <div className="progress-header text-center clearfix">
-                      <h5 class="card-title">Responsive Design</h5>
+                      <h5 class="card-title" style={{ fontSize: "16px" }}>Responsive Design</h5>
                     </div>
                   </div>
                 </div>
               </div>
               <div className="col-md-4">
-                <div class="card bg-darkblue mb-4">
+                <div class="card skill-card  bg-darkblue mb-4">
                   <div class="card-body" style={{ padding: "1.25rem .5rem" }}>
                     <div className="progress-header text-center clearfix">
-                      <h5 class="card-title">Accessibility Standards</h5>
+                      <h5 class="card-title" style={{ fontSize: "16px" }}>Accessibility Standards</h5>
                     </div>
                   </div>
                 </div>
               </div>
               <div className="col-md-4">
-                <div class="card bg-darkblue mb-4">
+                <div class="card skill-card  bg-darkblue mb-4">
                   <div class="card-body" style={{ padding: "1.25rem .5rem" }}>
                     <div className="progress-header text-center clearfix">
-                      <h5 class="card-title">Cross Browser Compatibility</h5>
+                      <h5 class="card-title" style={{ fontSize: "16px" }}>Cross Browser Compatibility</h5>
                     </div>
                   </div>
                 </div>
               </div>
               <div className="col-md-4">
-                <div class="card bg-darkblue mb-4">
+                <div class="card skill-card  bg-darkblue mb-4">
                   <div class="card-body" style={{ padding: "1.25rem .5rem" }}>
                     <div className="progress-header text-center clearfix">
-                      <h5 class="card-title">Web Performance Optimization</h5>
+                      <h5 class="card-title" style={{ fontSize: "16px" }}>Web Performance Optimization</h5>
                     </div>
                   </div>
                 </div>
@@ -210,11 +209,12 @@ export default function Skill() {
               {tool.map((toolInfo) => {
                 return (
                   <div className="col-md-2">
-                    <div class="card bg-darkblue mb-5">
+                    <div class="card skill-card bg-darkblue mb-5">
                       <div class="card-body">
                         <div className="progress-header clearfix">
-                          <h5 class="card-title float-left">{toolInfo.name}</h5>
+                          <h5 class="card-title  text-center text-uppercase" style={{ fontSize: "16px" }}>{toolInfo.name}</h5>
                           {/* <h6 class="card-title float-right">{toolInfo.percent}%</h6> */}
+
                         </div>
 
                         {/* <ProgressBar className="bg-dark" animated  variant="success" style={{ height: "1px" }} now={toolInfo.percent} /> */}

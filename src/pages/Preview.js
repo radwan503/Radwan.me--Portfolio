@@ -31,7 +31,7 @@ const Preview = () => {
             <div className="intro-content">
               <div className="welcome-title">
                 <p>CASE STUDY</p>
-                <h1>
+                <h1 className="text-capitalize">
                   {detailsData.title[0]}
                   <br />
                   {detailsData.title[1]}
@@ -40,20 +40,22 @@ const Preview = () => {
               <div className="designation-list">
                 <ul>
                   {detailsData?.subtitle?.map((val) => (
-                    <li className="text-capitalize">{val}</li>
+                    <li className="text-capitalize position-relative">{val}</li>
                   ))}
                 </ul>
               </div>
               <div className="resume">
                 <a
-                  href={detailsData?.demo ? detailsData?.demo :"/"}
-                  className={detailsData?.demo==''?"btn btn-lg btn-green text-white disabled":"btn btn-lg btn-green text-white"}
-                  title={detailsData?.demo==''?"NO DEMO LINK":"DEMO"}
+                  href={detailsData?.demo}
+                  className={detailsData?.demo == '' ? "btn btn-lg btn-green text-white disabled" : "btn btn-lg btn-green text-white"}
+                  title={detailsData?.demo == '' ? "NO DEMO LINK" : "DEMO"}
+                  target="_blank"
+                  rel="noopener noreferrer"
                 >
                   Live Preview
                 </a>
-                <p className="mt-2 text-light disabled">{detailsData?.demo=='' ? 'Explore the visual representation through the screenshots provided, as a demo link is not available':''}</p>
-                
+                {/* <p className="mt-2 text-danger" style={{opacity:".5"}}>{detailsData?.demo=='' ? 'Explore the visual representation through the screenshots provided, as a demo link is not available':''}</p> */}
+
               </div>
             </div>
           </div>
@@ -72,11 +74,11 @@ const Preview = () => {
           </div>
           <div className="col-md-12">
             <p>{detailsData.description}</p>
-            <div className="d-flex align-items-center">
+            <div className="d-flex align-items-center flex-wrap" style={{ gap: "10px" }}>
               Tech Stack:
               {detailsData?.techStack.map((tech) => (
                 <span
-                  className="bg-light text-dark text-capitalize rounded px-2 py-0 ml-3"
+                  className="bg-light text-dark text-capitalize rounded px-2 py-0"
                   style={{ fontSize: "13px" }}
                 >
                   {tech}

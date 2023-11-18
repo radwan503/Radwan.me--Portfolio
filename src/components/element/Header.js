@@ -56,13 +56,14 @@ export default function Header() {
             )}
             <li className="nav-item">
               <a
-                href="tel:01796226729"
+                href="tel:01873843384"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn btn-outline-success btn-download text-white my-3 my-sm-0"
                 type="button"
-                title="01796226729"
+                title="01873843384"
               >
-                Whatsapp
+                Telegram
               </a>
             </li>
           </Nav>

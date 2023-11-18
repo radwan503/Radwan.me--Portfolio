@@ -3,10 +3,13 @@
         {
             "year": "January 2023 - Present (Front-End Engineer)",
             "companyName": "JMR",
-            "role1": "Implemented data fetching using React Hooks and Axios to efficiently retrieve and display dynamic content, enhancing the responsiveness of the e-commerce website.",
-            "role2": "Collaborated with the back-end team to design and integrate RESTful APIs, ensuring seamless communication between front-end and back-end systems.",
-            "role3": "Designed and implemented reusable React components, promoting code modularity and facilitating faster development cycles.",
-            "role4": "Integrated user authentication and authorization features, ensuring secure access to personalized content and account information",
+            "location": "Dhaka,Bangladesh",
+            "role1": "Implemented efficient data fetching strategies from APIs and databases, facilitating dynamic content display and real-time updates.",
+            "role2": "Spearheaded the development and redesign of e-commerce, food delivery, courier service, and admin panel websites, achieving a seamless user experience for a diverse user base.",
+            "role3": "Leveraged cutting-edge technologies such as React, Next, Tailwind, and other frameworks to implement innovative features and elevate platform performance.",
+            "role4": "Ensured robust cross-browser compatibility and responsive design, optimizing user engagement across various devices.",
+            "role5": "Collaborated closely with cross-functional teams, including designers, developers, and stakeholders, to achieve project milestones.",
+            "role6": "Mentored and guided junior developers, fostering skill enhancement and a collaborative team environment",
             "techStack": [
                 {
                     "stack1": "REACT JS",
@@ -19,11 +22,13 @@
         },
         {
             "year": "June 2023 - Nov 2023 (Front-End Engineer)",
-            "companyName": "Remote(Ukraine)",
-            "role1": "Played a key role in the UI development of a template utilizing HTML5, CSS3, SCSS,JS and Bootstrap.",
-            "role2": "Collaborated closely with design teams to translate mockups into responsive and user-friendly templates.Utilized preprocessors such as Sass to manage and organize stylesheets efficiently, resulting in improved maintainability.",
-            "role3": "Implemented modular and reusable code structures to streamline the development process and improve maintainability.",
-            "role4": "Conducted performance optimization to ensure fast-loading templates and an optimal user experience.",
+            "companyName": "Remote",
+            "location": "Ukraine,kyiv",
+            "role1": "Successfully delivered 8+ responsive and interactive React, HTML, CSS, and JavaScript websites, showcasing meticulous attention to pixel-perfect UI implementation",
+            "role2": "Ensured consistent and flawless UI design across various devices, emphasizing a visually appealing and user-friendly experience.",
+            "role3": "Led comprehensive code reviews, offering constructive feedback to enhance overall codebase quality.",
+            "role4": "Played a key role in project planning and decision-making processes, contributing to technical strategies.",
+            "role5": "Explored and implemented emerging technologies, ensuring the incorporation of the latest trends in web development for future-proof solutions.",
             "techStack": [
                 {
                     "stack1": "HTML5",
@@ -37,10 +42,12 @@
         {
             "year": "May 2019 - Dec 2022 (Front-End Engineer)",
             "companyName": "TigerIT Bangladesh Ltd.",
-            "role1": "Worked with design, product, and back-end teams to create 5+ web & crossplatformproducts.Creating semantic and accessible websites with HTML, CSS, transitions, and animations.",
-            "role2": "Consuming and integrating restful API in a JS application and optimized application for maximum speed",
-            "role3": "Increase Performance, Accessibility, and SEO from 70% to 95% as per lighthouse.Design a cross-platform app using Ionic, React, and SCSS for daily task assign",
-            "role4": "Implemented modular and reusable code structures to streamline the development process and improve maintainability.",
+            "location": "Dhaka,Bangladesh",
+            "role1": "Collaborated seamlessly with design, product, and back-end teams to conceptualize and deliver 5+ web and cross-platform products.",
+            "role2": "Spearheaded a remarkable 95% improvement in Performance, Accessibility, and SEO, surpassing Lighthouse standards.",
+            "role3": "Developed a robust admin system for managing 300+ employee details using a combination of HTML, CSS, and JS.",
+            "role4": "Consumed and integrated RESTful APIs into JS applications, optimizing for maximum speed.",
+            "role5": "Designed and implemented a cross-platform app using Ionic, React, and SCSS for efficient daily task assignments.",
             "techStack": [
                 {
                     "stack1": "REACT JS",

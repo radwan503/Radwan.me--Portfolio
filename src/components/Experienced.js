@@ -21,8 +21,9 @@ export default function Experienced() {
                 <div className="card bg-darkblue experince-card h-100">
                   <div className="card-body">
                     <p class="card-text">{infoData.year}</p>
-                    <h5 class="card-title text-white ">
+                    <h5 class="card-title text-white d-flex justify-content-between align-items-center">
                       {infoData.companyName}
+                      <span style={{ fontSize: "13px", letterSpacing: "2px" }}> {infoData.location}</span>
                     </h5>
                     <p style={{ color: "#727272" }}>Role and Responsibility</p>
                     <ul className="m-0">
@@ -31,12 +32,16 @@ export default function Experienced() {
                     </ul>
                     <details>
                       <summary style={{ color: "#9dbbdc" }}>
-                        {" "}
-                        Read More{" "}
+
+                        Read More
                       </summary>
                       <ul>
                         <li>{infoData.role3}</li>
                         <li>{infoData.role4}</li>
+                        <li>{infoData.role5}</li>
+                        {infoData?.role6 ?
+                          <li>{infoData?.role6}</li> : ""}
+
                       </ul>
                     </details>
                     <div className="technology-stack">

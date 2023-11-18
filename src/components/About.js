@@ -35,8 +35,11 @@ export default function About() {
                     {infoData.aboutDescription}
                   </p>
                   <p>
-                    Front-End Engineer with 4+ years of experience. I enjoy
-                    working with React, Next JS,HTML, CSS and  JavaScript to create new things.
+                    Seasoned Front End Engineer with a robust background in crafting dynamic web solutions. Offering almost 5 years of hands-on experience specializing in React JS, Next JS, JavaScript and HTML5/CSS3.
+                  </p>
+
+                  <p>
+                    Proven expertise in developing and redesigning diverse platforms, including e-commerce, food delivery, and admin panels. Excels in mentoring junior developers and driving innovative solutions to meet and exceed project goals. Committed to staying abreast of emerging technologies to ensure cutting-edge development in alignment with industry best practices.
                   </p>
                   {/* <details open>
                     <summary>
@@ -100,64 +103,64 @@ export default function About() {
                     <li>Stay up-to-date on emerging technologies.</li>
                   </details> */}
 
-                  <div className="row about-list">
-                    {/* <div className="col-md-6">
-                                                <div className="media">
-                                                    <p>{infoData.point1}</p>
-                                                </div>
-                                                <div className="media">
-                                                    <p>{infoData.point2}</p>
-                                                </div>
-                                                <div className="media">
-                                                    <p>{infoData.point3}</p>
-                                                </div>
-                                                <div className="media">
-                                                    <p>{infoData.point4}</p>
-                                                </div>
-                                            </div> */}
-                    {/* <div className="col-md-6">
-                                                <div className="media">
-                                                    <label>E-mail</label>
-                                                    <p>{infoData.Email}</p>
-                                                </div>
-                                                <div className="media">
-                                                    <label>Phone</label>
-                                                    <p>{infoData.Phone}</p>
-                                                </div>
-                                                <div className="media">
-                                                    <label>Skype</label>
-                                                    <p>{infoData.Skype}</p>
-                                                </div>
-                                                <div className="media">
-                                                    <label>Freelance</label>
-                                                    <p>{infoData.Freelance}</p>
-                                                </div>
-                                            </div> */}
-                  </div>
+                  {/* <div className="row about-list">
+                    <div className="col-md-6">
+                      <div className="media">
+                        <p>{infoData.point1}</p>
+                      </div>
+                      <div className="media">
+                        <p>{infoData.point2}</p>
+                      </div>
+                      <div className="media">
+                        <p>{infoData.point3}</p>
+                      </div>
+                      <div className="media">
+                        <p>{infoData.point4}</p>
+                      </div>
+                    </div>
+                    <div className="col-md-6">
+                      <div className="media">
+                        <label>E-mail</label>
+                        <p>{infoData.Email}</p>
+                      </div>
+                      <div className="media">
+                        <label>Phone</label>
+                        <p>{infoData.Phone}</p>
+                      </div>
+                      <div className="media">
+                        <label>Skype</label>
+                        <p>{infoData.Skype}</p>
+                      </div>
+                      <div className="media">
+                        <label>Freelance</label>
+                        <p>{infoData.Freelance}</p>
+                      </div>
+                    </div>
+                  </div> */}
                 </div>
               </div>
             </div>
           );
         })}
 
-        {/* 
-                <div className="counter">
-                    <div className="row">
-                        {
-                            count.map(counter => {
-                                return (
-                                    <div className="col-6 col-lg-3">
-                                        <div className="count-data text-center">
-                                            <h6 className="count h2" data-to="500" data-speed="500">{counter.count}</h6>
-                                            <p className="m-0px font-w-600">{counter.Title}</p>
-                                        </div>
-                                    </div>
-                                )
-                            })
-                        }
 
+        <div className="counter">
+          <div className="row">
+            {
+              count.map(counter => {
+                return (
+                  <div className="col-6 col-lg-3">
+                    <div className="count-data text-center">
+                      <h6 className="count h2" data-to="500" data-speed="500">{counter.count}</h6>
+                      <p className="m-0px font-w-600 text-capitalize">{counter.Title}</p>
                     </div>
-                </div> */}
+                  </div>
+                )
+              })
+            }
+
+          </div>
+        </div>
       </div>
     </section>
   );

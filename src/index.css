@@ -154,6 +154,7 @@ hr {
   cursor: url(/pointer.svg), default !important;
 }
 .btn:focus {
+  box-shadow: none;
   outline: none !important;
 }
 
@@ -196,7 +197,27 @@ hr {
   border-radius: 4px;
   cursor: url(/pointer.svg), default !important;
 }
-
+.resume-modal .modal-dialog {
+   min-height: 800px;
+}
+.resume-modal .close{
+  position: absolute;
+  right: -15px;
+  top: -15px;
+  height: 30px;
+  width: 30px;
+  color: #fff;
+  opacity: 1;
+  background-color: rgb(98, 33, 33);
+  border-radius: 50%;
+  border: 0px;
+  cursor: pointer;
+}
+.resume-modal .close:focus{
+  border: 0px;
+  box-shadow: none;
+  outline: none;
+}
 .hero-banner {
   padding: 100px 0px;
 }
@@ -377,14 +398,14 @@ hr {
 
 .about-section .counter {
   margin-top: 90px;
-  padding: 85px 10px;
+  padding: 0px 10px;
   flex-grow: 1;
   flex-shrink: 1;
   flex-basis: calc(33.33333% - 30px);
-  background-color: #1d293a;
+  /* background-color: #1d293a; */
   color: hsla(0, 0%, 100%, 0.85);
   border-radius: 4px;
-  box-shadow: 0 0 30px rgba(31, 45, 61, 0.125);
+  /* box-shadow: 0 0 30px rgba(31, 45, 61, 0.125); */
 }
 
 .about-section .counter .count-data {
@@ -396,11 +417,13 @@ hr {
   font-weight: 700;
   color: #f4f7fb;
   margin: 0 0 5px;
+  font-size: 45px;
 }
 
 .about-section .counter p {
   font-weight: 600;
   margin: 0;
+  /* font-size: 15px; */
 }
 .header-about {
   display: flex;
@@ -513,11 +536,16 @@ hr {
 }
 .technology-stack {
   display: flex;
+  flex-wrap: wrap;
   gap: 10px;
   align-items: center;
   transition: 0.5s;
   position: absolute;
-  bottom: 40px;
+}
+@media (min-width:991px) {
+  .technology-stack{
+    bottom: 40px;
+  }
 }
 .my-role .experince-card .card-title {
   color: #f4f7fb;
@@ -544,7 +572,21 @@ hr {
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
 }
+.skill-card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+}
+.skill-card:hover{
+  transition: ease-in-out .5s;
+  background-color: #111a28;
+  transform: translate(-1px, -1px);
+  box-shadow: 12px 12px 0 #243a56;
 
+}
 .progress-header .card-title {
   color: #f4f7fb;
   margin-bottom: 0px;
@@ -678,17 +720,4 @@ hr {
     justify-content: flex-start;
     align-items: baseline;
   }
-}
-/* preview page role */
-
-/* Small devices (landscape phones, less than 768px) */
-@media (max-width: 767.98px) {
-}
-
-/* Medium devices (tablets, less than 992px) */
-@media (max-width: 991.98px) {
-}
-
-/* Large devices (desktops, less than 1200px) */
-@media (max-width: 1199.98px) {
 }
