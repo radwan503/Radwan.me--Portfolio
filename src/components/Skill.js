@@ -38,20 +38,8 @@ export default function Skill() {
               Web
             </a>
           </li>
+
           {/* <li class="nav-item" role="presentation">
-            <a
-              class="nav-link"
-              id="pills-libraryandframework-tab"
-              data-toggle="pill"
-              href="#pills-libraryandframework"
-              role="tab"
-              aria-controls="pills-libraryandframework"
-              aria-selected="true"
-            >
-              Framework/Library
-            </a>
-          </li>
-          <li class="nav-item" role="presentation">
             <a
               class="nav-link"
               id="pills-programming-tab"
@@ -77,6 +65,19 @@ export default function Skill() {
               Tool
             </a>
           </li>
+          <li class="nav-item" role="presentation">
+            <a
+              class="nav-link"
+              id="pills-libraryandframework-tab"
+              data-toggle="pill"
+              href="#pills-libraryandframework"
+              role="tab"
+              aria-controls="pills-libraryandframework"
+              aria-selected="true"
+            >
+              more..
+            </a>
+          </li>
         </ul>
         <div class="tab-content" id="pills-tabContent">
           <div
@@ -98,6 +99,7 @@ export default function Skill() {
                           <h5 class="card-title text-uppercase" style={{ fontSize: "16px" }}>{skillInfo.name}</h5>
                           {/* <h6 class="card-title float-right">{skillInfo.percent}%</h6> */}
                         </div>
+                        {/* <img className="skill-icon" src={skillInfo?.image} /> */}
                         {/* <ProgressBar className="bg-dark" animated  variant="success" style={{ height: "1px" }} now={skillInfo.percent} /> */}
                       </div>
                     </div>
@@ -155,7 +157,7 @@ export default function Skill() {
               {libraryOrFramework.map((libraryorFrameworkInfo) => {
                 return (
                   <div className="col-md-2">
-                    <div class="card bg-darkblue mb-5">
+                    <div class="card bg-darkblue mb-4">
                       <div class="card-body">
                         <div className="progress-header clearfix">
                           <h5 class="card-title float-left">
@@ -182,7 +184,7 @@ export default function Skill() {
               {programming.map((programmingInfo) => {
                 return (
                   <div className="col-md-2">
-                    <div class="card bg-darkblue mb-5">
+                    <div class="card bg-darkblue mb-4">
                       <div class="card-body">
                         <div className="progress-header clearfix">
                           <h5 class="card-title float-left">
@@ -209,7 +211,7 @@ export default function Skill() {
               {tool.map((toolInfo) => {
                 return (
                   <div className="col-md-2">
-                    <div class="card skill-card bg-darkblue mb-5">
+                    <div class="card skill-card bg-darkblue mb-4">
                       <div class="card-body">
                         <div className="progress-header clearfix">
                           <h5 class="card-title  text-center text-uppercase" style={{ fontSize: "16px" }}>{toolInfo.name}</h5>

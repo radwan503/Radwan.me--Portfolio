@@ -239,6 +239,9 @@ hr {
 
 .intro-content.ml-5 {
   padding-left: 72px;
+  @media (max-width:575.98px) {
+    padding-left: 30px;
+  }
 }
 .welcome-title {
   font-size: 25px;
@@ -261,6 +264,9 @@ hr {
 .designation-list {
   margin-left: -45px;
   margin-bottom: 40px;
+  @media (max-width:575.98px) {
+    margin-bottom: 20px;
+  }
 }
 
 .designation-list ul li {
@@ -580,6 +586,18 @@ hr {
   width: 100%;
   margin: 0 auto;
 }
+.skill-icon{
+  visibility: visible;
+  position: absolute;
+  top: 30px;
+  /* margin: 0 auto; */
+
+  transform: translateX(-50%);
+  max-height: 50px;
+  opacity: .1;
+  filter: grayscale(1);
+
+}
 .skill-card:hover{
   transition: ease-in-out .5s;
   background-color: #111a28;
@@ -587,6 +605,17 @@ hr {
   box-shadow: 12px 12px 0 #243a56;
 
 }
+/* .skill-card:hover .skill-icon{
+  visibility: visible;
+  opacity: .9;
+  filter: grayscale(0);
+  transition: .3s;
+  
+}
+.skill-card:hover .card-title {
+  visibility: hidden;
+  
+} */
 .progress-header .card-title {
   color: #f4f7fb;
   margin-bottom: 0px;
@@ -616,6 +645,7 @@ hr {
   display: block;
   padding: 0.6rem 1rem;
 }
+
 
 .portfolio-details .links {
   margin: 3px -36px;

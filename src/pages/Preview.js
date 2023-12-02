@@ -157,6 +157,7 @@ const Preview = () => {
           </div>
         </div>
       </section>
+
     </>
   );
 };

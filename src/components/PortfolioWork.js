@@ -49,7 +49,7 @@ export default function PortfolioWork({ remote }) {
               aria-controls="pills-portfoliowork"
               aria-selected="true"
             >
-              JMR Projects
+              QCOOM
             </a>
           </li>
           <li className="nav-item">

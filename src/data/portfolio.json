@@ -50,7 +50,7 @@
           ]
         },
         {
-          "title": "Campaign Product API Integration",
+          "title": "Campaign Product UI & API Integration",
           "subtitle": [
             "Countdown Timers",
             "Campaign Popup",
@@ -61,7 +61,7 @@
           ]
         },
         {
-          "title": "EMI API Integration",
+          "title": "EMI UI & API Integration ",
           "subtitle": [
             "Flexible Payment Plans",
             "Display applicable interest rates for different EMI plans",
@@ -135,25 +135,33 @@
     {
       "id": 2,
       "type": "featured",
-      "name": "PIICKME EXPRESS",
+      "name": "QCOOM : ADMIN",
       "image": "",
-      "description": "Piickme is an A-Z solution for e-commerce retailers and merchants that provides warehousing, storage, pick & pack, and delivery services across Bangladesh.",
-      "demo": "https://piickmeexpress.com/",
+      "description": " Admin panel for e-commerce, often referred to as an admin dashboard, is a crucial component of an e-commerce platform. ",
+      "demo": "https://admin.qfood.com.bd/",
       "source": "",
-      "previewImge": "/jmr/piickme.png",
+      "previewImge": "/jmr/qdmin-qcoom.png",
       "title": [
-        "Develop landing ",
-        "piickeme express website"
+        "Develop & Design ",
+        "E-commerce Admin Panel"
       ],
       "subtitle": [
-        "Courier Service",
-        "Logistics provided"
+        "Admin Panel",
+        "QCOMMERCE"
       ],
-      "topBanner": "/jmr/piickeme/topbanner.png",
+      "topBanner": "/jmr/commerce-admin/topbanner.png",
       "images": [
         {
-          "imgUrl": "/jmr/piickeme/landing.png",
-          "title": "piickme landing website"
+          "imgUrl": "/jmr/commerce-admin/f1.png",
+          "title": "Order list admin panel page"
+        },
+        {
+          "imgUrl": "/jmr/commerce-admin/f2.png",
+          "title": "Shop list admin panel page"
+        },
+        {
+          "imgUrl": "/jmr/commerce-admin/f3.png",
+          "title": "Popup list admin panel page"
         }
       ],
       "comparesion": {
@@ -161,28 +169,106 @@
       },
       "client": "JMR",
       "techStack": [
-        "react js",
-        "antd",
-        "scss",
+        "React js",
+        "Ant Design",
+        "Context api",
+        "Hooks",
+        "Chart JS",
         "third party package"
       ],
       "workido": [
         {
-          "title": "Landing Page",
+          "title": "UI Develop",
           "subtitle": [
-            "UI Develop",
-            "Responsive Design",
-            "Show Service https://piickmeexpress.com/",
-            "Breakdown price plan based on location"
+            "DashBoard Reporting,Analytics,Data Visualization",
+            "Order Management",
+            "Shop Management",
+            "Promo Code Generate",
+            "Campaign Popup",
+            "Shop Brand",
+            "EMI Management",
+            "E-commerce Banner Management",
+            "Responsive Design,Bug Fixes and Maintenance"
           ]
         },
         {
-          "title": "Login & Registration API Integration",
+          "title": "API Integration DashBoard",
           "subtitle": [
-            "Create a merchant new account with company details.",
-            "Validate and verify user information",
-            "Secure login functionality",
-            "Password recovery/reset options."
+            "Data Visualization Daily, monthly,yearly Order Status.",
+            "Data Visualization Daily, monthly,yearly Amount Status.",
+            "Orders Visualization Isnside and Outside Dhaka.",
+            "Payment Analytics To show which payment menthod are mostly used by user.",
+            "Top Selling Shops and Products Data",
+            "Purchase Order and Credit Order Request List and Change status"
+          ]
+        },
+        {
+          "title": "API Integration Order Management",
+          "subtitle": [
+            "View and manage customer orders",
+            "Advanced Search and Filters option",
+            "Order Details where show order info,customer info,shop info,orders item",
+            "Order processing and status tracking",
+            "Show Purchase order List with multiple filter",
+            "Create Purchase order Request and change order status settle or unsettele by admin,pdf view",
+            "Manual Order Create,Upload Using CSV",
+            "Download order in CSV and pdf format",
+            "Form Validation and Error Handling"
+          ]
+        },
+        {
+          "title": "API Integration Shop Management",
+          "subtitle": [
+            "Create,Update,Delete Shop",
+            "Form Validation and Error Handling",
+            "Advanced Search and Filters option",
+            "Shop Close and open status",
+            "Shop Details where show order list under shops,produts list,transaction history,supplier info",
+            "Download Shops List in CSV format"
+          ]
+        },
+        {
+          "title": "API Integration Promo & Campaign",
+          "subtitle": [
+            "Create,Update,Delete Promo and Campaign",
+            "Form Validation and Error Handling",
+            "Show List promo and campaign",
+            "Change status promo active and inactive",
+            "campaign Published or not status",
+            "Details show promo and campaign"
+          ]
+        },
+        {
+          "title": "API Integration Shop brand & Banner",
+          "subtitle": [
+            "Create,Update,Upload Image,Delete brand and banner",
+            "Form Validation and Error Handling",
+            "Show List brand and banner",
+            "Change banner status  active/inactive in e-commerce",
+            "Filter and Search options",
+            "Details show brand and banner"
+          ]
+        },
+        {
+          "title": "API Integration EMI Management",
+          "subtitle": [
+            "Create,Update,Delete EMI",
+            "Add Bank Info For EMI",
+            "Show List EMI",
+            "Change EMI status which bank active/inactive in e-commerce",
+            "Filter and Search options",
+            "Views Details EMI info"
+          ]
+        },
+        {
+          "title": "API Integration POPUP E-commerce",
+          "subtitle": [
+            "Create,Update,Delete Popup",
+            "Make Different Format Popup for different Web,Android,IOS",
+            "Show List popup",
+            "Change POP status when active/inactive in e-commerce",
+            "Filter and Search options",
+            "Views Details popup info"
           ]
         }
       ],
@@ -362,33 +448,25 @@
     {
       "id": 4,
       "type": "featured",
-      "name": "QCOOM : ADMIN",
+      "name": "PIICKME EXPRESS",
       "image": "",
-      "description": " Admin panel for e-commerce, often referred to as an admin dashboard, is a crucial component of an e-commerce platform. ",
-      "demo": "https://admin.qfood.com.bd/",
+      "description": "Piickme is an A-Z solution for e-commerce retailers and merchants that provides warehousing, storage, pick & pack, and delivery services across Bangladesh.",
+      "demo": "https://piickmeexpress.com/",
       "source": "",
-      "previewImge": "/jmr/qdmin-qcoom.png",
+      "previewImge": "/jmr/piickme.png",
       "title": [
-        "Develop & Design ",
-        "E-commerce Admin Panel"
+        "Develop landing ",
+        "piickeme express website"
       ],
       "subtitle": [
-        "Admin Panel",
-        "QCOMMERCE"
+        "Courier Service",
+        "Logistics provided"
       ],
-      "topBanner": "/jmr/commerce-admin/topbanner.png",
+      "topBanner": "/jmr/piickeme/topbanner.png",
       "images": [
         {
-          "imgUrl": "/jmr/commerce-admin/f1.png",
-          "title": "Order list admin panel page"
-        },
-        {
-          "imgUrl": "/jmr/commerce-admin/f2.png",
-          "title": "Shop list admin panel page"
-        },
-        {
-          "imgUrl": "/jmr/commerce-admin/f3.png",
-          "title": "Popup list admin panel page"
+          "imgUrl": "/jmr/piickeme/landing.png",
+          "title": "piickme landing website"
         }
       ],
       "comparesion": {
@@ -396,106 +474,28 @@
       },
       "client": "JMR",
       "techStack": [
-        "React js",
-        "Ant Design",
-        "Context api",
-        "Hooks",
-        "Chart JS",
+        "react js",
+        "antd",
+        "scss",
         "third party package"
       ],
       "workido": [
         {
-          "title": "UI Develop",
+          "title": "Landing Page",
           "subtitle": [
-            "DashBoard Reporting,Analytics,Data Visualization",
-            "Order Management",
-            "Shop Management",
-            "Promo Code Generate",
-            "Campaign Popup",
-            "Shop Brand",
-            "EMI Management",
-            "E-commerce Banner Management",
-            "Responsive Design,Bug Fixes and Maintenance"
+            "UI Develop",
+            "Responsive Design",
+            "Show Service https://piickmeexpress.com/",
+            "Breakdown price plan based on location"
           ]
         },
         {
-          "title": "API Integration DashBoard",
+          "title": "Login & Registration API Integration",
           "subtitle": [
-            "Data Visualization Daily, monthly,yearly Order Status.",
-            "Data Visualization Daily, monthly,yearly Amount Status.",
-            "Orders Visualization Isnside and Outside Dhaka.",
-            "Payment Analytics To show which payment menthod are mostly used by user.",
-            "Top Selling Shops and Products Data",
-            "Purchase Order and Credit Order Request List and Change status"
-          ]
-        },
-        {
-          "title": "API Integration Order Management",
-          "subtitle": [
-            "View and manage customer orders",
-            "Advanced Search and Filters option",
-            "Order Details where show order info,customer info,shop info,orders item",
-            "Order processing and status tracking",
-            "Show Purchase order List with multiple filter",
-            "Create Purchase order Request and change order status settle or unsettele by admin,pdf view",
-            "Manual Order Create,Upload Using CSV",
-            "Download order in CSV and pdf format",
-            "Form Validation and Error Handling"
-          ]
-        },
-        {
-          "title": "API Integration Shop Management",
-          "subtitle": [
-            "Create,Update,Delete Shop",
-            "Form Validation and Error Handling",
-            "Advanced Search and Filters option",
-            "Shop Close and open status",
-            "Shop Details where show order list under shops,produts list,transaction history,supplier info",
-            "Download Shops List in CSV format"
-          ]
-        },
-        {
-          "title": "API Integration Promo & Campaign",
-          "subtitle": [
-            "Create,Update,Delete Promo and Campaign",
-            "Form Validation and Error Handling",
-            "Show List promo and campaign",
-            "Change status promo active and inactive",
-            "campaign Published or not status",
-            "Details show promo and campaign"
-          ]
-        },
-        {
-          "title": "API Integration Shop brand & Banner",
-          "subtitle": [
-            "Create,Update,Upload Image,Delete brand and banner",
-            "Form Validation and Error Handling",
-            "Show List brand and banner",
-            "Change banner status  active/inactive in e-commerce",
-            "Filter and Search options",
-            "Details show brand and banner"
-          ]
-        },
-        {
-          "title": "API Integration EMI Management",
-          "subtitle": [
-            "Create,Update,Delete EMI",
-            "Add Bank Info For EMI",
-            "Show List EMI",
-            "Change EMI status which bank active/inactive in e-commerce",
-            "Filter and Search options",
-            "Views Details EMI info"
-          ]
-        },
-        {
-          "title": "API Integration POPUP E-commerce",
-          "subtitle": [
-            "Create,Update,Delete Popup",
-            "Make Different Format Popup for different Web,Android,IOS",
-            "Show List popup",
-            "Change POP status when active/inactive in e-commerce",
-            "Filter and Search options",
-            "Views Details popup info"
+            "Create a merchant new account with company details.",
+            "Validate and verify user information",
+            "Secure login functionality",
+            "Password recovery/reset options."
           ]
         }
       ],
@@ -2759,17 +2759,6 @@
       "source": "https://github.com/radwan503/Quizfy--Education",
       "tools1": "HTML",
       "tools2": "CSS",
-      "tools3": "JavaScript"
-    },
-    {
-      "type": "featured",
-      "name": "Task Tracking",
-      "image": "",
-      "description": "a next-generation modern and clean Bootstrap 5x dashboard app using flat, modern and minimal design. It is fully responsive built using SASS preprocessor, HTML5, CSS3, and jQuery plugins.",
-      "demo": "https://radwan503.github.io/Task-Tracking--Javascript/",
-      "source": "https://github.com/radwan503/Task-Tracking--Javascript",
-      "tools1": "HTML",
-      "tools2": "Bootstrap/Scss",
       "tools3": "JavaScript"
     },
     {
