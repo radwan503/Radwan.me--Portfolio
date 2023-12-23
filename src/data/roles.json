@@ -1,0 +1,78 @@
+{
+ "roles": [
+  {
+    "title": "Frontend Development",
+    "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+  },
+  {
+    "title": "React.js Development",
+    "subtitle": "Work with front-end frameworks such as React to build modular and scalable web applications."
+  },
+  {
+    "title": "Component-Based Architecture",
+    "subtitle": "Create reusable components for scalable and maintainable code."
+  },
+  {
+    "title": "API Integration",
+    "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
+  },
+  {
+    "title": "Next.js Development",
+    "subtitle": "Utilize Next.js for server-side rendering (SSR) and building scalable applications.Optimize applications for performance, SEO, and user experience using Next.js features."
+  },
+
+  {
+    "title": "State Management",
+    "subtitle": "Manage state using tools like Redux for complex applications.Implement stateful components and ensure efficient data flow."
+  },
+  {
+    "title": "Semantic HTML Markup",
+    "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+  },
+  {
+    "title": "CSS Framework Integration",
+    "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+  },
+  {
+    "title": "Responsive Design",
+    "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+  },
+  {
+    "title": "CI/CD Implementation",
+    "subtitle": "Learning CI/CD pipelines for automated testing and deployment.work with deployment tools to ensure smooth releases."
+  },
+  {
+    "title": "Performance Optimization",
+    "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+  },
+  {
+    "title": "Version Control",
+    "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+  },
+  {
+    "title": "Cross-Browser Compatibility",
+    "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+  },
+  {
+    "title": "Wireframe Translation",
+    "subtitle": "Translating design wireframes into functional and structured REACT templates."
+  },
+  {
+    "title": "Collaborative Design Integration",
+    "subtitle": "Working closely with design teams to integrate visuals into REACT templates."
+  },
+  {
+    "title": "Code Optimization",
+    "subtitle": "Implementing best practices to optimize REACT code for performance and efficiency."
+  },
+  {
+    "title": "SEO Focus",
+    "subtitle": "Implement and maintain SEO best practices."
+  },
+  {
+    "title": "Agile Development",
+    "subtitle": "Work within an Agile development environment, participating in sprint planning and daily stand-ups.Collaborate with cross-functional teams to deliver features on time."
+  }
+
+ ]
+}

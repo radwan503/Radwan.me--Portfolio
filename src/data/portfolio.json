@@ -2703,6 +2703,122 @@
           "subtitle": "Implement and maintain SEO best practices."
         }
       ]
+    },
+    {
+      "id": 3,
+      "type": "featured",
+      "name": "YAARI",
+      "image": "",
+      "description": "Yaari Restaurant is the place to go for authentic and delicious Food. We use only the freshest, local ingredients to prepare our dishe.",
+      "demo": "https://yaarii.netlify.app/",
+      "source": "",
+      "previewImge": "/freelancer/yaari/banner.png",
+      "title": [
+        "Develop Responsive",
+        "Restaurant / Cafe website"
+      ],
+      "subtitle": [
+        "Restaurent",
+        "Fast-Food",
+        "Business"
+      ],
+      "topBanner": "/freelancer/yaari/topbanner.png",
+      "images": [
+        {
+          "imgUrl": "/freelancer/yaari/f1.png",
+          "title": "Home Page"
+        },
+        {
+          "imgUrl": "/freelancer/yaari/f2.png",
+          "title": "Menu Page"
+        },
+        {
+          "imgUrl": "/freelancer/yaari/f3.png",
+          "title": "Story Page"
+        }
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "Freelancer",
+      "techStack": [
+        "React js",
+        "Tailwind css",
+        "CSS3"
+      ],
+      "workido": [
+        {
+          "title": "Pages",
+          "subtitle": [
+            "Home",
+            "Story",
+            "Menu",
+            "Order",
+            "Contact"
+            
+          ]
+        },
+        {
+          "title": "Features",
+          "subtitle": [
+            "Home page",
+            "Restaurent Story",
+            "Menu List",
+            "Order Places",
+            "Contact"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Component-Based Architecture",
+          "subtitle": "Create reusable components for scalable and maintainable code."
+        },
+        {
+          "title": "Semantic HTML Markup",
+          "subtitle": "Using semantic HTML tags for improved accessibility and search engine optimization."
+        },
+        {
+          "title": "CSS Framework Integration",
+          "subtitle": "Integrating CSS frameworks to enhance styling and maintainability."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "Cross-Browser Compatibility",
+          "subtitle": "Ensuring consistent functionality and appearance across different browsers."
+        },
+        {
+          "title": "Wireframe Translation",
+          "subtitle": "Translating design wireframes into functional and structured REACT templates."
+        },
+        {
+          "title": "Collaborative Design Integration",
+          "subtitle": "Working closely with design teams to integrate visuals into REACT templates."
+        },
+        {
+          "title": "Code Optimization",
+          "subtitle": "Implementing best practices to optimize REACT code for performance and efficiency."
+        },
+        {
+          "title": "SEO Focus",
+          "subtitle": "Implement and maintain SEO best practices."
+        }
+      ]
     }
   ],
   "Others": [

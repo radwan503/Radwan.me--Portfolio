@@ -21,25 +21,6 @@
             ]
         },
         {
-            "year": "June 2023 - Nov 2023 (Front-End Engineer)",
-            "companyName": "Remote",
-            "location": "Ukraine,kyiv",
-            "role1": "Successfully delivered 8+ responsive and interactive React, HTML, CSS, and JavaScript websites, showcasing meticulous attention to pixel-perfect UI implementation",
-            "role2": "Ensured consistent and flawless UI design across various devices, emphasizing a visually appealing and user-friendly experience.",
-            "role3": "Led comprehensive code reviews, offering constructive feedback to enhance overall codebase quality.",
-            "role4": "Played a key role in project planning and decision-making processes, contributing to technical strategies.",
-            "role5": "Explored and implemented emerging technologies, ensuring the incorporation of the latest trends in web development for future-proof solutions.",
-            "techStack": [
-                {
-                    "stack1": "HTML5",
-                    "stack2": "CSS3",
-                    "stack3": "JAVASCRIPT",
-                    "stack4": "BOOTSTRAP",
-                    "stack5": "SCSS"
-                }
-            ]
-        },
-        {
             "year": "May 2019 - Jan 2023 (Front-End Engineer)",
             "companyName": "TigerIT Bangladesh Ltd.",
             "location": "Dhaka,Bangladesh",
@@ -55,6 +36,25 @@
                     "stack3": "REACT BOOTSTRAP",
                     "stack4": "HTML5",
                     "stack5": "CSS3"
+                }
+            ]
+        },
+        {
+            "year": "June 2023 - Nov 2023 (Front-End Engineer)",
+            "companyName": "Remote(Contractual)",
+            "location": "Ukraine,kyiv",
+            "role1": "Successfully delivered 8+ responsive and interactive React, HTML, CSS, and JavaScript websites, showcasing meticulous attention to pixel-perfect UI implementation",
+            "role2": "Ensured consistent and flawless UI design across various devices, emphasizing a visually appealing and user-friendly experience.",
+            "role3": "Led comprehensive code reviews, offering constructive feedback to enhance overall codebase quality.",
+            "role4": "Played a key role in project planning and decision-making processes, contributing to technical strategies.",
+            "role5": "Explored and implemented emerging technologies, ensuring the incorporation of the latest trends in web development for future-proof solutions.",
+            "techStack": [
+                {
+                    "stack1": "HTML5",
+                    "stack2": "CSS3",
+                    "stack3": "JAVASCRIPT",
+                    "stack4": "BOOTSTRAP",
+                    "stack5": "SCSS"
                 }
             ]
         }

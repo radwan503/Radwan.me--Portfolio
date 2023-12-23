@@ -1,6 +1,7 @@
 import React from "react";
 import { Navbar, Nav } from "react-bootstrap";
 import { useLocation } from "react-router-dom";
+import { Link } from "react-router-dom/cjs/react-router-dom.min";
 
 export default function Header() {
   const location = useLocation();
@@ -25,22 +26,27 @@ export default function Header() {
             {basePath !== "/preview" ? (
               <>
                 <li className="nav-item">
-                  <a className="nav-link" href="#about">
+                  <a className="nav-link" href={location == "/service" ? "/service" : "/"}>
                     ABOUT
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#portfolio">
+                  <a className="nav-link" href={location == "/service" ? "/service" : "/#portfolio"}>
                     PROJECT
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#skill">
+                  <a className="nav-link" href={location == "/service" ? "/service" : "/#skill"}>
                     SKILL
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#contact">
+                  <Link className="nav-link" to="/service">
+                    SERVICE
+                  </Link>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link" href={location == "/service" ? "/service" : "/#contact"}>
                     CONTACT
                   </a>
                 </li>
