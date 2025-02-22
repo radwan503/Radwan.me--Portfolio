@@ -28,14 +28,7 @@
       "name": "SCSS",
       "percent": 90
     },
-    {
-      "name": "JQuery",
-      "percent": 70
-    },
-    {
-      "name": "Bootstrap",
-      "percent": 70
-    },
+   
     {
       "name": "TailwindCss",
       "percent": 0
@@ -48,10 +41,7 @@
       "name": "Antd",
       "percent": 0
     },
-    {
-      "name": "IONIC",
-      "percent": 70
-    },
+    
     {
       "name": "Typescript",
       "percent": 70
@@ -73,7 +63,35 @@
       "percent": 70
     },
     {
+      "name": "JQuery",
+      "percent": 70
+    },
+    {
+      "name": "Bootstrap",
+      "percent": 70
+    },
+    {
       "name": "Webpack",
+      "percent": 70
+    },
+    {
+      "name": "NODE JS",
+      "percent": 70
+    },
+    {
+      "name": "EXPRESS JS",
+      "percent": 70
+    },
+    {
+      "name": "MONGODB",
+      "percent": 70
+    },
+    {
+      "name": "AGILE",
+      "percent": 70
+    },
+    {
+      "name": "DSA",
       "percent": 70
     }
   ],
@@ -95,6 +113,10 @@
     {
       "name": "SEO",
       "percent": 50
+    },
+    {
+      "name": "IONIC",
+      "percent": 70
     },
     {
       "name": "Wordpress",

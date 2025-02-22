@@ -1,15 +1,13 @@
-import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import './App.css';
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import "./App.css";
 
-import Home from './pages/Home';
-import Preview from './pages/Preview';
-import Header from './components/element/Header';
-import Contact from './components/Contact';
-import Footer from './components/element/Footer';
-import Service from './pages/Service';
-
-
+import Home from "./pages/Home";
+import Preview from "./pages/Preview";
+import Header from "./components/element/Header";
+import Contact from "./components/Contact";
+import Footer from "./components/element/Footer";
+import Service from "./pages/Service";
 
 function App() {
   return (
@@ -17,11 +15,11 @@ function App() {
       <Router>
         <Header />
         <div>
-          <Switch>
-            <Route path="/" exact component={Home} />
-            <Route path="/preview/:id" component={Preview} />
-            <Route path="/service" component={Service} />
-          </Switch>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/preview/:id" element={<Preview />} />
+            <Route path="/service" element={<Service />} />
+          </Routes>
         </div>
         <Contact />
         <Footer />

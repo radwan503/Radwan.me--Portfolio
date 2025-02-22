@@ -1,7 +1,27 @@
 {
     "experience": [
         {
-            "year": "January 2023 - Present (Front-End Engineer)",
+            "year": "June 2024 - Present (Software Engineer-(Front-End))",
+            "companyName": "QCOOM",
+            "location": "Dhaka,Bangladesh",
+            "role1": "Implemented efficient data fetching strategies from APIs and databases, facilitating dynamic content display and real-time updates.",
+            "role2": "Spearheaded the development and redesign of e-commerce, food delivery, courier service, and admin panel websites, achieving a seamless user experience for a diverse user base.",
+            "role3": "Leveraged cutting-edge technologies such as React, Next, Tailwind, and other frameworks to implement innovative features and elevate platform performance.",
+            "role4": "Ensured robust cross-browser compatibility and responsive design, optimizing user engagement across various devices.",
+            "role5": "Collaborated closely with cross-functional teams, including designers, developers, and stakeholders, to achieve project milestones.",
+            "role6": "Mentored and guided junior developers, fostering skill enhancement and a collaborative team environment",
+            "techStack": [
+                {
+                    "stack1": "REACT JS",
+                    "stack2": "NEXT JS",
+                    "stack3": "SCSS",
+                    "stack4": "ANT DESIGN",
+                    "stack5": "CSS3"
+                }
+            ]
+        },
+        {
+            "year": "January 2023 - Present (Software Engineer-(Front-End))",
             "companyName": "QCOOM",
             "location": "Dhaka,Bangladesh",
             "role1": "Implemented efficient data fetching strategies from APIs and databases, facilitating dynamic content display and real-time updates.",

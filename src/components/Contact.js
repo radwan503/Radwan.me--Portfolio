@@ -19,15 +19,15 @@ export default function Contact() {
                   <ul>
                     <li>
                       <h5>Email</h5>
-                      <p>{contactInfo.Email} (Recommended)</p>
+                      <p>{contactInfo.Email}</p>
                     </li>
                     <li>
                       <h5>Skype</h5>
-                      <p>{contactInfo.Skype} (Always Available)</p>
+                      <p>{contactInfo.Skype}</p>
                     </li>
                     <li>
                       <h5>Social</h5>
-                      <p>{contactInfo.social}(Available)</p>
+                      <p>{contactInfo.social}</p>
                     </li>
                     <li>
                       <h5>Address</h5>

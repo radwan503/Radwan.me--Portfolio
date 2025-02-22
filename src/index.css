@@ -12,7 +12,7 @@ body {
   font-family: "Poppins", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  cursor: url(/cursor.svg), default;
+  cursor: url(/public/cursor.svg), default;
 }
 
 /* width */
@@ -148,10 +148,10 @@ hr {
   padding: 15px 25px;
   border-radius: 4px;
   outline: 0;
-  cursor: url(/pointer.svg), default !important;
+  cursor: url(/public/pointer.svg), default !important;
 }
 .btn {
-  cursor: url(/pointer.svg), default !important;
+  cursor: url(/public/pointer.svg), default !important;
 }
 .btn:focus {
   box-shadow: none;
@@ -195,7 +195,7 @@ hr {
   border: 2px solid #f4f7fb;
   padding: 5px 15px;
   border-radius: 4px;
-  cursor: url(/pointer.svg), default !important;
+  cursor: url(/public/pointer.svg), default !important;
 }
 .resume-modal .modal-dialog {
   min-height: 800px;
@@ -635,7 +635,7 @@ hr {
   color: #ffffff;
   margin-right: 15px;
   margin-bottom: 15px;
-  cursor: url(/pointer.svg), default !important;
+  cursor: url(/public/pointer.svg), default !important;
 }
 
 .skill .nav-link,

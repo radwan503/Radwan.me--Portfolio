@@ -7,6 +7,7 @@ import Skill from "../components/Skill.js";
 import PortfolioWork from "../components/PortfolioWork.js";
 import Contact from "../components/Contact.js";
 import Footer from "../components/element/Footer.js";
+import Blog from "../components/Blog.js";
 
 export default function Home() {
   return (
@@ -17,7 +18,8 @@ export default function Home() {
       <Experienced></Experienced>
       <PortfolioWork></PortfolioWork>
       <Skill></Skill>
-    
+      <Blog />
+
     </div>
   );
 }

@@ -17,7 +17,7 @@ const Service = () => {
       <div class="row text-center">
        <div class="col-sm-12 col-md-12 col-md-12">
         <h2 className='text-light'>What I Offer</h2>
-        <h2 className='text-white' style={{ "font-size": "60px", "line-height": "60px", "margin-bottom": "20px", "font-weight": "900" }}> Services</h2>
+        <h2 className='text-white' style={{ "font-size": "60px", "line-height": "60px", "margin-bottom": "20px", "font-weight": "900" }}> How Can I Help You</h2>
         <p>My <span class="highlight">experienced</span> and <span class="highlight">dedication</span>  to provide these services with a smile.</p>
        </div>
       </div>

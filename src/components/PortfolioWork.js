@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import Portfolio from "../data/portfolio.json";
-import { useHistory } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 export default function PortfolioWork({ remote }) {
-  const history = useHistory();
+  const history = useNavigate();
   const [portfolio, setPortfolio] = useState([]);
   const [remoteUkR, setremoteUkR] = useState([]);
   const [tigerit, setTigerit] = useState([]);
@@ -11,11 +11,9 @@ export default function PortfolioWork({ remote }) {
 
   /*pass data in deatils page*/
   const handleItemClick = (detailsData) => {
-    history.push({
-      pathname: `/preview/${detailsData.id}`,
-      state: { detailsData },
-    });
+    history(`/preview/${detailsData.id}`, { state: { detailsData } });
   };
+  
 
   useEffect(() => {
     const portfolio = Portfolio.Web;
@@ -88,7 +86,7 @@ export default function PortfolioWork({ remote }) {
               aria-controls="pills-freelancer"
               aria-selected="false"
             >
-              Freelancer
+              Solo Hustler
             </a>
           </li>
           <li className="nav-item">
@@ -122,7 +120,7 @@ export default function PortfolioWork({ remote }) {
                         <div className="card-body">
                           <div className="portfolio-details">
                             <a
-                              href={portfolioInfo.demo ? portfolioInfo.demo : "#"}
+                              href={portfolioInfo.demo ? portfolioInfo.demo : "#portfolio"}
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -183,7 +181,7 @@ export default function PortfolioWork({ remote }) {
                         <div className="card-body">
                           <div className="portfolio-details">
                             <a
-                              href={remote.demo ? remote.demo : "#"}
+                              href={remote.demo ? remote.demo : "#portfolio"}
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -247,7 +245,7 @@ export default function PortfolioWork({ remote }) {
                         <div className="card-body">
                           <div className="portfolio-details">
                             <a
-                              href={tigerIt.demo ? tigerIt.demo : "#"}
+                              href={tigerIt.demo ? tigerIt.demo : "#portfolio"}
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -311,7 +309,7 @@ export default function PortfolioWork({ remote }) {
                         <div className="card-body">
                           <div className="portfolio-details">
                             <a
-                              href={freelancer.demo ? freelancer.demo : "#"}
+                              href={freelancer.demo ? freelancer.demo : "#portfolio"}
                               target="_blank"
                               rel="noopener noreferrer"
                             >

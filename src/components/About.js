@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Badge } from "react-bootstrap";
-import profile from "../assets/image/what.jpeg";
+import profile from "../assets/image/p1.png";
 import about from "../data/about.json";
 
 export default function About() {
@@ -35,12 +35,13 @@ export default function About() {
                     {infoData.aboutDescription}
                   </p>
                   <p>
-                    Seasoned Front End Engineer with a robust background in crafting dynamic web solutions. Offering almost 5 years of hands-on experience specializing in React JS, Next JS, JavaScript and HTML5/CSS3.
+                    Seasoned Software Engineer with a robust background in crafting dynamic web solutions. Offering almost 5 years of hands-on experience specializing in React JS, Next JS, JavaScript and HTML5/CSS3.
                   </p>
 
                   <p>
-                    Proven expertise in developing and redesigning diverse platforms, including e-commerce, food delivery, and admin panels. Excels in mentoring junior developers and driving innovative solutions to meet and exceed project goals. Committed to staying abreast of emerging technologies to ensure cutting-edge development in alignment with industry best practices.
+                    Proven expertise in developing and redesigning diverse platforms, including <mark> E-commerce </mark>, <mark>Food Delivery</mark>,<mark> HRM </mark>,<mark> Doctor Appointmant </mark> and <mark> admin panels </mark> etc. Excels in mentoring junior developers and driving innovative solutions to meet and exceed project goals. Committed to staying abreast of emerging technologies to ensure cutting-edge development in alignment with industry best practices.
                   </p>
+
                   {/* <details open>
                     <summary>
                       As a Front End Engineer to create user-driven web
@@ -137,6 +138,11 @@ export default function About() {
                       </div>
                     </div>
                   </div> */}
+                </div>
+              </div>
+              <div className="col-lg-4 col-md-4 col-sm-12">
+                <div className="d-none d-lg-block" >
+                  <img src={profile} title="" alt="" style={{ maxHeight: "400px", borderRadius: "50%", border: "3px solid #fff" }} />
                 </div>
               </div>
             </div>

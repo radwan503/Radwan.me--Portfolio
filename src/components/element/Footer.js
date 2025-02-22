@@ -6,12 +6,9 @@ export default function Footer() {
       <div className="container">
         <div className="footer-text">
           <p className="m-0">
-            Made with{" "}
-            <span className="text-danger" style={{ fontSize: "20px" }}>
-              {" "}
-              ♥{" "}
-            </span>{" "}
-            in Bangladesh
+            Design &amp; Develop By{" "}
+
+            Radwan Ahmed Anik 😎
           </p>
           {/* <a href="#hero" id="scrollToTopBtn" className="back-to-top text-dark">
             ▲

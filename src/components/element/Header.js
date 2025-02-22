@@ -1,21 +1,17 @@
 import React from "react";
 import { Navbar, Nav } from "react-bootstrap";
-import { useLocation } from "react-router-dom";
-import { Link } from "react-router-dom/cjs/react-router-dom.min";
+import { Link, useLocation } from "react-router-dom";
 
 export default function Header() {
   const location = useLocation();
   const currentPath = location.pathname;
   const match = currentPath.match(/^\/[a-zA-Z]+/);
   const basePath = match ? match[0] : "/";
+
   console.log(basePath);
+
   return (
-    <Navbar
-      id="navbarId"
-      expand="lg"
-      className="bg-dark-blue py-2"
-      sticky="top"
-    >
+    <Navbar id="navbarId" expand="lg" className="bg-dark-blue py-2" sticky="top">
       <div className="container">
         <Navbar.Brand href="/" className="logo">
           <span className="logo-icon">R</span>
@@ -26,39 +22,37 @@ export default function Header() {
             {basePath !== "/preview" ? (
               <>
                 <li className="nav-item">
-                  <a className="nav-link" href={location == "/service" ? "/service" : "/"}>
+                  <a className="nav-link" href={currentPath === "/service" ? "/service" : "/"}>
                     ABOUT
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href={location == "/service" ? "/service" : "/#portfolio"}>
+                  <a className="nav-link" href={currentPath === "/service" ? "/service" : "/#portfolio"}>
                     PROJECT
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href={location == "/service" ? "/service" : "/#skill"}>
+                  <a className="nav-link" href={currentPath === "/service" ? "/service" : "/#skill"}>
                     SKILL
                   </a>
                 </li>
                 <li className="nav-item">
                   <Link className="nav-link" to="/service">
-                    SERVICE
+                    WHAT I DO
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href={location == "/service" ? "/service" : "/#contact"}>
+                  <a className="nav-link" href={currentPath === "/service" ? "/service" : "/#contact"}>
                     CONTACT
                   </a>
                 </li>
               </>
             ) : (
-              <>
-                <li className="nav-item">
-                  <a className="nav-link" href="/" title="Comming Soon">
-                    Blog
-                  </a>
-                </li>
-              </>
+              <li className="nav-item">
+                <a className="nav-link" href="/" title="Coming Soon">
+                  Blog
+                </a>
+              </li>
             )}
             <li className="nav-item">
               <a
