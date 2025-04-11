@@ -39,7 +39,7 @@ const Service = () => {
            <div class="service-block" style={{ "visibility": "visible" }}>
             <div class="ico fa fa-code highlight"><FaMagic /></div>
             <div class="text-block">
-             <div class="name">React Development</div>
+             <div class="name">React/Next Development</div>
              <div class="info">Quality code that lasts</div>
              <div class="text">Building scalable and efficient web applications using the React JavaScript library, known for its component-based architecture.</div>
             </div>

@@ -1,7 +1,9 @@
 import React, { useEffect } from "react";
-import { useLocation } from "react-router-dom";
+import { Router, useLocation,useNavigate } from "react-router-dom";
+import { FaArrowAltCircleLeft } from "react-icons/fa";
 const Preview = () => {
   const location = useLocation();
+  let navigate = useNavigate();
   console.log(location.state);
   const { detailsData } = location.state || {};
   console.log(detailsData);
@@ -30,7 +32,7 @@ const Preview = () => {
           <div className="hero-body">
             <div className="intro-content">
               <div className="welcome-title">
-                <p>CASE STUDY</p>
+                <div style={{width:"100%", display:"flex", justifyContent:"space-between",}}><p >CASE STUDY</p></div>
                 <h1 className="text-capitalize">
                   {detailsData.title[0]}
                   <br />

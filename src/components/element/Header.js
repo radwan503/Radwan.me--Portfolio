@@ -38,7 +38,7 @@ export default function Header() {
                 </li>
                 <li className="nav-item">
                   <Link className="nav-link" to="/service">
-                    WHAT I DO
+                    WHAT I OFFER
                   </Link>
                 </li>
                 <li className="nav-item">

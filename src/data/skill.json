@@ -1,16 +1,6 @@
 {
   "Web": [
     {
-      "name": "HTML5",
-      "percent": 90,
-      "image": "/icon/html-5.png"
-    },
-    {
-      "name": "CSS3",
-      "percent": 85,
-      "image": "/icon/css-3.png"
-    },
-    {
       "name": "JAVASCRIPT",
       "percent": 70,
       "image": "/icon/js.png"
@@ -23,6 +13,20 @@
     {
       "name": "NEXT JS",
       "percent": 50
+    }, 
+    {
+      "name": "Typescript",
+      "percent": 70
+    },
+    {
+      "name": "HTML5",
+      "percent": 90,
+      "image": "/icon/html-5.png"
+    },
+    {
+      "name": "CSS3",
+      "percent": 85,
+      "image": "/icon/css-3.png"
     },
     {
       "name": "SCSS",
@@ -41,11 +45,7 @@
       "name": "Antd",
       "percent": 0
     },
-    
-    {
-      "name": "Typescript",
-      "percent": 70
-    },
+
     {
       "name": "Context API",
       "percent": 70
@@ -92,6 +92,14 @@
     },
     {
       "name": "DSA",
+      "percent": 70
+    },
+    {
+      "name": "RWD",
+      "percent": 70
+    },
+    {
+      "name": "MFE",
       "percent": 70
     }
   ],

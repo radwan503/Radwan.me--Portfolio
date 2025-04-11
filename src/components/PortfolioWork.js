@@ -8,6 +8,7 @@ export default function PortfolioWork({ remote }) {
   const [tigerit, setTigerit] = useState([]);
   const [freelancer, setFreelancer] = useState([]);
   const [otherPort, setOther] = useState([]);
+  const [cityBankPort, setCityBank] = useState([]);
 
   /*pass data in deatils page*/
   const handleItemClick = (detailsData) => {
@@ -17,16 +18,18 @@ export default function PortfolioWork({ remote }) {
 
   useEffect(() => {
     const portfolio = Portfolio.Web;
+    const cityBank = Portfolio.CityBank;
     const remoteukr = Portfolio.RemoteUkraine;
     const tigerit = Portfolio.Tigerit;
     const freelance = Portfolio.Freelancer;
     const otherPort = Portfolio.Others;
     setPortfolio(portfolio);
+    setCityBank(cityBank);
     setremoteUkR(remoteukr);
     setTigerit(tigerit);
     setFreelancer(freelance)
     setOther(otherPort);
-  }, [portfolio, otherPort, remoteUkR, tigerit]);
+  }, [portfolio, otherPort, remoteUkR, tigerit,cityBankPort]);
 
 
 
@@ -53,6 +56,19 @@ export default function PortfolioWork({ remote }) {
           <li className="nav-item">
             <a
               className="nav-link"
+              id="pills-citybankportfolio-tab"
+              data-toggle="pill"
+              href="#pills-citybankportfolio"
+              role="tab"
+              aria-controls="pills-citybankportfolio"
+              aria-selected="false"
+            >
+              CITY BANK
+            </a>
+          </li>
+          <li className="nav-item">
+            <a
+              className="nav-link"
               id="pills-remoteportfolio-tab"
               data-toggle="pill"
               href="#pills-remoteportfolio"
@@ -60,7 +76,7 @@ export default function PortfolioWork({ remote }) {
               aria-controls="pills-remoteportfolio"
               aria-selected="false"
             >
-              Remote(Ukraine)
+              REMOTE(Ukraine)
             </a>
           </li>
           <li className="nav-item">
@@ -73,7 +89,7 @@ export default function PortfolioWork({ remote }) {
               aria-controls="pills-tigerit"
               aria-selected="false"
             >
-              Tiger IT
+              TIGER IT
             </a>
           </li>
           <li className="nav-item">
@@ -86,7 +102,7 @@ export default function PortfolioWork({ remote }) {
               aria-controls="pills-freelancer"
               aria-selected="false"
             >
-              Solo Hustler
+              FREELANCE
             </a>
           </li>
           <li className="nav-item">
@@ -99,7 +115,7 @@ export default function PortfolioWork({ remote }) {
               aria-controls="pills-otherportfolio"
               aria-selected="false"
             >
-              Free Template
+              FREE TEMPLATE
             </a>
           </li>
         </ul>
@@ -112,6 +128,67 @@ export default function PortfolioWork({ remote }) {
           >
             <div className="row">
               {portfolio.map((portfolioInfo) => {
+                return (
+                  <div className="col-md-4" key={portfolioInfo?.id}>
+                    <div className="card-deck">
+                      <div className="card mb-4 bg-blue" style={{ width: "100%" }}>
+                        <img className="product-preview-img" src={portfolioInfo?.previewImge} alt={portfolioInfo.name} />
+                        <div className="card-body">
+                          <div className="portfolio-details">
+                            <a
+                              href={portfolioInfo.demo ? portfolioInfo.demo : "#portfolio"}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <h5 className="card-title text-uppercase">{portfolioInfo.name}</h5>
+                            </a>
+                            <p className="card-text text-white text-capitalize">
+                              {portfolioInfo.description}
+                            </p>
+                            <div className="links d-flex justify-content-between align-items-center pt-2">
+                              <ul className="m-0 d-flex align-items-center">
+                                <li>
+                                  <button className="btn btn-outline-light" onClick={() => handleItemClick(portfolioInfo)}>
+                                    More Details</button>
+                                </li>
+                                {portfolioInfo?.source ?
+                                  <li>
+                                    <a
+                                      href={portfolioInfo?.source}
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                    >
+                                      <svg
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        fill="#ffffff"
+                                        width="24"
+                                        height="24"
+                                        viewBox="0 0 24 24"
+                                      >
+                                        <path d="M0 0v24h24v-24h-24zm14.534 19.59c-.406.078-.534-.171-.534-.384v-2.195c0-.747-.262-1.233-.55-1.481 1.782-.198 3.654-.875 3.654-3.947 0-.874-.311-1.588-.824-2.147.083-.202.357-1.016-.079-2.117 0 0-.671-.215-2.198.82-.639-.18-1.323-.267-2.003-.271-.68.003-1.364.091-2.003.269-1.528-1.035-2.2-.82-2.2-.82-.434 1.102-.16 1.915-.077 2.118-.512.56-.824 1.273-.824 2.147 0 3.064 1.867 3.751 3.645 3.954-.229.2-.436.552-.508 1.07-.457.204-1.614.557-2.328-.666 0 0-.423-.768-1.227-.825 0 0-.78-.01-.055.487 0 0 .525.246.889 1.17 0 0 .463 1.428 2.688.944v1.489c0 .211-.129.459-.528.385-3.18-1.057-5.472-4.056-5.472-7.59 0-4.419 3.582-8 8-8s8 3.581 8 8c0 3.533-2.289 6.531-5.466 7.59z" />
+                                      </svg>
+                                    </a>
+                                  </li> : ""}
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+
+          <div
+            className="tab-pane fade"
+            id="pills-citybankportfolio"
+            role="tabpanel"
+            aria-labelledby="pills-citybankportfolio-tab"
+          >
+            <div className="row">
+              {cityBankPort.map((portfolioInfo) => {
                 return (
                   <div className="col-md-4" key={portfolioInfo?.id}>
                     <div className="card-deck">

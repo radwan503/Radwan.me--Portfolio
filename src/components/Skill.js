@@ -109,15 +109,7 @@ export default function Skill() {
             </div>
 
             <div className="row">
-              <div className="col-md-4">
-                <div class="card skill-card bg-darkblue mb-4">
-                  <div class="card-body" style={{ padding: "1.25rem .5rem" }}>
-                    <div className="progress-header text-center clearfix">
-                      <h5 class="card-title" style={{ fontSize: "16px" }}>Responsive Design</h5>
-                    </div>
-                  </div>
-                </div>
-              </div>
+             
               <div className="col-md-4">
                 <div class="card skill-card  bg-darkblue mb-4">
                   <div class="card-body" style={{ padding: "1.25rem .5rem" }}>
@@ -145,6 +137,7 @@ export default function Skill() {
                   </div>
                 </div>
               </div>
+              
             </div>
           </div>
           <div

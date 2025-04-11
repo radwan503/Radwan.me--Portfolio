@@ -57,13 +57,13 @@ a:focus,
 a:focus,
 a:hover,
 .footer -menu li a:hover {
-  color: #2b96cc;
+  color: #fff;
   text-decoration: none;
 }
 
 a,
 button {
-  color: #1696e7;
+  color: #fff;
   outline: medium none;
 }
 
@@ -158,14 +158,14 @@ hr {
   outline: none !important;
 }
 
-.navbar-light .navbar-nav .nav-link {
+.navbar-nav .nav-link {
   color: #ffffff;
   font-size: 16px;
 }
 
-.navbar-light .navbar-nav .nav-link:focus,
-.navbar-light .navbar-nav .nav-link:hover {
-  color: #fff;
+.navbar-nav .nav-link:focus,
+.navbar-nav .nav-link:hover {
+  color: #484848;
 }
 
 .navbar-nav li.nav-item {
@@ -785,4 +785,20 @@ hr {
 .highlight {
   color: #6c757d;
   font-weight: bold;
+}
+.back-btn{
+  border:0px;
+  height:30px;
+  width:30px;
+  background-color:transparent;
+  margin:0px;
+  padding:0px;
+  box-shadow:none;
+  outline:none;
+  
+}
+button:focus,
+button:focus-visible{
+  border:0;
+  outline:none;
 }

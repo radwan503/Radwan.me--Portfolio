@@ -1,4 +1,444 @@
 {
+  "CityBank": [
+    {
+      "id": 1,
+      "type": "featured",
+      "name": "Customer-Helpdesk",
+      "image": "",
+      "description": "This new advanced system is introduced as Complaint System Management. This system is made more efficient as the Bank can now solve and address complaints and queries in an organized manner and can provide services with ease.",
+      "demo": "",
+      "source": "",
+      "previewImge": "/city-bank/cms-customer.png",
+      "title": [
+        "Helpdesk Revamp and",
+        "Complaint Management System"
+      ],
+      "subtitle": [
+        "helpdesk",
+        "management",
+        "Complaint"
+      ],
+      "topBanner": "/city-bank/cms-customer.png",
+      "images": [
+       
+      ],
+      "comparesion": {
+        "imgUrl": "/public/jmr/qcoom/change.png"
+      },
+      "client": "CITY BANK",
+      "techStack": [
+        "Next Js",
+        "Ant Design",
+        "scss"
+      ],
+      "workido": [
+        {
+          "title": "Features",
+          "subtitle": [
+            "Check Issue",
+            "User Journey of Query",
+            "User Journey of Complaint",
+            "User Journey of Service"
+          
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Next.js Development",
+          "subtitle": "Utilize Next.js for server-side rendering (SSR) and building scalable applications.Optimize applications for performance, Security, Auth, and user experience using Next.js features."
+        },
+        {
+          "title": "React.js Development",
+          "subtitle": "Building scalable and efficient web applications using the React JavaScript library, known for its component-based architecture."
+        },
+        {
+          "title": "State Management",
+          "subtitle": "Manage state using tools like Redux for complex applications.Implement stateful components and ensure efficient data flow."
+        },
+        {
+          "title": "Component-Based Architecture",
+          "subtitle": "Create reusable components for scalable and maintainable code."
+        },
+        {
+          "title": "API Integration",
+          "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Collaboration with Backend Developers",
+          "subtitle": "Collaborate with backend developers to integrate frontend and backend logic.Understand and work with RESTful APIs"
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "CI/CD Implementation",
+          "subtitle": "Learning CI/CD pipelines for automated testing and deployment.work with deployment tools to ensure smooth releases."
+        },
+        {
+          "title": "Monitoring and Debugging",
+          "subtitle": "Monitor application performance and address issues.Debug and troubleshoot issues reported during testing or production."
+        },
+        {
+          "title": "Code Quality and Testing",
+          "subtitle": "Conduct unit testing and integration testing to ensure code reliability."
+        },
+        {
+          "title": "Agile Development",
+          "subtitle": "Work within an Agile development environment, participating in sprint planning and daily stand-ups.Collaborate with cross-functional teams to deliver features on time."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "featured",
+      "name": "Helpdesk-Admin",
+      "image": "",
+      "description": "This new advanced system is introduced as Complaint System Management. This system is made more efficient as the Bank can now solve and address complaints and queries in an organized manner and can provide services with ease.",
+      "demo": "",
+      "source": "",
+      "previewImge": "/city-bank/cms-admin.png",
+      "title": [
+        "Helpdesk Revamp and",
+        "Complaint Management System"
+      ],
+      "subtitle": [
+        "helpdesk",
+        "management",
+        "Complaint"
+      ],
+      "topBanner": "/city-bank/cms-admin.png",
+      "images": [
+       
+      ],
+      "comparesion": {
+        "imgUrl": "/city-bank/cms-admin.png"
+      },
+      "client": "CITY BANK",
+      "techStack": [
+        "Next Js",
+        "Ant Design",
+        "scss"
+      ],
+      "workido": [
+        {
+          "title": "Features",
+          "subtitle": [
+            "CMS Dashboard",
+            "Common Ticket generation for Complaint Management and Helpdesk",
+            "Helpdesk Global Dashboard",
+            "User Journey of Service"
+          
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Next.js Development",
+          "subtitle": "Utilize Next.js for server-side rendering (SSR) and building scalable applications.Optimize applications for performance, Security, Auth, and user experience using Next.js features."
+        },
+        {
+          "title": "React.js Development",
+          "subtitle": "Building scalable and efficient web applications using the React JavaScript library, known for its component-based architecture."
+        },
+        {
+          "title": "State Management",
+          "subtitle": "Manage state using tools like Redux for complex applications.Implement stateful components and ensure efficient data flow."
+        },
+        {
+          "title": "Component-Based Architecture",
+          "subtitle": "Create reusable components for scalable and maintainable code."
+        },
+        {
+          "title": "API Integration",
+          "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Collaboration with Backend Developers",
+          "subtitle": "Collaborate with backend developers to integrate frontend and backend logic.Understand and work with RESTful APIs"
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "CI/CD Implementation",
+          "subtitle": "Learning CI/CD pipelines for automated testing and deployment.work with deployment tools to ensure smooth releases."
+        },
+        {
+          "title": "Monitoring and Debugging",
+          "subtitle": "Monitor application performance and address issues.Debug and troubleshoot issues reported during testing or production."
+        },
+        {
+          "title": "Code Quality and Testing",
+          "subtitle": "Conduct unit testing and integration testing to ensure code reliability."
+        },
+        {
+          "title": "Agile Development",
+          "subtitle": "Work within an Agile development environment, participating in sprint planning and daily stand-ups.Collaborate with cross-functional teams to deliver features on time."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "featured",
+      "name": "CITY LIVE",
+      "image": "",
+      "description": "City Live (Digital Corporate Internet Banking)",
+      "demo": "",
+      "source": "",
+      "previewImge": "/city-bank/city-live.png",
+      "title": [
+        "Corporate",
+        "Internet Banking"
+      ],
+      "subtitle": [
+        "Digital",
+        "Corporate",
+        "Banking"
+      ],
+      "topBanner": "/city-bank/city-live.png",
+      "images": [
+       
+      ],
+      "comparesion": {
+        "imgUrl": "/city-bank/city-live.png"
+      },
+      "client": "CITY BANK",
+      "techStack": [
+        "Next Js",
+        "Ant Design",
+        "scss"
+      ],
+      "workido": [
+        {
+          "title": "Features",
+          "subtitle": [
+            "Dashboard",
+            "Company Setup",
+            "Company Member Setup",
+            "Company Transaction Rule",
+            "NPSB",
+            "A-challan",
+            "Transaction Status"
+          
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Next.js Development",
+          "subtitle": "Utilize Next.js for server-side rendering (SSR) and building scalable applications.Optimize applications for performance, Security, Auth, and user experience using Next.js features."
+        },
+        {
+          "title": "React.js Development",
+          "subtitle": "Building scalable and efficient web applications using the React JavaScript library, known for its component-based architecture."
+        },
+        {
+          "title": "State Management",
+          "subtitle": "Manage state using tools like Redux for complex applications.Implement stateful components and ensure efficient data flow."
+        },
+        {
+          "title": "Component-Based Architecture",
+          "subtitle": "Create reusable components for scalable and maintainable code."
+        },
+        {
+          "title": "API Integration",
+          "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Collaboration with Backend Developers",
+          "subtitle": "Collaborate with backend developers to integrate frontend and backend logic.Understand and work with RESTful APIs"
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "CI/CD Implementation",
+          "subtitle": "Learning CI/CD pipelines for automated testing and deployment.work with deployment tools to ensure smooth releases."
+        },
+        {
+          "title": "Monitoring and Debugging",
+          "subtitle": "Monitor application performance and address issues.Debug and troubleshoot issues reported during testing or production."
+        },
+        {
+          "title": "Code Quality and Testing",
+          "subtitle": "Conduct unit testing and integration testing to ensure code reliability."
+        },
+        {
+          "title": "Agile Development",
+          "subtitle": "Work within an Agile development environment, participating in sprint planning and daily stand-ups.Collaborate with cross-functional teams to deliver features on time."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "featured",
+      "name": "LWF-CARD",
+      "image": "",
+      "description": "Application development/customization for Credit card creation",
+      "demo": "",
+      "source": "",
+      "previewImge": "/city-bank/lwf-card.png",
+      "title": [
+        "Corporate",
+        "Internet Banking"
+      ],
+      "subtitle": [
+        "Digital",
+        "Corporate",
+        "Banking"
+      ],
+      "topBanner": "/city-bank/lwf-card.png",
+      "images": [
+       
+      ],
+      "comparesion": {
+        "imgUrl": "/city-bank/lwf-card.png"
+      },
+      "client": "CITY BANK",
+      "techStack": [
+        "Next Js",
+        "Ant Design",
+        "scss"
+      ],
+      "workido": [
+        {
+          "title": "Features",
+          "subtitle": [
+            "Dashboard",
+            "Company Setup",
+            "Company Member Setup",
+            "Company Transaction Rule",
+            "NPSB",
+            "A-challan",
+            "Transaction Status"
+          
+          ]
+        },
+        {
+          "title": "Pages",
+          "subtitle": [
+            
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "title": "Frontend Development",
+          "subtitle": "Develop modern, responsive, and dynamic user interfaces using reactjs, nextjs, html, css, javascript, scss, bootstrap, antd, context etc.Implement user interface components and features based on design specifications."
+        },
+        {
+          "title": "Next.js Development",
+          "subtitle": "Utilize Next.js for server-side rendering (SSR) and building scalable applications.Optimize applications for performance, Security, Auth, and user experience using Next.js features."
+        },
+        {
+          "title": "React.js Development",
+          "subtitle": "Building scalable and efficient web applications using the React JavaScript library, known for its component-based architecture."
+        },
+        {
+          "title": "State Management",
+          "subtitle": "Manage state using tools like Redux for complex applications.Implement stateful components and ensure efficient data flow."
+        },
+        {
+          "title": "Component-Based Architecture",
+          "subtitle": "Create reusable components for scalable and maintainable code."
+        },
+        {
+          "title": "API Integration",
+          "subtitle": "Integrate with external APIs and third-party services.Fetch and manage data from backend services for dynamic content."
+        },
+        {
+          "title": "Responsive Design",
+          "subtitle": "Ensure cross-browser compatibility and responsiveness across various devices."
+        },
+        {
+          "title": "Collaboration with Backend Developers",
+          "subtitle": "Collaborate with backend developers to integrate frontend and backend logic.Understand and work with RESTful APIs"
+        },
+        {
+          "title": "Performance Optimization",
+          "subtitle": "Identify and address performance bottlenecks in the application.Optimize code for faster load times and improved user experience."
+        },
+        {
+          "title": "Version Control",
+          "subtitle": "Use version control systems (e.g., Git) effectively for collaborative development.Participate in code reviews to ensure code quality."
+        },
+        {
+          "title": "CI/CD Implementation",
+          "subtitle": "Learning CI/CD pipelines for automated testing and deployment.work with deployment tools to ensure smooth releases."
+        },
+        {
+          "title": "Monitoring and Debugging",
+          "subtitle": "Monitor application performance and address issues.Debug and troubleshoot issues reported during testing or production."
+        },
+        {
+          "title": "Code Quality and Testing",
+          "subtitle": "Conduct unit testing and integration testing to ensure code reliability."
+        },
+        {
+          "title": "Agile Development",
+          "subtitle": "Work within an Agile development environment, participating in sprint planning and daily stand-ups.Collaborate with cross-functional teams to deliver features on time."
+        }
+      ]
+    }
+  ],
   "Web": [
     {
       "id": 1,
@@ -6,7 +446,7 @@
       "name": "QCOOM-ECOMMERCE",
       "image": "",
       "description": "Qcoom is an e-commerce site which provides every kind of goods and products from every sector to every consumer located in Bangladesh. The world’s market place will be only finger-tips away for any customer in possession of a smartphone/computer and an internet connection. They will be able to purchase everything from our website.",
-      "demo": "https://qcoom.com.bd/",
+      "demo": "https://qcoom.com/",
       "source": "",
       "previewImge": "/jmr/qcoom.png",
       "title": [
@@ -2428,6 +2868,7 @@
       ]
     }
   ],
+  
   "Freelancer": [
     {
       "id": 1,

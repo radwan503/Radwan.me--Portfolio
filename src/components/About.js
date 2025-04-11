@@ -35,12 +35,31 @@ export default function About() {
                     {infoData.aboutDescription}
                   </p>
                   <p>
-                    Seasoned Software Engineer with a robust background in crafting dynamic web solutions. Offering almost 5 years of hands-on experience specializing in React JS, Next JS, JavaScript and HTML5/CSS3.
-                  </p>
-
+                    Experienced Software Engineer with 5+ years of expertise in React.js, Next.js, JavaScript, TypeScript, and modern web technologies.
+                  </p> 
                   <p>
-                    Proven expertise in developing and redesigning diverse platforms, including <mark> E-commerce </mark>, <mark>Food Delivery</mark>,<mark> HRM </mark>,<mark> Doctor Appointmant </mark> and <mark> admin panels </mark> etc. Excels in mentoring junior developers and driving innovative solutions to meet and exceed project goals. Committed to staying abreast of emerging technologies to ensure cutting-edge development in alignment with industry best practices.
+                    Currently, I work as a Senior Software Engineer at <strong>City Bank</strong>, developing and maintaining responsive web applications for online banking and financial services.
                   </p>
+                  <p>
+                    Previously, I was a Software Engineer in a <strong>Ukraine-based software company</strong>, where I successfully delivered 10+ interactive and responsive websites, ensuring pixel-perfect UI implementation.  
+                    My role included conducting code reviews, optimizing UI consistency across devices, and exploring emerging web technologies to enhance future-proof solutions.
+                  </p>
+                  <details>
+                    <summary>Read more about me</summary>
+                  <p>
+                    Before that, I worked at <strong>QCOOM</strong> (an e-commerce-based company) as a Software Engineer (Front-End), contributing to e-commerce, food delivery, and courier service platforms.
+                  </p>
+                  <p>
+                    Before that, I was a Front-End Engineer at <strong>Tiger IT Bangladesh Ltd</strong>, collaborating on multiple HRM, task management, and cross-platform applications while integrating RESTful APIs.
+                  </p>
+                  <p>
+                    Skilled in UI/UX optimization, performance enhancement, mentoring junior developers, and implementing best practices for accessibility. Passionate about building efficient, scalable, and visually appealing web solutions.
+                  </p>
+                  <p>
+                    I have worked on various projects, including <strong>national</strong>, <strong>international</strong>, and <strong>freelance</strong> assignments, covering diverse domains such as finance, e-commerce, HRM, and task management. My experience includes collaborating with teams across different regions, ensuring smooth development and deployment across multiple platforms.
+                  </p>
+                  </details>
+
 
                   {/* <details open>
                     <summary>

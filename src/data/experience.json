@@ -1,29 +1,32 @@
 {
     "experience": [
         {
-            "year": "June 2024 - Present (Software Engineer-(Front-End))",
-            "companyName": "QCOOM",
-            "location": "Dhaka,Bangladesh",
-            "role1": "Implemented efficient data fetching strategies from APIs and databases, facilitating dynamic content display and real-time updates.",
-            "role2": "Spearheaded the development and redesign of e-commerce, food delivery, courier service, and admin panel websites, achieving a seamless user experience for a diverse user base.",
-            "role3": "Leveraged cutting-edge technologies such as React, Next, Tailwind, and other frameworks to implement innovative features and elevate platform performance.",
-            "role4": "Ensured robust cross-browser compatibility and responsive design, optimizing user engagement across various devices.",
-            "role5": "Collaborated closely with cross-functional teams, including designers, developers, and stakeholders, to achieve project milestones.",
-            "role6": "Mentored and guided junior developers, fostering skill enhancement and a collaborative team environment",
+            "year": "June 2024 - Present (Senior Software Engineer-(Front-End))",
+            "companyName": "CITY BANK",
+            "location": "Dhaka, Bangladesh",
+            "role1": "Develop and maintain secure, scalable, and high-performance financial web applications for online banking services.",
+            "role2": "Lead the front-end development of banking platforms, ensuring compliance with security protocols and best practices.",
+            "role3": "Optimize application performance, accessibility, and user experience across multiple devices and browsers.",
+            "role4": "Implement robust authentication mechanisms, integrating JWT, and multi-factor authentication (MFA).",
+            "role5": "Collaborate with UI/UX designers to translate wireframes and prototypes into responsive, pixel-perfect interfaces.",
+            "role6": "Integrate complex banking APIs, third-party services, and payment gateways to streamline financial transactions.",
+            "role7": "Ensure WCAG-compliant accessibility features to enhance usability for all users, including those with disabilities.",
+            "role8": "Mentor junior developers, conduct code reviews, and promote best coding practices within the development team.",
+            "role9": "Work closely with product managers, QA engineers, and back-end developers to deliver high-quality, error-free solutions.",
             "techStack": [
                 {
                     "stack1": "REACT JS",
                     "stack2": "NEXT JS",
-                    "stack3": "SCSS",
+                    "stack3": "TYPESCRIPT",
                     "stack4": "ANT DESIGN",
                     "stack5": "CSS3"
                 }
             ]
         },
         {
-            "year": "January 2023 - Present (Software Engineer-(Front-End))",
+            "year": "January 2023 - June 2024 (Software Engineer-(Front-End))",
             "companyName": "QCOOM",
-            "location": "Dhaka,Bangladesh",
+            "location": "Dhaka, Bangladesh",
             "role1": "Implemented efficient data fetching strategies from APIs and databases, facilitating dynamic content display and real-time updates.",
             "role2": "Spearheaded the development and redesign of e-commerce, food delivery, courier service, and admin panel websites, achieving a seamless user experience for a diverse user base.",
             "role3": "Leveraged cutting-edge technologies such as React, Next, Tailwind, and other frameworks to implement innovative features and elevate platform performance.",
@@ -43,7 +46,7 @@
         {
             "year": "May 2019 - Jan 2023 (Front-End Engineer)",
             "companyName": "TigerIT Bangladesh Ltd.",
-            "location": "Dhaka,Bangladesh",
+            "location": "Dhaka, Bangladesh",
             "role1": "Collaborated seamlessly with design, product, and back-end teams to conceptualize and deliver multiple web and cross-platform products.",
             "role2": "Spearheaded a remarkable 95% improvement in Performance, Accessibility, and SEO, surpassing Lighthouse standards.",
             "role3": "Developed a robust admin system for managing 300+ employee details using a combination of HTML, CSS, and JS.",
@@ -62,8 +65,8 @@
         {
             "year": "June 2023 - Nov 2023 (Front-End Engineer)",
             "companyName": "Remote(Contractual)",
-            "location": "Ukraine,kyiv",
-            "role1": "Successfully delivered 8+ responsive and interactive React, HTML, CSS, and JavaScript websites, showcasing meticulous attention to pixel-perfect UI implementation",
+            "location": "Ukraine, Kyiv",
+            "role1": "Successfully delivered 8+ responsive and interactive React, HTML, CSS, and JavaScript websites, showcasing meticulous attention to pixel-perfect UI implementation.",
             "role2": "Ensured consistent and flawless UI design across various devices, emphasizing a visually appealing and user-friendly experience.",
             "role3": "Led comprehensive code reviews, offering constructive feedback to enhance overall codebase quality.",
             "role4": "Played a key role in project planning and decision-making processes, contributing to technical strategies.",
