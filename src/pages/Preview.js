@@ -21,6 +21,10 @@ const Preview = () => {
   //   };
   // }, []);
 
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   if (!detailsData) {
     return <div>No Item Data</div>;
   }
